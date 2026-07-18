@@ -364,13 +364,23 @@ export default function Home() {
   const [savedComments, setSavedComments] = useState<Array<{ name: string; body: string; date: string }>>([]);
 
   useEffect(() => {
-    fetch("/data/live.json", { cache: "no-store" })
-      .then(async (response) => {
-        if (!response.ok) throw new Error("Live data unavailable");
-        return (await response.json()) as LiveData;
-      })
-      .then((payload) => setData(payload))
-      .catch(() => undefined);
+    const loadLiveData = async () => {
+      const endpoints = [
+        "https://raw.githubusercontent.com/BREXAtlas/emergingoutbreaks/main/public/data/live.json",
+        "/data/live.json",
+      ];
+      for (const endpoint of endpoints) {
+        try {
+          const response = await fetch(endpoint, { cache: "no-store" });
+          if (!response.ok) continue;
+          setData((await response.json()) as LiveData);
+          break;
+        } catch {
+          // Try the bundled last-known-good snapshot next.
+        }
+      }
+    };
+    void loadLiveData();
     try {
       const stored = localStorage.getItem("outbreak-atlas-comments");
       if (stored) setSavedComments(JSON.parse(stored));
