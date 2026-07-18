@@ -1,0 +1,254 @@
+{
+  "generatedAt": "2026-07-18T18:44:45Z",
+  "alert": {
+    "level": "high",
+    "score": 78,
+    "reason": "An official food safety alert is open, the response spans multiple jurisdictions, and source investigation is incomplete."
+  },
+  "national": {
+    "confirmedDomestic": 1645,
+    "hospitalizations": 141,
+    "deaths": 0,
+    "statesReporting": 34,
+    "asOf": "2026-07-13",
+    "pageUpdated": "2026-07-15",
+    "reportingLagWeeks": 6,
+    "source": "CDC Cyclosporiasis Surveillance",
+    "sourceUrl": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
+  },
+  "linkedOutbreak": {
+    "cases": 1644,
+    "hospitalizations": 94,
+    "deaths": 0,
+    "states": [
+      "IN",
+      "KY",
+      "MI",
+      "OH",
+      "WV"
+    ],
+    "lastOnset": "2026-07-13",
+    "product": "Shredded iceberg lettuce from Taylor Farms de Mexico served at some Taco Bell locations",
+    "status": "Open",
+    "asOf": "2026-07-17",
+    "source": "FDA outbreak advisory",
+    "sourceUrl": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigation-5-state-outbreak-cyclospora-illnesses-iceberg-lettuce-july-2026"
+  },
+  "mapSignals": [
+    {
+      "city": "Detroit",
+      "state": "MI",
+      "lat": 42.3314,
+      "lon": -83.0458,
+      "level": "high",
+      "label": "Michigan reported 2,640 state-level cases by July 13; state reports can include probable cases and may exceed the federal confirmed count.",
+      "scope": "State-reported; not a facility count",
+      "source": "Michigan DHHS",
+      "sourceUrl": "https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/13/cyclo-3"
+    },
+    {
+      "city": "Monroe",
+      "state": "MI",
+      "lat": 41.9164,
+      "lon": -83.3977,
+      "level": "high",
+      "label": "An early Southeast Michigan cluster prompted local and state investigation and provider alerts.",
+      "scope": "Official local cluster signal",
+      "source": "Monroe County Health Department",
+      "sourceUrl": "https://www.co.monroe.mi.us/DocumentCenter/View/6114/MCHD-cyclosporiasis-PR-6292026?bidId="
+    },
+    {
+      "city": "Columbus",
+      "state": "OH",
+      "lat": 39.9612,
+      "lon": -82.9988,
+      "level": "high",
+      "label": "Ohio is one of five states in the federally identified lettuce-linked outbreak.",
+      "scope": "Federal outbreak state",
+      "source": "CDC outbreak advisory",
+      "sourceUrl": "https://www.cdc.gov/cyclosporiasis/outbreaks/07-26/index.html"
+    },
+    {
+      "city": "Toledo",
+      "state": "OH",
+      "lat": 41.6528,
+      "lon": -83.5379,
+      "level": "high",
+      "label": "Northwest Ohio is within the multi-jurisdiction response area; exact local counts should be checked with ODH.",
+      "scope": "Regional investigation signal",
+      "source": "Ohio Department of Health advisory",
+      "sourceUrl": "https://www.scph.org/news/odh-director-dr-vanderhoff-take-precautions-cyclosporiasis-can-be-serious-illness"
+    },
+    {
+      "city": "Louisville",
+      "state": "KY",
+      "lat": 38.2527,
+      "lon": -85.7585,
+      "level": "high",
+      "label": "Kentucky is one of five states in the federally identified lettuce-linked outbreak.",
+      "scope": "Federal outbreak state",
+      "source": "FDA outbreak advisory",
+      "sourceUrl": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigation-5-state-outbreak-cyclospora-illnesses-iceberg-lettuce-july-2026"
+    },
+    {
+      "city": "Charleston",
+      "state": "WV",
+      "lat": 38.3498,
+      "lon": -81.6326,
+      "level": "high",
+      "label": "West Virginia is one of five states in the federally identified lettuce-linked outbreak.",
+      "scope": "Federal outbreak state",
+      "source": "CDC outbreak advisory",
+      "sourceUrl": "https://www.cdc.gov/cyclosporiasis/outbreaks/07-26/index.html"
+    },
+    {
+      "city": "Indianapolis",
+      "state": "IN",
+      "lat": 39.7684,
+      "lon": -86.1581,
+      "level": "high",
+      "label": "Indiana reports increased cyclosporiasis activity and is included in the five-state federal outbreak.",
+      "scope": "Official state and federal signal",
+      "source": "Indiana Department of Health",
+      "sourceUrl": "https://www.in.gov/health/idepd/diseases-and-conditions-resource-page/cyclosporiasis/"
+    },
+    {
+      "city": "San Antonio",
+      "state": "TX",
+      "lat": 29.4241,
+      "lon": -98.4936,
+      "level": "medium",
+      "label": "Texas has reported 2026 cases, but this city marker is a monitoring signal and is not part of the five-state lettuce advisory.",
+      "scope": "Monitoring; no patient-level location",
+      "source": "CDC national surveillance",
+      "sourceUrl": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
+    },
+    {
+      "city": "Tampa",
+      "state": "FL",
+      "lat": 27.9506,
+      "lon": -82.4572,
+      "level": "medium",
+      "label": "Florida reports seasonal cases; this signal is not evidence of linkage to the five-state lettuce outbreak.",
+      "scope": "State monitoring signal",
+      "source": "CDC national surveillance",
+      "sourceUrl": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
+    },
+    {
+      "city": "Baltimore",
+      "state": "MD",
+      "lat": 39.2904,
+      "lon": -76.6122,
+      "level": "watch",
+      "label": "Mid-Atlantic cases have been publicly reported, but no common source is identified here.",
+      "scope": "Watch signal",
+      "source": "CDC national surveillance",
+      "sourceUrl": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
+    },
+    {
+      "city": "Seattle",
+      "state": "WA",
+      "lat": 47.6062,
+      "lon": -122.3321,
+      "level": "watch",
+      "label": "Washington officials said they were not seeing a suspected common source or outbreak signal as of July 17.",
+      "scope": "Watch / negative signal",
+      "source": "State statement reported by Axios",
+      "sourceUrl": "https://www.axios.com/local/seattle/2026/07/17/what-washingtonians-should-know-about-the-cyclospora-outbreak"
+    }
+  ],
+  "news": [
+    {
+      "title": "Taylor Farms de Mexico to remove central-Mexico iceberg lettuce from the U.S. market",
+      "source": "FDA",
+      "sourceType": "official",
+      "published": "2026-07-17T18:00:00Z",
+      "url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigation-5-state-outbreak-cyclospora-illnesses-iceberg-lettuce-july-2026",
+      "summary": "Federal traceback converged on one supplier for the lettuce-linked subset. The broader national case total includes illnesses not tied to this outbreak."
+    },
+    {
+      "title": "CDC issues five-state food safety alert for shredded iceberg lettuce",
+      "source": "CDC",
+      "sourceType": "official",
+      "published": "2026-07-17T15:00:00Z",
+      "url": "https://www.cdc.gov/cyclosporiasis/outbreaks/07-26/index.html",
+      "summary": "CDC advises people not to eat implicated shredded iceberg lettuce served at some Taco Bell locations in IN, KY, MI, OH, and WV."
+    },
+    {
+      "title": "Michigan updates prevention recommendations as reports rise",
+      "source": "Michigan DHHS",
+      "sourceType": "official",
+      "published": "2026-07-13T16:00:00Z",
+      "url": "https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2026/07/13/cyclo-3",
+      "summary": "Michigan reported 2,640 cases at the state level and reiterated the need for Cyclospora-specific testing."
+    },
+    {
+      "title": "Cyclosporiasis in Children: Symptoms, Treatment & Prevention - HealthyChildren.org",
+      "source": "HealthyChildren.org",
+      "sourceType": "newsroom",
+      "published": "2026-07-18T09:05:23Z",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVmFScDhoY1p0TFMtZms4Tm1feDZhVEoxNUlmQmY1YU40bHZ3Q1Q2SGFyems3VTlEa2UtNndjcnliN1I4OTh5T3lsbGVGN2NxdnZJVmdJX29QZFhXSzR3VTUxbS1TWUFCMEM3cTU3d1lnVDhaZlRqeVdhWlIwQTdlUk5YUUljM0NlTmtodGJDN2dnMmxmRmNoZTFxUHNWNzlZSVR3VnU5ZDd5RFJvM3YwbzRfamk3b3podVdRLTNTTlJVYWRDNUZyUVRqbl9BZ3Z4b0k5Mjd3XzNyRHRUVGYwZQ?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "How The Cyclospora Parasite Spreads—And How To Protect Yourself - Forbes",
+      "source": "Forbes",
+      "sourceType": "newsroom",
+      "published": "2026-07-18T11:45:49Z",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYURVbG5DMHBoSlZBa3Brdk03R1hrbTVHWFBia2psS2JTS2RVQUlkZk5hcDlsMzV2Y2lZUk82cjBicmNaWE5ST3A4NFhSTERPbktpdlBDTGFQbDBxVnJPdldzclBNbV9iMnR1U1ZwVUtlQmhUcHVxRndzdTBIMlc0MEVyS3N3aWlQMkFJZ01mTnREclZFcWNQMDR3?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "Trump’s deep public health cuts hinder response to record US cyclosporiasis outbreak - The Guardian",
+      "source": "The Guardian",
+      "sourceType": "newsroom",
+      "published": "2026-07-18T14:51:00Z",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZUpQV0FvWlJKV1VnTWt5M2dDODM3S01TOFM3VHpqMUF6NU44UVd6cVdEZmtLcS1xclpiNG1OXzRQWDVsZmZ5YUhwVVdOOHl5eDJVbmkyamU3YWZ0NGk5NzdZNFFFMEV0TGJ4aFhlaXJNYXhCNGtPdEZYUHJZWkFnT0U1Yw?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "Q&A: Cyclospora outbreak - Medical Xpress",
+      "source": "Medical Xpress",
+      "sourceType": "newsroom",
+      "published": "2026-07-18T18:00:04Z",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04QzN0djRvd1Q0YUhGM2FxZjU4b25nUEs2b0xZSTVoQnlZZkx3TDRsMmg1b0FPbDBVOF9EaVpwang0RlpKM19hQnJRcFBxSVRfTEhaTnBYTzFBZ0FxeE1xWkdCeHRLYkhBRDQ4UlJieWtLNTVY?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "What fruits and vegetables are safe from Cyclospora? Foods to avoid - Asbury Park Press",
+      "source": "Asbury Park Press",
+      "sourceType": "newsroom",
+      "published": "2026-07-18T14:10:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOUFKbGtfcUk4SzFibzV3TWMwYnNGd2VoWEhUMzJYRVI5OXQ1eUlNTjJTZEZ2WnM0UGxTMWlxbGoyWTBIYkxWaXdrWVdzWDNNSENyal95U2R5RERYSTY2aWxzTjh3aGNWSmstd3hmdnM2UUF3a192UWJjOTR5M0dsckVCRXNmRFZER0taUjJjcVRadkx5QlFoMVdmYjRjOEE2YVE?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "So you think you caught cyclospora, the diarrhea-causing parasite. Here’s what to do next - CNN",
+      "source": "CNN",
+      "sourceType": "newsroom",
+      "published": "2026-07-18T10:30:25Z",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2Q2xaUldVNE5MYTFoR0ZNeEFFbk9ETEl6a2RCZEtKTmJaUndjQW5HQUJnZUdRdjl6S3kyUkVfS1AyNFFrc0FQQmcxZkI4S0ZSTDhSLTBkNWNuTThyVVJPYllQWU9fajh1XzZWWkZYUG0wM1l0emUw?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "South Carolina reports 23 cyclosporiasis cases but says they're not being investigated as an outbreak - WLTX",
+      "source": "WLTX",
+      "sourceType": "newsroom",
+      "published": "2026-07-18T16:31:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWlJKYkNDYVpyLWhWdlJWWkRPblVxOXotcHVYNUdaQTFPRnluR3V4ek5vSUp4UW43ZThROVBvWTRwM3lrMGl5c3JwcmdvWGxhUmU3SlhnQjlOT2lLSmFVSjM1cG9oNGNGNXFjbHVNdl9MR3lUWUZkdzBtLXo2dnRUZXgxVUY0X0VOaFVtWkpjRTZ2M1BSZkpXU3FIamZCb3VHRHZpTGYxTDdITk9INFNhUW1IRnI1aVBEOWhuUzJpYURib3o5OUIwVw?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    }
+  ],
+  "blog": {
+    "date": "2026-07-18",
+    "window": "News published on July 17, 2026",
+    "title": "News in Reverse: start with the verified scope",
+    "dek": "Yesterday’s public feed contained 1 indexed item(s). The daily brief works backward from official scope before adding headlines.",
+    "paragraphs": [
+      "The headline trail, newest first: Lettuce at Taco Bell in 5 states confirmed as a source of diarrhea-causing parasite.",
+      "The stable reference point remains 1,645 federally confirmed domestically acquired cases across 34 reporting states. State totals may be newer, broader, or include probable cases.",
+      "The current federal source finding applies to a large five-state lettuce-linked subset. Water remains a possible general transmission route, but the current CDC and FDA pages do not identify a municipal water system as this outbreak’s source."
+    ],
+    "method": "Automatically assembled from RSS headline metadata plus the latest saved CDC/FDA figures. It does not copy article bodies, diagnose illness, or convert headlines into case counts."
+  }
+}
