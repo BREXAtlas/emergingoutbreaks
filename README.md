@@ -1,6 +1,8 @@
 # Outbreak Atlas — Cyclospora Situation Desk
 
-An evidence-led U.S. Cyclospora tracker from BREXAtlas. The site separates federal confirmed surveillance, state reports, a specific linked outbreak, independent news, and unverified community chatter so unlike totals are never silently combined.
+An evidence-led U.S. Cyclospora outbreak tracker from BREXAtlas. The site separates federal confirmed surveillance, state reports, a specific linked outbreak, independent news, and unverified community chatter so unlike totals are never silently combined.
+
+Original repository note: “Outbreak track.”
 
 ## What is included
 
@@ -41,6 +43,10 @@ To run the refresh manually:
 python scripts/update_data.py
 node scripts/validate-live-data.mjs
 ```
+
+## Test
+
+The `Validate website` GitHub Action installs the locked dependencies, builds the site, server-renders the finished page, and validates the live data contract on every push and pull request.
 
 ## Medical and data disclaimer
 
