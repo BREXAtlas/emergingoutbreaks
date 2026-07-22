@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-21T12:43:18Z",
+  "generatedAt": "2026-07-22T12:46:04Z",
   "alert": {
     "level": "high",
-    "score": 78,
+    "score": 81,
     "reason": "An official food safety alert is open, the response spans multiple jurisdictions, and source investigation is incomplete."
   },
   "national": {
     "confirmedDomestic": 1645,
     "hospitalizations": 141,
     "deaths": 0,
-    "statesReporting": 34,
+    "statesReporting": 41,
     "asOf": "2026-07-13",
     "pageUpdated": "2026-07-15",
     "reportingLagWeeks": 6,
@@ -183,70 +183,70 @@
       "summary": "Michigan reported 2,640 cases at the state level and reiterated the need for Cyclospora-specific testing."
     },
     {
-      "title": "Iran-backed Houthis announce blockade. And, Cyclospora source remains unknown - NPR",
-      "source": "NPR",
+      "title": "Cyclosporiasis outbreak surpasses 560 cases in North Carolina - NC Newsline",
+      "source": "NC Newsline",
       "sourceType": "newsroom",
-      "published": "2026-07-21T11:12:41Z",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSzFhZ2NRT19NUFdsaEtiWVRKSmxTRGozck9ER3NHSXhZTU9ENDZRNktyQmNqTS12SWhiLWtnaVBZQ0pJMHVyTnRjWlpMRno3elA4eENyLTFFLW9EVjN2RTM0bmN0QV9IZWZETnU1UGxYcVhFdDlBQXpOdDl6czVXa2NkekxMQkF6TGNvejl1UUN5d0JYTjZxZVpYdHNocDg1V1dSbjUxR0c5bEhMMGpqbExzb29FSGlwR1FGVS1B?oc=5",
+      "published": "2026-07-21T22:29:22Z",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUmphblBLTFNDeDVRM2w3bG1lZTA5clFCdjJhU0hkNnhnbVAyb21qR2FaRW56OWh2WHN4bW1IZVVnUFEwaW12UDBYYkRxZ204UlBrX3VLaFlhTTQ3X2l0Qi0xXzg3T1hpQktidTBTaDNkWFJUdG9YUnkxbVdqejN1RkFnN3ZYTmVIdTR3NDFLUUdETDJmWDZldms0cjQ?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "Cyclospora Spreads Through Human Feces. How Did It Get Into Our Food Supply? - The New York Times",
+      "title": "Cyclospora Outbreak: Answers to Your Most Common Questions - NC State University",
+      "source": "NC State University",
+      "sourceType": "newsroom",
+      "published": "2026-07-21T16:38:19Z",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMTdsQXlrVEMwdnV6Y1BhUTM4T1BXZ3JMNXg3Q2tSSWpJbDRuSHc0enBiMmZoYnJIdU9WZFp0ZkcyU3htTE9wQ1ZCYmhGekRzLW9Cem1XTmQ1cG5VR0ZZS3VTZ0dEN0JtbDhONlpBMml3Ujhjd3BNSVB1MFMxVktNdjY5SkFrOWxqdE50TUhn?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "Cyclospora Cases in the U.S. Hit Record High - The New York Times",
       "source": "The New York Times",
       "sourceType": "newsroom",
-      "published": "2026-07-21T09:03:33Z",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTmt0UU85Rk1MUEVNM3ZuamZzN2FmOS1PYUVoV0RIZUVvMVV2SmFkRXNBZW9GMHhXUmMwdDVJeUtfWnFhYUMxVXRYVENwVFUwZGJXWWoxd3JMQURyUkdVRlFwMlZxV3hrYTYwMTVYNHU5dDN3WDJ1N243akNsSFdGeGtjc0hVbzVy?oc=5",
+      "published": "2026-07-21T23:06:06Z",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXNHJCUjlxTDFmMmVlYVpUUDhkbXF0clR2WGhJTUNhNzRuR0QzQ05KLUNHOHNYTDBCa2t3LTNuU1prQ3hnbWhJWU5HbHprdjYySFk5WFg4b3owbGlzX2gzY0R6QVBCQXl4NXZHelRIMThQYzdfYkRwRG9XYWE?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "Can I eat lettuce now? What to know about the cyclosporiasis outbreak. - The Washington Post",
-      "source": "The Washington Post",
+      "title": "NC Cyclospora outbreak | Cyclosporiasis cases explode statewide as health experts work to pinpoint the source - ABC11 News",
+      "source": "ABC11 News",
       "sourceType": "newsroom",
-      "published": "2026-07-21T12:31:49Z",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTFQtVXhIalJRV2lXcHRtOEpWZVM3LVNPeERQRnNWT1gwcnNjSi1TX2ZSTUNtY3JIUDF3SEp6MnczQUg1dGt2a1RJUmFJX0FVbU1aYWhCTXhXaWZnV3FDb2ktUUY3TjJ6TU5Rb1paT1VoY3ZlTS1INjlKYzdWMmJQUnNnSnlaOW9DVkdiQmp2TDJ3MVFZQzAyVDZFX3dZX0QxcVJSRkNuSEdEN0ZScmhJUQ?oc=5",
+      "published": "2026-07-21T22:10:49Z",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOV1pQdmVIVGxjQ2lLTVMxMjV2RzJMUE01R3E3Ui1wZ0xuX2RXbzl6bjVMcXlXMFJhdkxEcjB0aWtzWjh4UnRtTVVpNHBTQTQ1LWJSQ2Jpc0htOFRLbHcxSnBmaC11UmhXeHBjN0ZCY0VGSWNPbm5pQXhCNmRPdjdTa1k2clc5LU5Ta0N5RmRQdzlZTXZWM3RUSThsWmdqT0R6b2JtRzl4SWVkMTJiQ3c3UEVBUlhSVTBxTmRKV0w2NENZblpUcjVuekFn0gHPAUFVX3lxTFA2ODBfZWNGQnRrd1cwQlotQzc4NzJsOWdHY3RDQW1TUWRranBGN3JFWHBQY3N6QjE3RWZJMG55YzlGbnYzbzZsak1BRGJ1OGlfQVJZaEFNd0xZSFdjcTB6QUt2TnJGMlpRY0ZEWERKLXljajZTNFlrNUR5UXhzeVI4a2swYlg5eVdIcnlUR0NUZDMyN21XcC1kWHEtRTNpX3c1dmlFU21OS2ZwbXJaTHZaNEtTZFp3MWRhck9ZVnJCbjBVaTZwRGc5ZjI4c29Xdw?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "Test results create more confusion around cyclosporiasis outbreak - PBS",
-      "source": "PBS",
+      "title": "What to know about the cyclospora outbreak and the risks - MPR News",
+      "source": "MPR News",
       "sourceType": "newsroom",
-      "published": "2026-07-20T22:35:51Z",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdDFPTGNSZmdIajA2U0NTY29kR3pfMUU3cU40U3plOVQ3Rl9mbFhGQmJDa1Z0NWxzZFhsQ1U3b2hGbkQ4WmJKUUN1VG1KU2FVRjJJajVGblZiZ2NlaWh1ZlVOYmljNkVNTV84bHVTNW5TSEVadktXend2YlhlOVY0ZFBfTl9nWG5fR193ejUwMlNkWFVoVEtnUHhB?oc=5",
+      "published": "2026-07-21T18:19:00Z",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVzFqRXpDcVFpWHp2RDZJN1ZGNmgyRU5vZzRSSG9OMlRVYVFOanRYRlJ5NmhPS1RNT0ZkQW5YU2dNWkNLdmxpMXlSNzZsTGJmMXE2QS1RNHY1VVBMY2I1OWhoaFBoUU8xbGxSX3JvTEpLQXVibGFNUkpIRllTZU1TeVFIZW9kMWJqSVRaM3NB?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "How to tell if your lettuce is safe to eat during cyclospora outbreak - The Hill",
-      "source": "The Hill",
+      "title": "RFK Jr. says cyclospora outbreak is 'under control' - CNBC",
+      "source": "CNBC",
       "sourceType": "newsroom",
-      "published": "2026-07-21T11:15:00Z",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNmtzUDBFMmsyc2xMN2ZBaHU2dzJwc1FiMEhIRllYVnF3WF9yeTVFbzhya05RNkVzaUFQUlR2UWx1LUE3eDBDdXpqWjRHOXZiMVBKcFhJb0xLVjRMd3hRZFJveFFUZFlSYk1jUnRjWTg0VlNVUGYxU2h2VDNKZjJkRm45djdHYmxJanozdm04RC03d3JiemNnR0laMlFjSU95a21LV2ZDRFpETHZtWjhXcm5KcTBNVzjSAbwBQVVfeXFMT0tYSm1fQkx1bVBid2t4dzdNVVZpNTZXTGxaZ1N1V0FweDNkaHpIZEZsak55ZjlLVXF0UG5fUEFKX19QMVhiaU9BUDluOGcwSzVrajZhM010MkxLUHUxZUt6Z2F4Sm5HZHgtcE12RWxZRFN1dlluTXE4WFQxQWVwdXdDMVJtVDFBQ2MycU1lQ2NjdWE4MzVBV0ZwLVFSbnJsLW11YWZfc201V1I1Wm5FMHJqd2pJdUY5Sm1JYjE?oc=5",
+      "published": "2026-07-21T18:43:24Z",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaFlVbmxkcXRhdEV6UEs4SjIxcVItV1hLZGVzMGllR3g0MVBTSEdDSURwRzdRYkhnVkhmRmMzeHRZNzlxOVo1UW1nNGRGVGQ0ZW05dmtmazRNbzF5NWltRHVOdzBHT3JhVjBWdXhkczhpM1ZKN3JVUGwtTFJCRHZhejNERW9zVThYVkg1RTln0gGTAUFVX3lxTFB4bE5GaFl0N3BhQ1cza2ZhbW9yLUdWN0NaLU1XN2VzNmc1UXprTGNOb2dHcGlKaG5SQWNxN3d2a1BRZmdyZjFpMHBxWXhZVmt2R1ZPQldhd3VSd0ZVMklJY0xjaWRjVm5Ya3VfQ09NOFl4VjFzX0w5YUVpU3JaaWF4aXRIMmNZclVLUnltbVRtQWI0bw?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "Cyclosporiasis Outbreak – July 2026 - fmi.org",
-      "source": "fmi.org",
+      "title": "FDA says Cyclospora test on Taylor Farms lettuce was false positive - Scripps News",
+      "source": "Scripps News",
       "sourceType": "newsroom",
-      "published": "2026-07-21T07:52:33Z",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOQWVjZW1jQ3UzWkRKQklzaE9qYVdCTkx6a2QxREVuRGZRZlhlWnNDTjkxemQ1aVREUzhlekwtdktBQ1BEWk1Rb3Jid3pQOHVEV0VUUHRWMHBRZ3pIZWhRcTVPM1c5QnNfZEQwbVhmbTNIMW04OXNGY1lFMzlsZ05CWUVaTldkcnBMZ3I1OVVpZmVjbFdESkdPbFc1YldFTEx6V0oxY0lDOTcwLXUwNVZ1azUxR3FxSms4RXJzSnpzUFEwOVpkZ3E3Mk5WbXdETmZEUmpfY0dVTm9LaWxORE5fOS1sdnQxX3gwa0FwUmtIc1dhbU5rN2c?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "Cyclospora outbreak surges. Here's how to lower infection risk - Axios",
-      "source": "Axios",
-      "sourceType": "newsroom",
-      "published": "2026-07-20T22:28:03Z",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanI5aFNPemtZYXJ5TXV4Y2tsUmFyNXhYR1dQWTRwVjhqcXRyd2J4M2lYUGtQemY1a3VFblNwZV9JTTNPMl9wVEREOTlIbFBLSFEybENEVkZ5MjlXeDRrOXhiejVHa3V2Y1FrRVpXSm5MQ3NnTEE1MTdBY2lERDFBcVU3bm1VN1RZ?oc=5",
+      "published": "2026-07-22T12:21:13Z",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLXhENmhaZS00dTRhV2NteGZCV1BkWjhmWUlWbklLMWVyNWc0QXBMbEU5NWxkSGl5X0piUE9rRXVDZkVWdmh6WHVGMmI5c0NFR1UtdFI4MW93QS1UU1dpaEowSHNiOUJIRTVUeHVjQl82WFlRN3hpLURkSU5Gd0NyVVE0TzVpZE51WmtsRU9zd0tnRFR2elZnM19VV2xFUQ?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     }
   ],
   "blog": {
-    "date": "2026-07-21",
-    "window": "News published on July 20, 2026",
+    "date": "2026-07-22",
+    "window": "News published on July 21, 2026",
     "title": "News in Reverse: start with the verified scope",
-    "dek": "Yesterday’s public feed contained 3 indexed item(s). The daily brief works backward from official scope before adding headlines.",
+    "dek": "Yesterday’s public feed contained 7 indexed item(s). The daily brief works backward from official scope before adding headlines.",
     "paragraphs": [
-      "The headline trail, newest first: Test results create more confusion around cyclosporiasis outbreak; Cyclospora outbreak surges. Here's how to lower infection risk; Illinois Reports 355 Confirmed and Probable Cases of Cyclosporiasis as Investigation Into Sources Continues.",
-      "The stable reference point remains 1,645 federally confirmed domestically acquired cases across 34 reporting states. State totals may be newer, broader, or include probable cases.",
+      "The headline trail, newest first: Cyclosporiasis outbreak surpasses 560 cases in North Carolina; Cyclospora Outbreak: Answers to Your Most Common Questions; Cyclospora Cases in the U.S. Hit Record High.",
+      "The stable reference point remains 1,645 federally confirmed domestically acquired cases across 41 reporting states. State totals may be newer, broader, or include probable cases.",
       "The current federal source finding applies to a large five-state lettuce-linked subset. Water remains a possible general transmission route, but the current CDC and FDA pages do not identify a municipal water system as this outbreak’s source."
     ],
     "method": "Automatically assembled from RSS headline metadata plus the latest saved CDC/FDA figures. It does not copy article bodies, diagnose illness, or convert headlines into case counts."
