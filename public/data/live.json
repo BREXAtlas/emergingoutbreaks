@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T13:08:46Z",
+  "generatedAt": "2026-08-05T13:02:34Z",
   "alert": {
     "level": "high",
     "score": 81,
@@ -9,7 +9,7 @@
     "confirmedDomestic": 1645,
     "hospitalizations": 141,
     "deaths": 0,
-    "statesReporting": 45,
+    "statesReporting": 47,
     "asOf": "2026-07-13",
     "pageUpdated": "2026-07-15",
     "reportingLagWeeks": 6,
@@ -183,70 +183,70 @@
       "summary": "Michigan reported 2,640 cases at the state level and reiterated the need for Cyclospora-specific testing."
     },
     {
-      "title": "Cyclospora outbreak causes first two deaths - Axios",
-      "source": "Axios",
+      "title": "Cyclosporiasis in Children: Symptoms, Treatment & Prevention - HealthyChildren.org",
+      "source": "HealthyChildren.org",
       "sourceType": "newsroom",
-      "published": "2026-08-04T05:41:14Z",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMmloejFwQ0NubGV5bnlTclpwalVaV081UFhPU1hKak9DSXlLSHZRT3RxRzFDUFBEenA0MVE2UV9pSVotaFpwWm1HTm5Nb1ZrTW1hbVM5aUh6UmZjYnpHNGEzbE45aXUwVlZTbElGUXRvN1hwd0N6d21XRl9nWlpkQ0V3?oc=5",
+      "published": "2026-08-05T07:22:41Z",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVmFScDhoY1p0TFMtZms4Tm1feDZhVEoxNUlmQmY1YU40bHZ3Q1Q2SGFyems3VTlEa2UtNndjcnliN1I4OTh5T3lsbGVGN2NxdnZJVmdJX29QZFhXSzR3VTUxbS1TWUFCMEM3cTU3d1lnVDhaZlRqeVdhWlIwQTdlUk5YUUljM0NlTmtodGJDN2dnMmxmRmNoZTFxUHNWNzlZSVR3VnU5ZDd5RFJvM3YwbzRfamk3b3podVdRLTNTTlJVYWRDNUZyUVRqbl9BZ3Z4b0k5Mjd3XzNyRHRUVGYwZQ?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "How exactly did cyclospora infiltrate our food supply? We still don’t know. - WPR",
-      "source": "WPR",
+      "title": "CDC expands largest known cyclosporiasis outbreak to 15 states - The Washington Post",
+      "source": "The Washington Post",
       "sourceType": "newsroom",
-      "published": "2026-08-04T10:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc1daRVRQZTFnWXVtS2dydExSSGlVWi0wN1M4QzFBdmpMZm9YRDFCYXdpekNGeWR3akFLVXFDcTUxdnJkZ05rUFMxdnZld2xXbEg2aHlNeF8wSlNKbENndE5GZHBEU0UtZXdHSGtFN213Sy01eWN3RjlvTkZhSV9fXzUydVVFUlhR?oc=5",
+      "published": "2026-08-05T03:13:54Z",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWmdmQUdUMlRNT3ozU0NIb3FuNGtfbVNfcUNXTW5SQTVhSWNjZ1lQaFpMeU5zNTFWWHZvbDZTWkFwSGVMMDhxc0tTSTR1VlVJQmxnU2c1M2Z4T0FDei15UC1rSjNVSDRBY1ZlcjgxeHBuY05NbzU2emhiTFJ5MVNjNm4yTzhKNEY5RzlGUkMwSnlUQWMwZWJ2ZGJ3YzdGWGowRmJQSWhJT3o?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "What do I need to know about the cyclosporiasis outbreak? - unr.edu",
-      "source": "unr.edu",
-      "sourceType": "newsroom",
-      "published": "2026-08-03T17:21:01Z",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56RlJFaUFMNVQ2dHRNRHlmVzJxOTVIbDNxQ1ZJbEtrdlAyVE9HOGxCc0lZSU1tUXFZY2JmMHpra2lKc0JFYlMzN3F0UUg0NE5VRXVqaU0tT2RPX3A5SjU2bThsMnhIb0poS3ZsVHZQdDFiN3RI?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "Michigan reports first 2 U.S. deaths in outbreak of cyclospora - PBS",
-      "source": "PBS",
-      "sourceType": "newsroom",
-      "published": "2026-08-03T16:46:41Z",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWExwanFYeXJQenJ2RGFWaDFCWHVhczhuaEZEVTRmRmFOMEg5R1N5Tkdfemtwdk1qMm9wRUpid3BheEtVeVlBSEJYeUxYQ0NRNWtKRUtaLXIxM2JHSWhyV0JQOVdtS2lFVDNPXzE0dnZEVnZWZ3pKRHdybVA1bDZzREdFTWFpenBwaEI0b2xDODBiOUptN0xua1ZiVVBNQQ?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "2 people in Michigan have died after becoming ill with cyclosporiasis - NPR",
-      "source": "NPR",
-      "sourceType": "newsroom",
-      "published": "2026-08-03T17:46:16Z",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ2I4OXBGd0NuWWlkNTBFbXFZX3RfdlBXNWJKSmhkTlBVUTJvVkdEVUZDaWVlcS1ZT2Y5Rm5ZZC1Od3MxQXRxRDBRaE1LZWtieWJRcU15TlhKdXZpYkRjQXFSVVpXX3BHQ0p1ZWtfNG0wUXpTRlkybUI4QS1VZWlrbjlJTmxiQjY4NVQzNk10a3lKZWo3bUNoaA?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "US cyclosporiasis outbreak kills two people in Michigan, officials say - The Guardian",
+      "title": "CDC reportedly expands scope of US cyclosporiasis outbreak to 15 states - The Guardian",
       "source": "The Guardian",
       "sourceType": "newsroom",
-      "published": "2026-08-03T16:57:00Z",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rQnRWVnROOU00NklkdFUza2dnUk9pd3B2aEM5SmVFNE1DVTRjUmFRSEFia1NqZEtiMUF0ajFjd2JaZjVweEl1MkZLVDE0SnFteTEwaGw1NVRKTnk1YWdIOVp6OVFTOEsxTjE2Tm5OSTZjQVcwby1MT19fWEpHRlE?oc=5",
+      "published": "2026-08-05T02:13:00Z",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVWRIZXM5S0F0LXVOWHBNY1dudFRyZmJ1M3FTR2hFZmdILUM2bW1SVlFHNEsxUjRRNXhKc2hZa2txNWpScVdWSEdfenMtQTF2TjRWczVxUHZfdmJIVG10Z0xKM29FaDBiOWpYSWlfMXkxX2Q4QVdxMGlhNDhKVWRSZUo0Ykh3RzFjT2dsMlRB?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "Cyclosporiasis cases double in Missouri as health officials report more than 1,000 illnesses - STLPR",
-      "source": "STLPR",
+      "title": "C.D.C. Expands Cyclospora Outbreak to More States - The New York Times",
+      "source": "The New York Times",
       "sourceType": "newsroom",
-      "published": "2026-08-03T16:27:00Z",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUWNBRmdaZmZFeTU2bUVOQkR0Q1hYWG1WejJ5cG9FbXFILWRmUHFHOTIyVEpsY3Z6czBYdS1tZ09PQU5CSzZqSkc0bnBUNGdhS0k3T1FWYzJBUjlHT1JPcE9JZW9ZN1VmNkVlOTNpNVQ1NHB4a1hlM3RqNFJHWDRrT05uUHpXSm01RVBzcXh3Q1UwVW01aFpjTFpxNDRTdw?oc=5",
+      "published": "2026-08-04T23:03:41Z",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV3BZSFRCNkpCei1SU2pQVnJYempqRTM1d3p2eVRFNWYzcGhmeUJZZWgwcXk2aUtYdEJYVWhnS0h0UDdydW9STkpTY0l2X0hna2c0Z21RWi1FRExHZW9DTlpnVkdmbVhHdzJmcnhOU2UtOXBHXy1JVlBKT1B5V2dHaHRpZ3dOZC1yd2c?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "Why avoiding another cyclospora outbreak might take diplomacy - WUSF",
+      "source": "WUSF",
+      "sourceType": "newsroom",
+      "published": "2026-08-05T09:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ01USTFrY2VScXZwVnBpMlEtQkEwLXhYRkRIaVVjTk12WE0wQmU5TlJROW8wZ2dCWjRhWmxmREhLWms1MzBGQ2dBSURzWE95Q3JZU2MwRXFab2w0dVJnMmFpZnB1NkpTTmRzeE1uLTJ4bUlhRUEyRV9zNmxzRWl5ejdVOVVieXNfNTdVYmVqY05SbnNmR3c1SE5maDl1SmY4eVUxa2psU0NadW1ROVB0SVcyaw?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "Cyclospora in salad: The diarrhea parasite outbreak has now sickened over 10,000 nationwide — see the hotspots - businessinsider.com",
+      "source": "businessinsider.com",
+      "sourceType": "newsroom",
+      "published": "2026-08-05T10:42:11Z",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdjIwT3J0d2trakVZNmpSQUNqZXVzODdRQUJ5VUhNNDhzMGxBbnBOQnFJTThMbmtIUHZKMzJoVXhnZ3ZFNFhPa3VwOUhKcDF6YzdLMUFqeFczWV92V0RIRDBrTnE4ZjRjVG9qWTZMWFhHN0dJeU1XSFVscDJqUE84SFZRSnBvQk9HUzRxaS1fTGZUTlpLcHVRM2Roc2U?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "Cyclosporiasis cases top 10,000 amid sharp increase across 47 states, CDC says - Yahoo Lifestyle Canada",
+      "source": "Yahoo Lifestyle Canada",
+      "sourceType": "newsroom",
+      "published": "2026-08-05T12:27:43Z",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdEJHVGJEbFdZU0J2ODNGVDJIeU1reTNFc0Q5aDdTMURRRWJpek5QNGFIcllsalBhTG9STXNWNzI2ZlJnMTBiYXNFX29hUDZCY21BQTZSMlU4VUhHdDBSLUxUTG91LWwwMzBuWHBBRHRPc1hILWdLZW1ydFZsZ0lTU2F2UllJQUoxZlZHd3hZb00xSlMxckpCRURwZGN5VEhxUkxad3YzQzcxWnlWUm96UXVqb2daZHFHdHc?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     }
   ],
   "blog": {
-    "date": "2026-08-04",
-    "window": "News published on August 03, 2026",
+    "date": "2026-08-05",
+    "window": "News published on August 04, 2026",
     "title": "News in Reverse: start with the verified scope",
-    "dek": "Yesterday’s public feed contained 6 indexed item(s). The daily brief works backward from official scope before adding headlines.",
+    "dek": "Yesterday’s public feed contained 2 indexed item(s). The daily brief works backward from official scope before adding headlines.",
     "paragraphs": [
-      "The headline trail, newest first: What do I need to know about the cyclosporiasis outbreak?; Michigan reports first 2 U.S. deaths in outbreak of cyclospora; 2 people in Michigan have died after becoming ill with cyclosporiasis.",
-      "The stable reference point remains 1,645 federally confirmed domestically acquired cases across 45 reporting states. State totals may be newer, broader, or include probable cases.",
+      "The headline trail, newest first: C.D.C. Expands Cyclospora Outbreak to More States; Cyclospora cases top 10,000, reach 47 states, CDC says in update.",
+      "The stable reference point remains 1,645 federally confirmed domestically acquired cases across 47 reporting states. State totals may be newer, broader, or include probable cases.",
       "The current federal source finding applies to a large five-state lettuce-linked subset. Water remains a possible general transmission route, but the current CDC and FDA pages do not identify a municipal water system as this outbreak’s source."
     ],
     "method": "Automatically assembled from RSS headline metadata plus the latest saved CDC/FDA figures. It does not copy article bodies, diagnose illness, or convert headlines into case counts."
