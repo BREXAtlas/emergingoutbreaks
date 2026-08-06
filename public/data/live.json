@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T13:02:34Z",
+  "generatedAt": "2026-08-06T13:03:00Z",
   "alert": {
     "level": "high",
     "score": 81,
@@ -17,8 +17,8 @@
     "sourceUrl": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
   },
   "linkedOutbreak": {
-    "cases": 1947,
-    "hospitalizations": 94,
+    "cases": 6358,
+    "hospitalizations": 278,
     "deaths": 0,
     "states": [
       "IN",
@@ -27,7 +27,7 @@
       "OH",
       "WV"
     ],
-    "lastOnset": "2026-07-13",
+    "lastOnset": "2026-07-31",
     "product": "Shredded iceberg lettuce from Taylor Farms de Mexico served at some Taco Bell locations",
     "status": "Open",
     "asOf": "2026-07-17",
@@ -186,66 +186,66 @@
       "title": "Cyclosporiasis in Children: Symptoms, Treatment & Prevention - HealthyChildren.org",
       "source": "HealthyChildren.org",
       "sourceType": "newsroom",
-      "published": "2026-08-05T07:22:41Z",
+      "published": "2026-08-06T07:25:25Z",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVmFScDhoY1p0TFMtZms4Tm1feDZhVEoxNUlmQmY1YU40bHZ3Q1Q2SGFyems3VTlEa2UtNndjcnliN1I4OTh5T3lsbGVGN2NxdnZJVmdJX29QZFhXSzR3VTUxbS1TWUFCMEM3cTU3d1lnVDhaZlRqeVdhWlIwQTdlUk5YUUljM0NlTmtodGJDN2dnMmxmRmNoZTFxUHNWNzlZSVR3VnU5ZDd5RFJvM3YwbzRfamk3b3podVdRLTNTTlJVYWRDNUZyUVRqbl9BZ3Z4b0k5Mjd3XzNyRHRUVGYwZQ?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "CDC expands largest known cyclosporiasis outbreak to 15 states - The Washington Post",
-      "source": "The Washington Post",
+      "title": "Cyclospora Outbreak 2026: FAQs for Consumers - International Fresh Produce Association",
+      "source": "International Fresh Produce Association",
       "sourceType": "newsroom",
-      "published": "2026-08-05T03:13:54Z",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWmdmQUdUMlRNT3ozU0NIb3FuNGtfbVNfcUNXTW5SQTVhSWNjZ1lQaFpMeU5zNTFWWHZvbDZTWkFwSGVMMDhxc0tTSTR1VlVJQmxnU2c1M2Z4T0FDei15UC1rSjNVSDRBY1ZlcjgxeHBuY05NbzU2emhiTFJ5MVNjNm4yTzhKNEY5RzlGUkMwSnlUQWMwZWJ2ZGJ3YzdGWGowRmJQSWhJT3o?oc=5",
+      "published": "2026-08-06T05:22:09Z",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iSFZlSC03U3hoTWRPVTNXWGhxVVc0Q2dBYnBUdHJ0Y0J0el9NMlNRXy0xaE1DUk5JSnVibE1FS1pCd3p4a1MxN0wxcXlXM1NaaENYMDZfeFBpdkVzN3lRWEtoUkNKcURhbThiY2w4UkFJU1E4T0E?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "CDC reportedly expands scope of US cyclosporiasis outbreak to 15 states - The Guardian",
-      "source": "The Guardian",
+      "title": "Cyclospora Outbreak 2026: Map, Foods to Avoid, States Most Impacted as US Hits 22,000 Cases - TODAY.com",
+      "source": "TODAY.com",
       "sourceType": "newsroom",
-      "published": "2026-08-05T02:13:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVWRIZXM5S0F0LXVOWHBNY1dudFRyZmJ1M3FTR2hFZmdILUM2bW1SVlFHNEsxUjRRNXhKc2hZa2txNWpScVdWSEdfenMtQTF2TjRWczVxUHZfdmJIVG10Z0xKM29FaDBiOWpYSWlfMXkxX2Q4QVdxMGlhNDhKVWRSZUo0Ykh3RzFjT2dsMlRB?oc=5",
+      "published": "2026-08-05T20:45:29Z",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRDdObzN5X3RBNzRMemowMDZBMWpjYlZZRkd0dlgtdGNDTnB1TGFIZjRzRTZUOEtrcmNOZy0zR0FsRVJ3MnZoM0lrRC0yUElROWxZVFhEQ2tfTXVYTzlGSEVnUzU5U2hnakpXcDhZQ3pTV0hXVHpSRmpOMFpVbzZxNVpPVkJBajJGN0N2RTBDeFdNcDRwbWZCWE5iMjY3Z1dvVEZHckxWdnREZjVIUHdGbGZ2bjg4dk0t?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "C.D.C. Expands Cyclospora Outbreak to More States - The New York Times",
-      "source": "The New York Times",
+      "title": "Cyclosporiasis outbreak linked to shredded iceberg lettuce expands to 15 states - ABC7 Bay Area",
+      "source": "ABC7 Bay Area",
       "sourceType": "newsroom",
-      "published": "2026-08-04T23:03:41Z",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV3BZSFRCNkpCei1SU2pQVnJYempqRTM1d3p2eVRFNWYzcGhmeUJZZWgwcXk2aUtYdEJYVWhnS0h0UDdydW9STkpTY0l2X0hna2c0Z21RWi1FRExHZW9DTlpnVkdmbVhHdzJmcnhOU2UtOXBHXy1JVlBKT1B5V2dHaHRpZ3dOZC1yd2c?oc=5",
+      "published": "2026-08-06T10:48:16Z",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLVlpWlJ0NWthcURZbkNLYnd6aGtXWWlYbWZob0RlSXdqUS1NWU1VeUx5cldpOVVYZ1A2NERial9DU0N0TDBjSGw0SjNseXRDLU84Vk1mbHpJb0FLelJ0QTFzN2h5NmhxQkxCTkVoVl9XNVZ2NVMtSVV4Q0FMczNFNEo0VGc1VHNEWkx1Z29qc3o3d0pvX0VBaDd6NEpRcktNWHVxWHduWTZkbllNWktV?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "Why avoiding another cyclospora outbreak might take diplomacy - WUSF",
-      "source": "WUSF",
+      "title": "Taylor Farms linked to 5 other Cyclospora or E.Coli outbreaks in last decade-plus - cnn.com",
+      "source": "cnn.com",
       "sourceType": "newsroom",
-      "published": "2026-08-05T09:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ01USTFrY2VScXZwVnBpMlEtQkEwLXhYRkRIaVVjTk12WE0wQmU5TlJROW8wZ2dCWjRhWmxmREhLWms1MzBGQ2dBSURzWE95Q3JZU2MwRXFab2w0dVJnMmFpZnB1NkpTTmRzeE1uLTJ4bUlhRUEyRV9zNmxzRWl5ejdVOVVieXNfNTdVYmVqY05SbnNmR3c1SE5maDl1SmY4eVUxa2psU0NadW1ROVB0SVcyaw?oc=5",
+      "published": "2026-08-06T10:00:29Z",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTUg4bk42dlNhMm1ZY0ZfdldUYmVlVFJUWWVQLVE3ZUF0elYwMnd5YlN2RHlwU3VBVTZiY3VLZnB1OS11bnItbklPbmRXdnVWMk1kNVc3dFlPelJGaHhBdU9RRFkzbnhBZ2JoSFQ3MThVeHRUbnpiU1Zoa2E2UmxxYll4ZnI?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "Cyclospora in salad: The diarrhea parasite outbreak has now sickened over 10,000 nationwide — see the hotspots - businessinsider.com",
-      "source": "businessinsider.com",
+      "title": "Large US Cyclospora outbreak expands to 6 more states - CIDRAP",
+      "source": "CIDRAP",
       "sourceType": "newsroom",
-      "published": "2026-08-05T10:42:11Z",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdjIwT3J0d2trakVZNmpSQUNqZXVzODdRQUJ5VUhNNDhzMGxBbnBOQnFJTThMbmtIUHZKMzJoVXhnZ3ZFNFhPa3VwOUhKcDF6YzdLMUFqeFczWV92V0RIRDBrTnE4ZjRjVG9qWTZMWFhHN0dJeU1XSFVscDJqUE84SFZRSnBvQk9HUzRxaS1fTGZUTlpLcHVRM2Roc2U?oc=5",
+      "published": "2026-08-05T18:00:15Z",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR01QZnBVVHZlaXFpbUhoWnZJODVmRVRGMGlnbFJNOHJLMnRSbG5XUk5xT3hPVEc3WlN2T3dWdmVLcnlJSC00M0JtZl9fOXp1NVNhSHp3VmJQaVJ0akVNYjdlTUdLa19HNko3SUI0YnBWMnhsRmxJZ0lQR2hvR1l1Vkh1VU1zUkNvZ3BNQkd2RE0xdw?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "Cyclosporiasis cases top 10,000 amid sharp increase across 47 states, CDC says - Yahoo Lifestyle Canada",
-      "source": "Yahoo Lifestyle Canada",
+      "title": "Mass. sees rise in cyclosporiasis amid US spike - wcvb.com",
+      "source": "wcvb.com",
       "sourceType": "newsroom",
-      "published": "2026-08-05T12:27:43Z",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdEJHVGJEbFdZU0J2ODNGVDJIeU1reTNFc0Q5aDdTMURRRWJpek5QNGFIcllsalBhTG9STXNWNzI2ZlJnMTBiYXNFX29hUDZCY21BQTZSMlU4VUhHdDBSLUxUTG91LWwwMzBuWHBBRHRPc1hILWdLZW1ydFZsZ0lTU2F2UllJQUoxZlZHd3hZb00xSlMxckpCRURwZGN5VEhxUkxad3YzQzcxWnlWUm96UXVqb2daZHFHdHc?oc=5",
+      "published": "2026-08-06T02:21:00Z",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb0Y1UDNmMDg2MWgzb2E4OEhUQTdIREhXX3h5T2txZVhPTklMY3FpVkJPa2hmX2Q1R094dDEwc3c3NzBXajRocmhTcmROdFZZMGp5UVFnNTlxZGU0cnlqZ0w3WERVRmFVSEI2LWFzbkZuNkI4dlNUQ3FjZEFIUEJwcjQ1bw?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     }
   ],
   "blog": {
-    "date": "2026-08-05",
-    "window": "News published on August 04, 2026",
+    "date": "2026-08-06",
+    "window": "News published on August 05, 2026",
     "title": "News in Reverse: start with the verified scope",
     "dek": "Yesterday’s public feed contained 2 indexed item(s). The daily brief works backward from official scope before adding headlines.",
     "paragraphs": [
-      "The headline trail, newest first: C.D.C. Expands Cyclospora Outbreak to More States; Cyclospora cases top 10,000, reach 47 states, CDC says in update.",
+      "The headline trail, newest first: Cyclospora Outbreak 2026: Map, Foods to Avoid, States Most Impacted as US Hits 22,000 Cases; Large US Cyclospora outbreak expands to 6 more states.",
       "The stable reference point remains 1,645 federally confirmed domestically acquired cases across 47 reporting states. State totals may be newer, broader, or include probable cases.",
       "The current federal source finding applies to a large five-state lettuce-linked subset. Water remains a possible general transmission route, but the current CDC and FDA pages do not identify a municipal water system as this outbreak’s source."
     ],
