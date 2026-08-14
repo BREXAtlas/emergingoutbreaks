@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T11:58:42Z",
+  "generatedAt": "2026-08-14T11:56:19Z",
   "alert": {
     "level": "high",
     "score": 81,
@@ -17,8 +17,8 @@
     "sourceUrl": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
   },
   "linkedOutbreak": {
-    "cases": 6358,
-    "hospitalizations": 278,
+    "cases": 9481,
+    "hospitalizations": 398,
     "deaths": 0,
     "states": [
       "IN",
@@ -27,7 +27,7 @@
       "OH",
       "WV"
     ],
-    "lastOnset": "2026-07-31",
+    "lastOnset": "2026-08-03",
     "product": "Shredded iceberg lettuce from Taylor Farms de Mexico served at some Taco Bell locations",
     "status": "Open",
     "asOf": "2026-07-17",
@@ -183,69 +183,69 @@
       "summary": "Michigan reported 2,640 cases at the state level and reiterated the need for Cyclospora-specific testing."
     },
     {
-      "title": "More than 24,000 cyclosporiasis infections reported as new cases appear to slow: CDC - ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos",
+      "title": "Record cyclosporiasis outbreak tests agencies hit by Trump administration's cuts - NPR",
+      "source": "NPR",
       "sourceType": "newsroom",
-      "published": "2026-08-12T16:42:51Z",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU09Ud2duYkRLQ19uZ0Y2aFRQLV9rRkdXVDFPa3VEcDd4c2U1VWhQZGRzc0ZLVGxUb0dmcUtidDJOOVhaRXNyeFV6bjV5WEVpVnZmSklockpRTUhCYVYwVC1jRGstQ09VMGk1M0lIdHhWajZPajQtZ0FzR0RxMkdqTVBHdXNHVTZHNkV2QllPMFptaklKSDZ0RUphaUhiLWdvY3NsWk94emHSAa4BQVVfeXFMT2dIb3VrVk5NeTJnTVI3Z2ZWN2NpNGVyRmJnMXgyUnczenU4Ul8tdXdnUnBpSDVKM2tKX1BPcVFOWE5CYUZyaVV5ZWVxcmJwMS03SWNEOEw3SzVjTEFnaHA2dE4tMDhfX2lKblptWDJMTE93ZllPTmUxUmJJZTAwZmZqVUhYbFlIdjVVcTJZRjBDU2YtRm05TjVDR1U1aE5NU3BiT2NSRVNQaktMdG1n?oc=5",
+      "published": "2026-08-14T08:45:23Z",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVFVRWDdhWjhMc3FGbGpWZVpaVHpLMUdfUlMyY0tGelJPQTNjdzBxYjBvTm1laVlneXRZcGJWRm91bFVEMlYxeTNHVGcwdUVkc055djlwVzlkNGdCQTlVYjBieGVYenh5TUF1Y2pZVnNSSWk3ZmlTb1hEdi1jZzhlbDFlU0oxZzZsWExoQXYxOVY3QzRHeU15cUp6Sl9JODNBM1JjZDlCdmhtcXYydFlfZUMtTDJkTXYtck9rQlhnTmw4Zw?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "FDA chief: Cyclospora ‘effectively removed from the market’ - The Hill",
-      "source": "The Hill",
+      "title": "Michigan cyclosporiasis cases rise 11% in a week, even as new cases slow - reuters.com",
+      "source": "reuters.com",
       "sourceType": "newsroom",
-      "published": "2026-08-12T15:24:00Z",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObml0UG5xOUpSOU1Ib0xveTNkWVdJakJQSDNxZ2xyYklXd0ttUFEzYkg2amxCVUk5QW00NTVXUTdqUlVMOVR4dnZFcy00MnpxcExpSmdfMXRaVy1QV0VSVFVRWE5UNUtDRGJkRkgwaFowcnJrQnR2QVJmQzNWSnROMGVraU3SAYoBQVVfeXFMTXFYTl9IS1MzVVAwODAxbmtwRFFMVlV3dVRSRWw4QlNwOG1oMXkzN2hQOFROT1g5NnFNR0g5aFNaMmNVRDBnQkVCcFZPc0hiMGk2SzBXdk1ITGVvd0xvbC0za3lLcWFvYmxhWExRYjM1RXhDTXJ3QTJkTWFvbU5wOVRoM3lSZXFKeFVn?oc=5",
+      "published": "2026-08-13T21:47:59Z",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQlk1Q0hNY2ktUkZ2djVhNEc1S0tXeGhjSXQxeF9hd1NLRU9iYzVqa3AxRGVOSVJmM1V1SWd5S08yVmVJdDdNaDVYQTVrcUVuSWVxTW5Zbk5qS242cm1kQmlTR1dKaW5uS2ZhNFJhdm9hMG51QmJkRGU3NFFZc1RnckNtM1VqbURUQWQ0VXBLR3JpX3ZkT1lncFNUbEFTellTWXFwWlFFQV80MnMwMEM3V3FScnBlRUxFVzd4dnBhN21Mb3ZyY3psQzBFdTRHN2dDSklUR1F6X04yMTZUZmc?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "Florida cyclosporiasis cases top 400 in latest update - Tallahassee Democrat",
-      "source": "Tallahassee Democrat",
+      "title": "Is Lettuce Safe? Probably. Will Cyclospora Spur Change? Hopefully - Bloomberg",
+      "source": "Bloomberg",
       "sourceType": "newsroom",
-      "published": "2026-08-13T10:36:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeGRINC1GWFU2eXVmZ1RTUzZOVnNqbGh3YTdwcUxKblRDQk1JdzlvdDM4ckIxczVtVEg5cjM0TVNmc0F3VHNOZmkwMUpSNS1fLTBCYW42eW9pRDZ1R1RvV0l4OE80SkZlZlBzcFVXSkNIM01zdzVUd0hzdzljeUgxbGxvUnRObmRuQ1NOZ2gxeFktd2hZSmprYXIzY2pQNE0wazlIYlJjWncwVG85Vk50anBQT3F2VDJOMWVacW9MR1MwcWs?oc=5",
+      "published": "2026-08-14T10:30:16Z",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNckZsOTJ2bTdzRlNZbnlFdUpsZ242bUFsWl9SNmN1ay05VTNBYUlaSjl3N0doczRCZHF2YTZBUWZfc3dSeERLVnRKMWlTSlhLSk4yWWVaV3lreVR4WlRyVDRzOVhGNjBmTC1KVHEzTWpFYlg0OF9wWXN1QTdVZ3BxTlZZRWRhdU43ZHFpWU5mWTIyeVdIRW1lb0x5U0doR1JxbDdlR3J3Zm51ZklrWFpKaDVnUVlVOU1rNUNyUFBkbUFGZw?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "'Nobody wants it': Lettuce prices see record-setting plunge as cyclospora spooks consumers - CNBC",
-      "source": "CNBC",
+      "title": "Iowa hits 300 Cyclospora cases this year - KCRG",
+      "source": "KCRG",
       "sourceType": "newsroom",
-      "published": "2026-08-12T17:57:44Z",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvTzBabkpUdGhISUZQVlEzbHpXZ0hBUC01b0Q4NUVtUTJ4YXFkM1RiWW4yMUY2Z3VoRU0zaWVIN3AzS1NxQnlQVXl2c3hDZVRub3RraUdldXB3d28xMnZ3ZUlPRmhlU0pqbW8tQU0tUV9KOGIz0gF6QVVfeXFMTlNQVzRfME02bmw5enlDd0hCNkRSYWJwMDhmbmk2LWVZWENPdGN0YlhNNVpCM0ItUjFKNjdjSVlJbWFTRTREV0VjLUJoNG5CRk9UcVgwempiN0sxeTNDVVJzWFJVZFdKWUFfWVRkV1FVRE9wVkM1TzY1bFE?oc=5",
+      "published": "2026-08-14T11:20:00Z",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyMXRqaVJOSkNRczBZaDVrNENzdnBlUnlsRjhNOE9jUzJPM2d4REdrZVgwSEJya0VQLUFyMzNRNjJMeEV5c3R2YnB2cHBpaVVuQ19xeEdPRERmQkFQVGFNeXdxWHpiV01ZMk1SbjhjTmRVV1JyVU1lcGw1NTdUdw?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "Sangamon County saw 12 cases of cyclosporiasis in July | Exclusive - The State Journal-Register",
-      "source": "The State Journal-Register",
+      "title": "Growth of Ohio cyclosporiasis parasite cases slowing down. See numbers - The Columbus Dispatch",
+      "source": "The Columbus Dispatch",
       "sourceType": "newsroom",
-      "published": "2026-08-13T08:30:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNVl2V1NVR0M5Y2U1V2dtVDFfSjAyRjJwRlhYZ2x0b1BrWGEtellYUDQxYXFKMmhJaTVBS25CVk1JNFBlVDFhdEpVX0JfNEdRR0VMeWZmLU91X2U4dVMyYXhiMjFFbk5qZ01LZmRMdENQZ1ZKOWE5U1FXTTQ3Q1BnY1dGWFlmN09UVFpZYXUwa0pIelBISXlJMTdhbEE4RVdQb3dZQUFIYnFfZTZnZEZ2eFd5VTJDeXZZdHBNN29BVWxkZw?oc=5",
+      "published": "2026-08-13T18:58:00Z",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNU3V6UWtWbEpqS1BvV01KM0MtZGJHdk1NVi1yNjVya1ZFTnZHWjctUXdhbm1KdWFpcnQtV3lQR1Y0MGNRa3RwUUFMdTF1bUxQMEdrX2gySllHRnpYOWpqdWUxcC1jM2M2Q2RseVBTYXFINFdFR2E3bkZzeEdJbXRqbkRyYzJmS0hjcGxrejA2WkRKeUJ2U2RKUnlfSzMzMGhwUGtUQ0xwLVM5OTM3SDdrNDJlSGVFeWR5ZkkwRkpPYWVMRjFrSW5aZEhzaFJtUUMtR1FETGpHY1JkVzRheEZMclY5QVV3SmpB?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "Orangeburg County schools step up food safety efforts amid Cyclospora concerns - WRDW",
-      "source": "WRDW",
+      "title": "Michigan cyclosporiasis outbreak tops 13,900 cases; 35 additional hospitalizations in past week - CBS News",
+      "source": "CBS News",
       "sourceType": "newsroom",
-      "published": "2026-08-13T09:31:00Z",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTzdfMnFzMzFNblZodF9DcTNNZEJnWFJvektzR1V5SFpmZ0lzazFpaHB4Z1UwdG9VMW54OVhhSFNIbVB0NFFSdnpMbWFZZGVFNUVwaVRPWC1XRHVqSWpmRGQyUUVXektnbGtmbF9mSlNiak9DZTJNaE5XTEhPS2g1YjFlYmFBT09DRTlDSGVmOVJiaGFxX1d2OWtUNmMwQlJiUFlIVTJjTTFvcWZlQTlFM9IBxAFBVV95cUxNTW5fTThNWlJodWVURU5yRm10MFVSVjhTdTlFTHhnRzVzS2JRRjVuQnd1NzR6YmNudWtuT2ZNU05HR2FNeEJjdGRrbTJUWGpvV3pWc0pzUmhLZEhUd3hzeFFpc2xSdmxudzQ3VXk3ZGpZZmwtdE84LVZwTWlFcFVLZkNjaThwYzBhNzNJV1RqLURvV1gzXzBjbU5Tdk91cGFsYmRUbkRmbUJhZXMyNUZUQmwySDhHN2d0UVNxRW9TZWwta2xU?oc=5",
+      "published": "2026-08-13T17:10:00Z",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPelczQ3FVc0k1bjFTRVZJZzVJZ0NPTFd4cjEyTm43Z1VKaXoweGZWa3FrbF9EXzhZdnI3VnpvWl9XbklEZEpZZ0JsaUxFWnlZNFBpeUdVbVFsN1M1RGJVbHJXX2VCTEN2YjVMR3J5Q245WHdGcnYxUWpfaHZtUlY5Vkl3Q2JzS0I0d2VYUmU1NUk?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "Cyclosporiasis cases top 100 in Alabama; majority reported in North Alabama - WAFF",
-      "source": "WAFF",
+      "title": "Are cases of explosive diarrhea parasite slowing down? See the numbers. - usatoday.com",
+      "source": "usatoday.com",
       "sourceType": "newsroom",
-      "published": "2026-08-13T04:20:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcXJjYjYxZDlFMjNLdGZkM1BlSmI2RzFzV1EzQUtXV05ZNlR1X21CNjlvMy0wMVhVVzVZUGtUOU5PcjBUTWt0dnhMRzFCVFZvTEJUNnpQeVJTalBnWlZKVHdaSEY1SDMwSDZxcXg5THVaNVY0bUEtR0ZMZXM1QmsxcS0xOTh3cE5lWGMxZlBXZ3c3V1RWbXhmSEd3RUVhbnR3UjBj0gG3AUFVX3lxTE9xRmJZOVFhLUxlZ1lvdXpfLWREbmp0REtMRDB3bFA2VjdqQnlncE5mMjJfT1RmQzhob2NabGJiR1NBSVIwRW9JNmdiVFZlbWFaR3IydTBWQnZIMWgtb21GMlh1ZWo3ZGpYNGZaVS1YTHZEY0cxbHZtcHM4alJDQ3ZXcEt3aHlRTWNtWHZlVnN1bS0xWVRaSDY1dnoxTmpqZXVUQ0poNndDV08yeFFMYms3MHdaYkFURQ?oc=5",
+      "published": "2026-08-13T20:39:00Z",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNaTB1THVHUWFQX09leGQzS0pGb21Xa2tQZmltREVnTHFQVlZ6SUJvbmpTd0Z2Z0JoM2NIX05OQXFlUDJ0ZURaU1kySDFFT2V6RmRqMGExVk54MUFEQ3M3emp3bXZnaklXdC1ldDdQdU11bnBIUEhjZGpkOHJCMkhsWnVyeEo0WHZVZzFLUm9fLTBLTmQ2VDREOURWckVlT09EcHFlZ3RDMEItSmYwQVk1elhvcE9rZzlJZVE0RUFPcWZ1YlFDVDAzem00dEZLN1k0RlZUbzVWb3hmVV9GM3ZXSVdZZE9pVVQydXZYZkhiemdvbjQ?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     }
   ],
   "blog": {
-    "date": "2026-08-13",
-    "window": "News published on August 12, 2026",
+    "date": "2026-08-14",
+    "window": "News published on August 13, 2026",
     "title": "News in Reverse: start with the verified scope",
-    "dek": "Yesterday’s public feed contained 3 indexed item(s). The daily brief works backward from official scope before adding headlines.",
+    "dek": "Yesterday’s public feed contained 4 indexed item(s). The daily brief works backward from official scope before adding headlines.",
     "paragraphs": [
-      "The headline trail, newest first: More than 24,000 cyclosporiasis infections reported as new cases appear to slow: CDC - ABC News; FDA chief: Cyclospora ‘effectively removed from the market’; 'Nobody wants it': Lettuce prices see record-setting plunge as cyclospora spooks consumers.",
+      "The headline trail, newest first: Michigan cyclosporiasis cases rise 11% in a week, even as new cases slow; Growth of Ohio cyclosporiasis parasite cases slowing down. See numbers; Michigan cyclosporiasis outbreak tops 13,900 cases; 35 additional hospitalizations in past week.",
       "The stable reference point remains 1,645 federally confirmed domestically acquired cases across 47 reporting states. State totals may be newer, broader, or include probable cases.",
       "The current federal source finding applies to a large five-state lettuce-linked subset. Water remains a possible general transmission route, but the current CDC and FDA pages do not identify a municipal water system as this outbreak’s source."
     ],
