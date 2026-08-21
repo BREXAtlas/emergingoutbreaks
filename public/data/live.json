@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T11:41:31Z",
+  "generatedAt": "2026-08-21T11:40:37Z",
   "alert": {
     "level": "high",
     "score": 81,
@@ -17,8 +17,8 @@
     "sourceUrl": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
   },
   "linkedOutbreak": {
-    "cases": 9481,
-    "hospitalizations": 398,
+    "cases": 10930,
+    "hospitalizations": 454,
     "deaths": 0,
     "states": [
       "IN",
@@ -27,7 +27,7 @@
       "OH",
       "WV"
     ],
-    "lastOnset": "2026-08-03",
+    "lastOnset": "2026-08-11",
     "product": "Shredded iceberg lettuce from Taylor Farms de Mexico served at some Taco Bell locations",
     "status": "Open",
     "asOf": "2026-07-17",
@@ -183,69 +183,69 @@
       "summary": "Michigan reported 2,640 cases at the state level and reiterated the need for Cyclospora-specific testing."
     },
     {
-      "title": "Cyclosporiasis in Children: Symptoms, Treatment & Prevention - HealthyChildren.org",
-      "source": "HealthyChildren.org",
-      "sourceType": "newsroom",
-      "published": "2026-08-19T23:55:16Z",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVmFScDhoY1p0TFMtZms4Tm1feDZhVEoxNUlmQmY1YU40bHZ3Q1Q2SGFyems3VTlEa2UtNndjcnliN1I4OTh5T3lsbGVGN2NxdnZJVmdJX29QZFhXSzR3VTUxbS1TWUFCMEM3cTU3d1lnVDhaZlRqeVdhWlIwQTdlUk5YUUljM0NlTmtodGJDN2dnMmxmRmNoZTFxUHNWNzlZSVR3VnU5ZDd5RFJvM3YwbzRfamk3b3podVdRLTNTTlJVYWRDNUZyUVRqbl9BZ3Z4b0k5Mjd3XzNyRHRUVGYwZQ?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "As Cyclospora Cases in the US Start to Trend Down, Is It Safe to Eat Lettuce and Other Fresh Produce? - TODAY.com",
+      "title": "Cyclospora Cases Are Starting to Trend Down: See States Still Impacted, Foods to Avoid and More - TODAY.com",
       "source": "TODAY.com",
       "sourceType": "newsroom",
-      "published": "2026-08-19T19:44:38Z",
+      "published": "2026-08-20T15:35:53Z",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVDlYSjVYUWZ6N015T0RjTWRYYkhHOGxTM3N4Y2hheVM4bjV3V3lFY01ZODBrSGxrUVNUNjVhNHBYZmFMSTJpS1QwU3hDdFEybHZUekt5b2JHQmtwUnB3VlNQbXBabHlFS2dKOG5qaE9DZmJuQmU4aWlxbjFDNGYyTmozbnNKYTUtYUl2eWNZS3dKUVVUdTlHM3E3cGlkT19hYTljWlVMTFZUZw?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "Taylor Farms recalls lettuce in 27 states amid cyclosporiasis outbreak: What to know - ABC News - Breaking News, Latest News and Videos",
+      "title": "Record cyclosporiasis outbreak tests the response of a 'weakened' health system - NPR",
+      "source": "NPR",
+      "sourceType": "newsroom",
+      "published": "2026-08-20T19:54:19Z",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa3JBbnpNVmlhVFRjdFBJSldPNUR0OHV3cjVxTkNkbVZiUmZBZ2k3UmZicW9xLWhNNk42N01oVDVCSFYzUWJLeHhGS2FQNG9pY29pRk1HcE1ZT0dzcl9NQVlUak02c2RFMFN3NVJEU00xX1hweWV3QWVUNW9OX0lBSkJFdmpuYUU2QzFhMENhQ0xEWVExUzdiTk1VUQ?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "Here's where cyclosporiasis is spreading as cases are confirmed in 32 states - ABC News - Breaking News, Latest News and Videos",
       "source": "ABC News - Breaking News, Latest News and Videos",
       "sourceType": "newsroom",
-      "published": "2026-08-20T08:53:21Z",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZG56YlN0MDdsU2pKSThXS1dhalk2SjlGX2RzdGpjck0zcG84OU5LOEZXX1IwVzBmVkxhRThyOXFZZUJ2dW9LOGxPQmZHXzNlQTZORERGX0RRZTVMTXlrT3RWQkxTU2phZm44N0drMHctakk5UEJyTy1qNG5SRmpTOFpOMHlKeUdTSkRacmVrMUdTdkXSAZgBQVVfeXFMUHRRNF9FcG13Sjkya2RFNDJaMVg3VUNOWjM0ZlVFcTlQWERiTHZuTjFsMHgzY0xuOW9EQjlPVE9IYWdpQmJ3eEJDdEFwNE5kWTFjSVFCVHUtaWtYTERKM1hGN1ZBV1pwV1ZsX1JEZzZ6NmpyT05LdHZIcnI2WHE4WGlnT3pZZGZYOVJFajlxVGJCMEZTVlhqV0I?oc=5",
+      "published": "2026-08-20T20:39:25Z",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWDZHUXdQQl9hOUN1N0hOb2c1NFVNaXdaNzlGUFlaMmZDR3poLUIzajllQkwyTDJIbmVjNmVxTzFKd2xwRjJnWEstbUdmVHI5dkdwMjc2aTNJaW1FODNfQlZnRTZDZ0hyLUZIbEt5b2N6NWxsRFNXWmpuenBTaGZqM1RHYm8wLUpReER4ei1EOFdHRkxfaWYwdEV1RzDSAaIBQVVfeXFMTzZOYWhBZjdzcVBVY19QbnhkblNhczd5aHJzeFMxMEJjV0V2NmRCR2pEd3VhcGFYRTFQbjlCU3RlNEhEcmExLTZ6SU1WdW10NW4xSWNBUmpUUUlrakpKcmlUQnBiQ3EtZHE4dnNqaDNBWnBIZUMyTEJuOEk1c29VREpfaWJ2VDliM01qbjZub2RLZnkybmRiMXYyOFA0aDNQc3lB?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "Who’s most at risk in the cyclospora outbreak? The farmworkers on the front lines. - grist.org",
-      "source": "grist.org",
+      "title": "Cyclosporiasis outbreak linked to shredded lettuce served at some Taco Bell locations: CDC, FDA - ABC7 Los Angeles",
+      "source": "ABC7 Los Angeles",
       "sourceType": "newsroom",
-      "published": "2026-08-20T08:46:22Z",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUjRCQUlmQ3M4MEJVYnFTNUFrV2xxUElYNnhUVnk5V0k3MUwtQWxFWk1HaW14eHBwUnliOG9uRmZGRjI0aU5qa0Y5WFMtS3JpZElLeWhMUWlWbmlURDJoM1RwbTJvQU1pZ3NsYzFGRHRPWnZ2VE41czFyX1lZb3ZlTWlfQmFBSHN5OF83ZEhIWk5vdFJmMnNYQnZ0T21PMkNNMXJ5SWtENkE0TGRTOTd4NUFjdkVNNmRFMHc?oc=5",
+      "published": "2026-08-21T06:17:34Z",
+      "url": "https://news.google.com/rss/articles/CBMixA5BVV95cUxQSkhTZi01OEZuMzZNZWRuVVMwLUtUQ1Rod1Y3X0tqNC1Nc2dab3Y3UTVnbWpmUElHbkY0U2hSWUZXVTQwWGE0c2hpNE02S3A4SGxTeGd0LVVHdUJ2Wm8zb1BjZHBkQzllWnEwWjgtM1dESGRHZGU0R0Y2ZlNhQmEtUlZzbDczM3owYm9ST0liTHJCbVFsalNNU3I1dnY5c3hwTjZkelRJQzZ6SHBldTM1UmpySDkxMHFvc09IN1FMRHZkUWNBLVdCblBCOWlQY2tZMlladWZuelpTVlZDTG95aWlIT2hOWDlwejVkQk0xR2M5ZEl3NUNIRFdQUE1neTZ0azkyZDNFOG1MYUdVMDhpOVh4Ui1iVGZMX1Q4cEpPY196RTFRU3I1bU9ZNHM2TGtNOWpzWHJDd3RBbkxxT0dNM3JOb0VQUzRFU0JwVnFHbWl1akoxZHRJZE1sQ2x0TVJlbG5STElvTF9TYUhDMU5ja2ZqYVdVeG9BNmVMbEFldUQtbXM4MWxLWmlHQkM2cy11UW9pekZ2eEx2U2ZMdGY4ZGU4X1pCRWFRcEY2QUJWQzAyY3lpSnZra2xHT0d1YmNKLWEwYldTbl9WVWdweXpHbkw0Rno5RDVneXRqSXB1TUNvZjRwRUxJV25kdkt4bk9icVkxNURKQkVHT2dLVFNNMU96RHFzVXpmczdxbl9UTW5HMXhHaFBoT3RTNHhaNjNfcFZDazdjVENKaFlSMlVRelg5RjdLVlVRS3FzSndYZk80ZUV2QUFNZ0ZKd3ZTem0tLVNhdnVBWDhCVHBKNUhnM3R4V0xaYkhpU2RVenpIMmh6a0FJM3pFZld0cWRyUHo3V213a3BOWHA5dnpwNlVRNkI0Y3dHQ2o4ZmxNcVdWWUM3OE5KSnFqMXhJVnFDM0NqU2dPaWV0V3BIY0pDVHhpeDZPcUo4aHgxRVdiSTF3cWVoZ2ZITzh0SkEwdjIzTWZqeTBfVnlHMVJLRGVLOTVVNXUycGJvQjRjYTQ4Rjh0WU1Na0h5MkZpQ2Jvc2laMm9iZWEtWEU4bThJWjNZQTBRQUpobzhYOTJnRjY0SzhXUThUWFRQci16YWFuenZhLXZRMTBSOTBJbElsX1dJLXF6NkNrZUlGZWtOd0xmMVRSZmkyRWNFazJERU92aGl4a1BSLVUtWGhpbGN0UHFQQzFGZzZaendmanJvbXF2bEwtb3U5UWphQThFQWczU2ttSEhHUXRSNlJFb05IaGxHTTlKY1dvUUlrS3Jvc2VjZnhRNmlaa09EOElFaDdSSEE3SXF0TDkwUEg3S0RYWU92RmZoTHVySVIyMWNTeGdpS3cyQmtwZ2EwbDJLbXJhS0s4X3RqNkFOVm0tQmU0SWlIcll4VGMxYXBBNWVPajZDMS1VRUlGZk9fSTgxYV9qNlpKcmhIS1ZSRE80U3F6a0dTRWtVdDlDa3E4VUFaN3d5UFc2QVJfOC0tQ1Y1eFdIcjR6T1J1aVZGekQwS2RvTFIwQU5fZFdOY0ZzRVVNQnNWZGl4UldFN1NrYm5WVWRDNE1UME1LTmVZY2pkbFJOeXNleG5RVlotWkFtTWhtcnZndUVNaG9JQVBHc1E1NkU5ZHl2NEV5N2pvOTl3QjhLYlgxTFBqc2ZJRHB5X1lqa1QzT1c1eER0RnVCOFJGSzVnRGJueVFtd2JST3c4Wno0YzhvQmxXZGNtbFpHM1JPRFJPN013TE5VVUtmTHVCUnhQclJpbGtrSE44eVVtRTJWc2dkZjZEQkZudXFsSUpVZEUyeVRYdlVheXFGdFhuN1loTXlrT1dneDJOWWpKZ2pmbTdjNVpyd0lNTzFvNkRJZzB6a0pwX2p3NXVjREZNaFpEZGh5NzJCeGpid3Bzb0ZOeVB3U204V0U0UEFCMlh4c1lHVlVNQk1QSk1lWkRXUldlYWQ3Yk5JVTdjbFhKbEZHa0J2LTVaQVdySXowdEZwMm9ROWk4Q1NuRFpadXdFMUVFN1ItN1dDT1o1RjQ2ZnpvNHZ3eDZxeFlBdHdCUzV5ZEttQXJlaHoxUFhyWDJKeHRNaHJtWkZvdkpaNHkyU205OWNmWVBJQ1pGVVNHMWNoVk14aHprQkJwZFd3SlBpbTQ5QlgyVnNiSmJpTUFzUkdDVy1TWFBkMHQ1eW83bVhMWGFmZzZzVlFsSGcybEFVR2QteWZEbjNhSVhDMGwzU1VEcklWZktDT1g3NE50WUE1M1NXc293bDFDczNvWmZaalJBRllDX0oydXRDcTd1UkFOUllISGoxMTg0bHVLU2FOdkI2TXM1Z1pNOS1YT291bWVma1JZMTBNd0UyakxRZ1g2N25qbVk0Slg2MlNwVWpSZGpQM3hYUXdhNEdXQ0JvWm5GX2RjSHM2VzJ6V0N2ZUpyQ1VpQk1NN29kTUhHbF81N0U4U2pwU3BKQXJMNXZWQUtfcVFNUXBHMXhpMmxDN2RNWC1fQ2t6dkthMW0?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "Cyclosporiasis cases now total 15,716: CDC - The Hill",
-      "source": "The Hill",
+      "title": "New Ohio cases of illness caused by cyclospora parasite fall again - The Columbus Dispatch",
+      "source": "The Columbus Dispatch",
       "sourceType": "newsroom",
-      "published": "2026-08-19T15:53:00Z",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRmYzSkY0TVhmTzExNS14b0E5a3hER09HV0JKcEM5cWdBRFlGX1pQSnNhWDVHQmFYc0NpbnBPS2JxaEFLSHluaXVPbTZla0JfU1BJQmd1MnZaTzhINnl2RXhzdFd5TVBCVUFFUnZOVEdiZVZBek0tbGZPNjVMN0FFOEVLS19CZ2PSAYwBQVVfeXFMT2ZfOFQ5ZnlST3BhRHppSjk5MFNoTTFtMHBRWHJULUswa05WdXVaNTRoN2NkbDdnVklDMXQ4VkEyWk1tSURjLWZLaWxZMmFhTDE0S241WTZub09QUTlUd0lYc0FYQm9TYUFjOGk1bFNTa01oOVdIQXBta0JNMGZIV3lwZjZBa2Utb1pka2M?oc=5",
+      "published": "2026-08-21T10:49:00Z",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQS0dXTjJwa0hNc3dObExNYnFNUEE4SkpxQXR6TGd6c0haRXJ2cnNRT0pHZnJMNFdVNFN0TXhTVWY4c3o3OUVNdm1vT2dkY09USWFmT1ZlcmxhRWNpeTE0Z294bFdIeW9HMmV1czF3QjhGUnNlQk1fcXJlZlBGRnhQWEk4aFNVVVZrX0VmZ3hEMEtseUJ6Z21vZkp2UkpWX1ppUmpOU0U5QzdFUzVCcmViMzlybmVvV2dOYTZ4b2FaVlJZX25CRk5lWkJRM0NYME9ET2g3Z05YNA?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "Feldman: Cyclosporiasis outbreak highlights public health needs | Opinion - Courier & Press",
-      "source": "Courier & Press",
+      "title": "San Francisco confirms 10 cases of ‘explosive diarrhea’ parasite, 1 tied to national outbreak - San Francisco Chronicle",
+      "source": "San Francisco Chronicle",
       "sourceType": "newsroom",
-      "published": "2026-08-20T09:02:00Z",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUHNGaHVwVmhLaXBVdUNiclNkUGhJODZpajZKMjZhdENPcDFmcEpLQVo1THFkblVvWkVDSmxBMGRiNkI1WmFqY3FlRHpVMk5jbGx6MnZCMUpQYmlBV0I1V0otQVg4NzM2LXJJOWdSNDZDdmtZVnVmTnViVUdqVzdFbi1RWjBVWVE1ZWdPQ29Na3ZpU0NPTXdSamlsUFd3UWIzU29obUU0a1l4SlkzcjU0Q0tHcFA5bXl3UFF3aE81c2NuZm40SUFtZzl4VkFxMi1IUU1lSzRIVlBHV3ZVUlhsdXNn?oc=5",
+      "published": "2026-08-20T23:34:02Z",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc00tOG5FejhqX1F6QzJKblFUejZtQnpsOTUxUXRjZDllQm5ncXVTbUd3R1NKT25uVDZ5X0hsMHowZkxmc296U2dDRDJENmtKTHhaNkFsOV9hNzVMSWtyckRHNy1LcmgwMzU1VDBMYlp3b1NPNzVENkhlVG9WT3ZuLUhvS0g1ZXJkQlpEUXg0eEVqajVjdzByWUd2bw?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "Laboratory Messenger August 2026 - County of San Luis Obispo (.gov)",
-      "source": "County of San Luis Obispo (.gov)",
+      "title": "Michigan cyclosporiasis outbreak slowing, but cases still being reported - CBS News",
+      "source": "CBS News",
       "sourceType": "newsroom",
-      "published": "2026-08-20T08:57:24Z",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObFJNbW9nQ2xQY1FiMVBfRkNXdFZWc0g1UWExd0lvZE5zX2kxS2xXSjhhMkxZQUJDN1YyYVhIandWSUpJWXJsRDZvcFIwWWt4V05QenR2cWxDV1FTSlAwbzRVYnBDMXdRMkR6OGt6VjNyNU56MmpjM1BkQUJyX0V2ajIxalVLdGxtMHhSY0N5cUJ4RG8xN2VKaVVOcFpfaFhJQS1HN2lwOGgxT1lXMl9jaVQ3WHN1bkE4S21OX3drczBJU2xZc1BFelNVSkQ3Zkg4UWpFdnJoMDEzR082T1ZBakV1SW9idzRpOVdv?oc=5",
+      "published": "2026-08-20T16:01:12Z",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS2MtenkxV0VUWjlxNktHdmhpSXhnd1RiX3Z4c0VyQjNJYXBDOVc0anBNcVJRdVg5X1VoOVo2X0ZBN3ZKUTR3Y2JWbHZaZmQyMzdCWlZmOFpCMGlfd3hYT3Q5TExzYlhLdlI1SVB1bHA3RFhHZDVXcUtiYXpWY0h0QmxJdnF1YXRYc2JKVkp1ZE5KUQ?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     }
   ],
   "blog": {
-    "date": "2026-08-20",
-    "window": "News published on August 19, 2026",
+    "date": "2026-08-21",
+    "window": "News published on August 20, 2026",
     "title": "News in Reverse: start with the verified scope",
-    "dek": "Yesterday’s public feed contained 3 indexed item(s). The daily brief works backward from official scope before adding headlines.",
+    "dek": "Yesterday’s public feed contained 6 indexed item(s). The daily brief works backward from official scope before adding headlines.",
     "paragraphs": [
-      "The headline trail, newest first: Cyclosporiasis in Children: Symptoms, Treatment & Prevention; As Cyclospora Cases in the US Start to Trend Down, Is It Safe to Eat Lettuce and Other Fresh Produce?; Cyclosporiasis cases now total 15,716: CDC.",
+      "The headline trail, newest first: Cyclospora Cases Are Starting to Trend Down: See States Still Impacted, Foods to Avoid and More; Record cyclosporiasis outbreak tests the response of a 'weakened' health system; Here's where cyclosporiasis is spreading as cases are confirmed in 32 states - ABC News.",
       "The stable reference point remains 1,645 federally confirmed domestically acquired cases across 47 reporting states. State totals may be newer, broader, or include probable cases.",
       "The current federal source finding applies to a large five-state lettuce-linked subset. Water remains a possible general transmission route, but the current CDC and FDA pages do not identify a municipal water system as this outbreak’s source."
     ],
