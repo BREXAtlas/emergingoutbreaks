@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T21:22:10Z",
+  "generatedAt": "2026-08-29T15:37:41Z",
   "alert": {
     "level": "high",
     "score": 81,
@@ -199,6 +199,22 @@
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
+      "title": "Cyclospora Cases Are Starting to Trend Down: See States Still Impacted, Foods to Avoid and More - TODAY.com",
+      "source": "TODAY.com",
+      "sourceType": "newsroom",
+      "published": "2026-08-27T20:23:31Z",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVDlYSjVYUWZ6N015T0RjTWRYYkhHOGxTM3N4Y2hheVM4bjV3V3lFY01ZODBrSGxrUVNUNjVhNHBYZmFMSTJpS1QwU3hDdFEybHZUekt5b2JHQmtwUnB3VlNQbXBabHlFS2dKOG5qaE9DZmJuQmU4aWlxbjFDNGYyTmozbnNKYTUtYUl2eWNZS3dKUVVUdTlHM3E3cGlkT19hYTljWlVMTFZUZw?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "Cyclospora outbreak linked to recalled iceberg lettuce tied to 3 more states, FDA says - CBS News",
+      "source": "CBS News",
+      "sourceType": "newsroom",
+      "published": "2026-08-27T23:42:55Z",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNjdXdXVES0l1TnBNVlhySHVsaVhjdVkzRGJLZk42a2g4OFRNWmhBR0p3TlNIV2tIb0QwNHZObWptWUxRNFp0YmQ3cEY2R3NHR2tJY2hXM2p4T2dGeVlrN1FCUVRiWC1POGJBZU5SdEgzZWE4OTNpQWw2VWhmaGkzMjVOM0N5c3E2cy1UZDdTYw?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
       "title": "Massive lettuce-linked outbreak expands to 3 more states with over 11,000 illnesses - Fox Business",
       "source": "Fox Business",
       "sourceType": "newsroom",
@@ -221,31 +237,15 @@
       "published": "2026-08-28T15:40:00Z",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ1JHUU1XSzQ4dWl4SVlZaTVpY1MtVW5zU18zWnc0b2xTM3oxeXhfcGtoaDc2MW1vak1DRDJLdldKNFZyeGlzNG5OM1Z5ckU5TmJnZENwclhlcktHa2tkSjVwY1B5bHZub1VmbTRnVXVOZ1BKR1FiUDE3aWdoSlJUeGJVeDdJeEFhZjNzNkIwZW5oVVI5Smpvb0RFT3gwQdIBowFBVV95cUxOWHpxSnlRTGVCenFqZlhfNXBabWVYbzRnN1J0MVJDbmF0bC1DeDZnS3pFZkdqQVRxemc0QURGWlFMUERsWTlrQXJHaWpiYkd6V2x3S0hkYmlySk5DMWxzUVpreWxYV1czQUVBQTNkUEV0dkpUcVEycVpBU3o2SVNpaU1vRHU3Yzg1NlF0akJRYkVmSHV1VkxpdWlLRkZQQzBZTlhz?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "Ohio cyclosporiasis cases rise to 6,063 - Cleveland.com",
-      "source": "Cleveland.com",
-      "sourceType": "newsroom",
-      "published": "2026-08-28T20:20:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVkxTTEZIR0lPektabmlPakJObjgwV24xQllUSFdaNUVCY2NxdGh1WF8zeHBJejJHcXh0VFl0cXRIdk5WYVE1SXhaZWpHbUxYLU1OQlNzSFVUUXg0aWdPZDJqWVU1M1Y1MmE0M2xwRDF5dldCeGM1aGo4MzZOc2E1VEtqbVRITmpqZFpYb2JR?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "2 people die in Michigan Cyclospora outbreak - LiveNOW from FOX",
-      "source": "LiveNOW from FOX",
-      "sourceType": "newsroom",
-      "published": "2026-08-28T15:52:06Z",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQzZXdkpycU9fS1lOcVk4YVFpcUtLZG1rYk91SVVFM3ZPZ0dnQ0VOdGJNMXVBUGVTdjNNVUxDZXVCUDdQOU9BRmhUNXZRQjg5bk5qOUJYUnZzS0dNOENLTEpPZEFjMHhfaHRHSy12bEQ0MXkyT3Q5ZUx1ZlZieGRWQWg3dlhfbnJ1WE9zRjV5U1I5RlVKdmtF0gGcAUFVX3lxTFBpdm5jNDZFVWZ1bVhFVVJ0T1k4REtvcVlXa0UzbW1NNVZQR2FtMHh0ZEE3cFA3OVM4VUZKZ2NPMS1EdXo4Z1B2bkVWZm5ZcHpMVGZwc3U5MDFoM1VnREhOeTJFSklYS2hxVXNzOG9Da1A2ckJOQldWV0FCS0ZjUlktNG9NVm9hcnR2Vms5M3JaVjFTS1dqOU1YckpXMw?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     }
   ],
   "blog": {
-    "date": "2026-08-28",
-    "window": "News published on August 27, 2026",
+    "date": "2026-08-29",
+    "window": "News published on August 28, 2026",
     "title": "News in Reverse: start with the verified scope",
-    "dek": "Yesterday’s public feed contained 0 indexed item(s). The daily brief works backward from official scope before adding headlines.",
+    "dek": "Yesterday’s public feed contained 5 indexed item(s). The daily brief works backward from official scope before adding headlines.",
     "paragraphs": [
-      "The headline trail, newest first: no new indexed headlines.",
+      "The headline trail, newest first: So Are We Eating Lettuce Again?; Cyclospora lettuce outbreak now tied to 20 states; Massive lettuce-linked outbreak expands to 3 more states with over 11,000 illnesses.",
       "The stable reference point remains 1,645 federally confirmed domestically acquired cases across 47 reporting states. State totals may be newer, broader, or include probable cases.",
       "The current federal source finding applies to a large five-state lettuce-linked subset. Water remains a possible general transmission route, but the current CDC and FDA pages do not identify a municipal water system as this outbreak’s source."
     ],
