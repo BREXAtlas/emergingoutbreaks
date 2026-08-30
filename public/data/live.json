@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T15:37:41Z",
+  "generatedAt": "2026-08-30T15:20:10Z",
   "alert": {
     "level": "high",
     "score": 81,
@@ -183,11 +183,35 @@
       "summary": "Michigan reported 2,640 cases at the state level and reiterated the need for Cyclospora-specific testing."
     },
     {
-      "title": "So Are We Eating Lettuce Again? - The New York Times",
-      "source": "The New York Times",
+      "title": "USDA cyclospora research projects shelved amid funding cuts and relocations - Politico",
+      "source": "Politico",
+      "sourceType": "newsroom",
+      "published": "2026-08-30T14:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWjM3UGhJSFd0SzBoR1BfMzVyS3k2QmlvX0pLZnpoSjJoQVpiZnMwV2Y3dDJmUXZQbkFOREpvYi1FTXVSMWlhc1A2RlMyM1JCdE9JaGUwUkpQSjQtTU1kaUlvdzlLUlB5VzFpcFREV0pMRURpbTNPbDNvbl9zMm9wbk1Ga0pyRDNBR2FN?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "Atlanta shoppers turn to local growers amid Cyclospora outbreak - Atlanta News First",
+      "source": "Atlanta News First",
+      "sourceType": "newsroom",
+      "published": "2026-08-30T13:27:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbXZpWm9IdzdKRlB3alk1WVpSSWdRbHZrSnRYSGpKZ2l4MEs3R3NpWGk2Z2JHS1ZCTWM0UzRGbGtnQnpfUEhJVGtJM2R1cE4zcC1XcGl6WVFPSHNUcS1JREZHaVI0dGlBNVF2YnR1WEdhZzZPdzFNOVVHTTZJbE1LOExfSEhMczZmbElqeDd3SjR6SEYtaFRVZnp5NkhkUHIxaGVfQ0Y3WXPSAbwBQVVfeXFMTU1fZWozeDM4dVlCaVJ4MVdub0dlSFNYdmIzV3huc2wxZXozaUgwaEtpSHZTMkpjSEdKM2dmMm9mUzFMOFBuMC04RFpaZHR6SmMxaE1yU291YVBZSE9fQzdSLXN0SGlhMWpsTlh4M2dUTkVfT0FoX0FyOWF2NkFsc1ROZDFjZzhmV0w5M1QxN1dNNXlfSUdPY2VXMXp3cVBqLUI5ZE5QMUV1NWh1R0g1bElQc2hvUkZORnkwY1o?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "ADH reports cyclospora cases in Craighead County - K8 News | Jonesboro, Arkansas",
+      "source": "K8 News | Jonesboro, Arkansas",
       "sourceType": "newsroom",
       "published": "2026-08-28T16:42:00Z",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVHZFU2dLZkVYYVh6U3lYWUhGdDJKa3laeTNMT3hQbk9zZHVZLXRabXJDM2o0eXZoaDRqY21iYTdEdWwxYmhZQllGRHFsZ0pvRTdEWDNaWlRYYXdUT3FBUmRFZDB3ajdMZXBBTnZGTW9LSGM0bFN5bHN6VjBxM3NqNEc2OG0wMTZYdVFVZFZ0M25lcTdq?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY0F0aGpmYVZvUVhibDlFVWJ4MHhMZXJHZGo3eWh0dXc4SFhhNWI1NXRabS1zeV9jMEg3OGRMWDZpRmRtUjl5Ql9hOE0xOEVvOXdsX3Z5VzdFNWhXdFNodi1FaWpjVDVXMEl5QVpySENXZVh2blo5RWdienJFZllLZkdfZEhpUQ?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "Cyclospora outbreak expands - FOX 8 News",
+      "source": "FOX 8 News",
+      "sourceType": "newsroom",
+      "published": "2026-08-30T11:57:12Z",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94dTBHZ0I1N25yWV9UYU5DUTVDZXVST0ZWTzJ4OXlqNnFuY3lzM1JPQ2t6VUJlYTQ1bEphcG9pRUZmUGQ0LTdyZXFfZFJrVXJfclowT1RwczBZMzNLbU9JM21IZzNYSDdDOHlCTg?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
@@ -199,53 +223,29 @@
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "Cyclospora Cases Are Starting to Trend Down: See States Still Impacted, Foods to Avoid and More - TODAY.com",
-      "source": "TODAY.com",
-      "sourceType": "newsroom",
-      "published": "2026-08-27T20:23:31Z",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVDlYSjVYUWZ6N015T0RjTWRYYkhHOGxTM3N4Y2hheVM4bjV3V3lFY01ZODBrSGxrUVNUNjVhNHBYZmFMSTJpS1QwU3hDdFEybHZUekt5b2JHQmtwUnB3VlNQbXBabHlFS2dKOG5qaE9DZmJuQmU4aWlxbjFDNGYyTmozbnNKYTUtYUl2eWNZS3dKUVVUdTlHM3E3cGlkT19hYTljWlVMTFZUZw?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "Cyclospora outbreak linked to recalled iceberg lettuce tied to 3 more states, FDA says - CBS News",
-      "source": "CBS News",
-      "sourceType": "newsroom",
-      "published": "2026-08-27T23:42:55Z",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNjdXdXVES0l1TnBNVlhySHVsaVhjdVkzRGJLZk42a2g4OFRNWmhBR0p3TlNIV2tIb0QwNHZObWptWUxRNFp0YmQ3cEY2R3NHR2tJY2hXM2p4T2dGeVlrN1FCUVRiWC1POGJBZU5SdEgzZWE4OTNpQWw2VWhmaGkzMjVOM0N5c3E2cy1UZDdTYw?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "Massive lettuce-linked outbreak expands to 3 more states with over 11,000 illnesses - Fox Business",
-      "source": "Fox Business",
-      "sourceType": "newsroom",
-      "published": "2026-08-28T07:06:00Z",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcl9BNnBxRHNRb0xjRWhHeTBLMTJlMmJzQklSWmRiX3Jnd3puREpIV2lHS0liRTV4S1h6VzNybnowUGhSaGpHTHhYc1BKem9GVEczOHRRbGxpcVBuTloyckFxZndKMXRlRGJWSTduU1JZS0ZIUU1uNGU4bmMwSEZjM3Z0cXJ1UU56SHpHYzJPNzJUMVA5LVVob0Y4cGNnS1BfdGtscmxmRnNNMDU3eHhiaXpR0gG3AUFVX3lxTE5pVjVLbjR0OXY2UEV1MElRNDRqUGpJT09sTEM0OFdiTjVHYlZCeWZZM3BMVVlJSUE4SVRZeUVHMGNrQ19jQUZvdVVpaTBXclZRRXN2NmZhVXY4WDBHd0JzRlZSODUyUkptTEdsbURQT2ExNUU3WndfenNMLVVnOE84ajlISnFVV1RSS3dSbF9VNTNWU0VVV0xUT1ExakZTdmJHTXRrUVRHSHFwdEwzUmFWejhyS3dSSQ?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "Lettuce-linked parasite confirmed in 3 new states. See outbreak map - USA Today",
-      "source": "USA Today",
-      "sourceType": "newsroom",
-      "published": "2026-08-28T18:26:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM2VXX1k5X3lNZDdMWW5oZm9vWWF0ZVQ3UlpZT0RnRGVQcmk5UjFKdW03Yk5MX1FUcW5oTkVWU1BMcVItWk5IcnU5VnRicHJnUG84QUE1SWptZWNlUk9EcGZfaDJtdlczV0RVNERiVDA0dlI2YW9wdnhoUGZkNTFTeXN4WURjNW9EM3RIWUJMa0pvQTdObjZzRHFvanVKRTBlUHBhQ2lMS3I0Y1JFZE8yOU9GMVVOMzBZamc?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
       "title": "Officials widen lettuce-linked cyclospora outbreak probe to 20 states - The Hill",
       "source": "The Hill",
       "sourceType": "newsroom",
       "published": "2026-08-28T15:40:00Z",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ1JHUU1XSzQ4dWl4SVlZaTVpY1MtVW5zU18zWnc0b2xTM3oxeXhfcGtoaDc2MW1vak1DRDJLdldKNFZyeGlzNG5OM1Z5ckU5TmJnZENwclhlcktHa2tkSjVwY1B5bHZub1VmbTRnVXVOZ1BKR1FiUDE3aWdoSlJUeGJVeDdJeEFhZjNzNkIwZW5oVVI5Smpvb0RFT3gwQdIBowFBVV95cUxOWHpxSnlRTGVCenFqZlhfNXBabWVYbzRnN1J0MVJDbmF0bC1DeDZnS3pFZkdqQVRxemc0QURGWlFMUERsWTlrQXJHaWpiYkd6V2x3S0hkYmlySk5DMWxzUVpreWxYV1czQUVBQTNkUEV0dkpUcVEycVpBU3o2SVNpaU1vRHU3Yzg1NlF0akJRYkVmSHV1VkxpdWlLRkZQQzBZTlhz?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "US officials tie cyclospora outbreak involving iceberg lettuce to 3 more states - ABC7 Chicago",
+      "source": "ABC7 Chicago",
+      "sourceType": "newsroom",
+      "published": "2026-08-28T17:47:03Z",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMEhYTnRNRDJxX2NIQjd4X19hVUdlUm5lRm5JbU1LRUJPT3gtWlE3QWVZcFZLZ3N6c3pncEhMTEV1VEhTdk4xVW82bE1IRzl4SmROaHp4MTJLY1M3YnhrSHBZYWQtVjlhczUyR1FETmtDamM5NnNOMGpkOVVGU1ZHUkppVmtRSF9JS2dIS1ZNVkptWTNoeE0zNkRZMjhFSXhPNmtBSWpmRDQxZkRiQm1PakhlOHdPSnc?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     }
   ],
   "blog": {
-    "date": "2026-08-29",
-    "window": "News published on August 28, 2026",
+    "date": "2026-08-30",
+    "window": "News published on August 29, 2026",
     "title": "News in Reverse: start with the verified scope",
-    "dek": "Yesterday’s public feed contained 5 indexed item(s). The daily brief works backward from official scope before adding headlines.",
+    "dek": "Yesterday’s public feed contained 0 indexed item(s). The daily brief works backward from official scope before adding headlines.",
     "paragraphs": [
-      "The headline trail, newest first: So Are We Eating Lettuce Again?; Cyclospora lettuce outbreak now tied to 20 states; Massive lettuce-linked outbreak expands to 3 more states with over 11,000 illnesses.",
+      "The headline trail, newest first: no new indexed headlines.",
       "The stable reference point remains 1,645 federally confirmed domestically acquired cases across 47 reporting states. State totals may be newer, broader, or include probable cases.",
       "The current federal source finding applies to a large five-state lettuce-linked subset. Water remains a possible general transmission route, but the current CDC and FDA pages do not identify a municipal water system as this outbreak’s source."
     ],
