@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T14:58:31Z",
+  "generatedAt": "2026-09-11T14:59:56Z",
   "alert": {
     "level": "high",
     "score": 81,
@@ -17,8 +17,8 @@
     "sourceUrl": "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
   },
   "linkedOutbreak": {
-    "cases": 11458,
-    "hospitalizations": 495,
+    "cases": 12883,
+    "hospitalizations": 570,
     "deaths": 0,
     "states": [
       "IN",
@@ -27,7 +27,7 @@
       "OH",
       "WV"
     ],
-    "lastOnset": "2026-08-15",
+    "lastOnset": "2026-08-17",
     "product": "Shredded iceberg lettuce from Taylor Farms de Mexico served at some Taco Bell locations",
     "status": "Open",
     "asOf": "2026-07-17",
@@ -183,69 +183,69 @@
       "summary": "Michigan reported 2,640 cases at the state level and reiterated the need for Cyclospora-specific testing."
     },
     {
-      "title": "Cyclosporiasis outbreak linked to shredded lettuce served at some Taco Bell locations: CDC, FDA - ABC News - Breaking News, Latest News and Videos",
+      "title": "Federal officials poised to declare end of U.S.’s largest known cyclosporiasis outbreak - The Washington Post",
+      "source": "The Washington Post",
+      "sourceType": "newsroom",
+      "published": "2026-09-11T00:45:19Z",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOW5Ca2RET2Y2cnV0N3UwUEcxemtBS1BkMldtNmk4UGpsR09NaS1pR3dxTkhYdlNWc0lKcnNFc01qTFlielYxVjdEWDVMT2puRUxuVzNQc2tSZWF1cE9JaFNQX3Z0MlJPdEViLUFOc1BZXzVxMk5ETVIxRjlUNWF1T2ItT3FXVFJtdFhkU2RMRkxYRHVFeEdPUTNiM0hsVDZnS042YlAwR3ZOQTJWOTVfRi1oR3Fyb2kwZ0tweEJZajFzeEJZN2lV?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "'Sharp rise' in cyclosporiasis cases in UK linked to Mexico travel. Here's what to know - ABC News - Breaking News, Latest News and Videos",
       "source": "ABC News - Breaking News, Latest News and Videos",
       "sourceType": "newsroom",
-      "published": "2026-09-10T07:17:18Z",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTHBwM1VkQU5xa2EzWU9tVGJEQUswaE1XTlhqT3FlakdSTDlXd0tfWk9pcks3RUxkM0F5ZlhoZzFvekNBOVZ4TlFtTVJ4WkZ0a3JJRXhTOTZwdVB1d2NEbS10eXBXV3VvR0VxNEZiU3o2WEdjRjcwejhmbDZiYzJBZDdwWHBjbC01N0d6T25lSTJ0UlctTUNHNEprNEowOW03QVFHYktjTXA3ZEFvSVM40gG0AUFVX3lxTFBRVlB2NmxkSUIzRDlhakE2SklUUHRRMkN1Rkd1ZXNJZE9odG5iME5MS1Nfay1NREhqU0ZfSlFzSEJDaUoyNTNpNFNLX0pqNUJCNW5fMmdQSkQ1MTRhRmdjbVZTSUsyMGk4Zms4TDd3Tks4U2V2WmxFb2FsY29pNDdqOExyRml6b2lsQURGS2NVam9rOFlqR0pzYzNhaUFYelc5Q1JJemJBRFk2QjVUUHBzRHI0ZA?oc=5",
+      "published": "2026-09-11T05:09:05Z",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM3BjODZZSDd0eHFXOVNIaGZpazY2OFZPWjJRUGpudU9hLXV5TExZUWhsS0xLeWFteG5ERlBSanh0TmJNTGRUVjR5cDllN1NWeUJsZUNJX1RkWkVuTGZRZW9jZ2Y1Q1lkSXB4LXdnTm1RZzJBQVNQdU0xWHY5YnFZQmx6bk5IRUVuLTg5LVdySWpKc1VrTDB1UkE4V0lmTlR6ZEVF0gGoAUFVX3lxTE1mcXJiOEhyZzVjUk9DeW80XzZ3VXdxUW9uekRkekZGbkJuMVFVSDQxUUkwUlpRUHdsMVRqVDkwODB3WFJFVnZJbkNaWWNoc3doTFU3dWUySml5cVZ1OUNoaERvcTRKd29mdEJINFZfWHlMQTdMWUJwajA5dWlLWkpYU1lWSEt6Q29US2RieHlPM1Zjb1RMbWh6M3pMejd1eEpWekVRZ3R3dw?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "Cyclospora season is over. Here's why Texas is still reporting more cases - Dallas News",
-      "source": "Dallas News",
+      "title": "2 deaths reported in cyclosporiasis outbreak in Michigan as cases surpass 11,000 - ABC7 New York",
+      "source": "ABC7 New York",
       "sourceType": "newsroom",
-      "published": "2026-09-10T09:17:26Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNREI0WVVNaEx6XzUtUmtwMTdVVFUxNWhBbmlnZlVVWlRRVDZkc3F5WW5QelZWODdEYTlDR0hELUFsZUdpS0NvbFh3M0Q0S09iNERQdmNtN05fdUprYVMyS2lfRzZJX1hHVzBaYkNuQjJTdW9ZOU1CTjRjbV96dmg4SWE5MHU2WS1pQUF5SUtwSmxGVDV4Z3lFT1l2Yw?oc=5",
+      "published": "2026-09-11T12:06:33Z",
+      "url": "https://news.google.com/rss/articles/CBMilwpBVV95cUxORFBxLVVsOE11LUp4a0lXLXhrZFJJT1NEaTJXQm1ITy1NYnozZnluUVZnN1pVRjBZQmVIR2JrTHlDdkluWFQ3OG1BNUZQUlRsWDBIVV9XTnJqUlJNazdDSXJGNno4RGdCV1Y5ci1EZDBmYlk0Ni0xSzZ5WDBiQ2NqTDNuSm8xMHg2TVktWWVEa3VJLXF6bEs0bGlKOTFIMGZLeDVVN2xqcEV4Ym5KaHc4Tlp0cndneWxrY3J0ZWpEanFLdzV3X0IwZ3pyanh1dFJBMDg1NzJzODRoN2pHWHJpWnFocUIxSTVacENDeGYzVkJIY2dMUmZGN090OERCRGFfTDZLVVo3b3l4ZzUwXzRJSGgtdThseWtWLW5tU09Bakwybk1odXFzdFNiTVg4UUZjNkRaeFd2V3VJSG1kNGc5YzJNN3EtTU1CUnNBNWt4cGVzS1E0TUd5bnRWSXpULXFoS2t0MjZ2MWYzc1dkR1ZUNUhuRXNRWlZSTE55blA5bDFsWnUxM05qX01jTzFfNGptV2VJaXRVek8wM0RsczQzcDRmMDBUWnQyWXhYRjJnVEVWQm9tYV9MT21YdElSV09ob0tWOFhjcDJ6b0pTeEptc2FWNDRKS2ZWcEF3d1lhRGNsVGplTTdVX3FZMWduMUtFV0RPVzVFOUtkYXlQZExEenFmTmM3d2pJRnR5eExDOTZINDNFSmVaTE9nSFEyakp4bnhKQmJ1allYS19BLUtURUNVSzEyUlBXVGZfVzNieEF1Q2tneGhHRDR0UnRkMjVsR0xNVVpRd3JhU3RIREVwS1ZxYVgxZTMzRjR3MENDdDhwWjBfd1FHZ1lnY3g3SVc2YlU3UnlUY2s0bHdGYTJTRm9IRHV6eEx5b1B3dFlPakxpcGJsb3RCWWJhUUtZb1Y1R042ZVlFQlJMQkY1MTdwNGhpQVhVRVQxb1VBZHFSRFgzbzFzenV5N2VKeUM2cUF1OUl6eGJtb3dMdE1OalJDQnQxX2dDVUlmWHE1WVN2NjRWWDVicldqaDNqdlhmSEl2UDF2UnZtWVN0Tk5WZ19qY3lQcmItcTBNSTU4eFgzRzNsUHUyMFdCQ0Zrbi1fdTFoaHJkQWF4alpqU3FBSDE1QzctVXE1eDk3cm9kRHprRm1jc3Z1a2l2VWJKZHIwY2RUX2swWEFOelRXSXhkOGpYZTVQMkRPQWxmdElGLWZ3UXRSU2JLbm9GU1Y2QXpsdEVWRTg5NlJRaF9BUHFqb2FNUDZycHZDMVJWQjEtMnNIc0QyeGVJRkNCU3dueVFwZUIxcWJ4bXBGNk1pcnBQRnhCbGx6NDJnUzVFTkZxcVVfTGhrRG1nYzg5dTdHQ09NZFRxVjlYUUJGOFk4WllEY2JfVjFNUkRwVkpCWDE4ZkRidG9ob2F3c1lnSFJMLUxfSTZNVmJUd0VVRk9KZ0NTOWtzY0dNakFHQ0wyWEJxbEt3VzVyekRIVVlCNWQtemxGd2Yya29kZG03UGFJa2diTkVMdEJ6VW5jNjZHMEJiWVU5RzVlUE14UmV1alBQN2JVR290V1Y1Z1Z0RW8xdnFMdVFMVlJ0Q1dqRlhQSG1hMzJiVXZmX2Z4bUloX1ZJWEYyaWVSengyaVlVbWFzR1dNWUVrZWhYU3o5UWs3dkFRN3JfTlZWemZRYUdNTWxDV1JucTduYmlrcGV5Sl9HZFUtc01OejA4U3FvNDN6N3dJUEtzZ3Nxc0xNQkJ3?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "Is your food safe? What experts say about a historic summer for foodborne illness - Scripps News",
-      "source": "Scripps News",
+      "title": "U.S. Officials Expected to Announce Cyclospora Outbreak Is Over - The New York Times",
+      "source": "The New York Times",
       "sourceType": "newsroom",
-      "published": "2026-09-10T11:18:26Z",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQlI1MGJYcE9uMGRyR1M0MVQyek5ldm9qNTFwTE9ZX2s4aGJSbzEtU3JETGQ3YXIzTldMWThHTVJIMHRJZVludGhpNENmNklXU3JreTRyWTcxejgxd01GV0cwbEhIZTFFb2pqNHpMR3ZCeF9LQnJYdTYwckdLYUtaMG1rUHZDa0w4X3lUTjIyZ2hLd2F4Z3BLU2doaHlsVElsSFc3N1g2dWVDOHF6ekg3SWdpTTVxM1FIYVRMSXZxNjNlRDVta2ZB?oc=5",
+      "published": "2026-09-10T23:00:33Z",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1sQzdXTEd2NzlMVnlZR2ZUaElJU1VMbzNxcDJ4c1lwcVN4MldpS2pkd1hhNEFxdXdsdGsxX1puOWRycm5XQlRrUzhZUERNdjFoWHRYRTlMQ3NaTEIwMXI1M1pZQW1teHh5d2NFd1FGR3BHOTFMc1ZxMW9pVmhzdw?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "Marist Dining Assures Students of Safety Following the Cyclosporiasis Outbreak - maristcircle.com",
-      "source": "maristcircle.com",
+      "title": "Cyclospora outbreak to be declared 'over' - CBS News",
+      "source": "CBS News",
       "sourceType": "newsroom",
-      "published": "2026-09-10T14:24:18Z",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaUxXX05yS1lkQ3E0YUNoNTlBNDkzRDdMWlJ6Sng0bWRPcmktU0ZQMG8xNGdKT2xsVkhGNkVMZG5kVmZxRmZsNUpuczVwTE1OQW05d1FuNWMydkpsU0FfOUEyTVpZSGR3Q3pLV2hRYTZTSzExLXNadWlFY3JqTVN0ODhiaTBXRTNsZ0EyeFppWmNXaWg5T1FtWTUwOHM3Z1BrVHdKWHMtT2VYU3dPd1VmLUc5ekFQQTVXanFOWDVaeGtxdmZDeDYzd0VqUUMzR0lF?oc=5",
+      "published": "2026-09-11T11:39:00Z",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMlVTeWZkZVdzUkcxUFktYi1pOEY3WkhmSHZVTS1DM1FqaGltTURrWHZNbW9weGlRUndWRmFNcHVJbDF4eEM1d3R2OGc4bkZ6MVFmaDBrOUpVWDhKajFmRVFkWS1famlYMFNhNzBoQ1JldWJ0cV9lTWtGMmJ6U19DNXVRdDE?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "As a record-breaking cyclospora season comes to a close, a look at the impacts on local growers and gaps in the food safety system. - Monterey County Weekly",
-      "source": "Monterey County Weekly",
+      "title": "US declares end of largest recorded cyclosporiasis outbreak - The Detroit News",
+      "source": "The Detroit News",
       "sourceType": "newsroom",
-      "published": "2026-09-10T07:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQREpxdDVlS0piX28xaV85VWVaYmY0QWpTTU9STDNGSVpuVVA5UlFXQU1wRzQ3Nm50b3IxVzBmUTFVYlZPbHF4cEN5VHY3UEEyWUFzU2RxbHRXUmZqQWhidUM5ZFJ0czY4cUIxTTFLMkltZGJEVm1CYmVJSzM0YW1iamg1dXdRS0tSbkV6eHliX2g3VE5IZG41YXZkM3ZEekNFa1R0aUhvc2ZxeXJOclZUbm9IY2pGR2RmaDFRb3pkNnQ3UHk2WWY5OXNqNTRqRmF5TTh6azJZOUJWY3p6Y05LTi1TZXNTbWJ0VUkwQ0JXMnN0ekZrMVFweW1NRGZWd1hfcFHSAYcCQVVfeXFMTS1ITXNNcE5nQnQyVDVsX2JTYUJZZXJoMjB1Yzg1WWdOdkZqUzFxWkxaQTFjc0YzcDdiT1ZleGk0XzhRMGlZN2JBeU16Q2RtTUt0cGx5bDMtVkZmalVNVWx2WjZUTkZPUFJKRDVTczFMUXA3RDI2cHpjOXJyTnFVUGN5NUlBMUtNd3cwak9fcmd5MERWM2U2ZXhaZ1J4REJXU1Uta3g0QlM2NDFNcW40Z0JsdkVmLVhFREQ4VTVjRHdJVndQLVY2bG5oR0VIRzE3TWR0ampib1VYYU1peHZEenVHYmtxLS0ydE1seXNRZG5sU2lZWlZubEFCVWlOcThkWFZlWXhxMG8?oc=5",
+      "published": "2026-09-11T14:46:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaTBFamxvZmZXd1VOT01udW85d3hfVXl1S0syZGRuMVJTb1BGNGhhSmxMX0ppaVJXNVpIVkNsVUlacDJvMHZjTXdiUTNyb2hZUW9YVWZoZjlYSHBUTDdZdEJhNndTN1pKcGIwMG1ucTRIeGdNQVpEUnhnU1hybURJa1lZUzNnQ0diZTF0RHhlNENlTTdMdU5fUE5rRGJZeFNoSVJyWGpWTWsxWmlPX1FiOVItekhqMXlfcUJPTnVqdXFiaEdkZlh5cloxaw?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "RFK Jr. says cyclosporiasis outbreak is 'under control' amid at least 1,600 cases in 5 states - ABC30 Fresno",
-      "source": "ABC30 Fresno",
+      "title": "US declares end of largest recorded cyclosporiasis outbreak - Reuters",
+      "source": "Reuters",
       "sourceType": "newsroom",
-      "published": "2026-09-09T20:40:03Z",
-      "url": "https://news.google.com/rss/articles/CBMixglBVV95cUxPMkFoZEJVanoyM3p6N25QdTdlaFpLMEtVaFh6ZGV2Wld6YlI3Rk5ac1BiT3NWMi1UWDFfVlRBTWk2SmVPQ3dseERiZHRHOE1IMWZQbld2N3NfcHEtTkppVnZUeW51dUlpb0J1RzRFa0dldVFJZ1AtU3lJWVo2Vi1IaXctX0FNVGhKZXBxdWppbVk1S1RFd2ZWa1JYX1l6X2NUMUYwNXc2eVF4U3RfdVJiaHM1QkhLb1NvT3BwamR1WFk4UmZDOW5paGNFdGZKS18xOUtJcmRGb0xleTFSN29JcVYwN1Z5d2xSYVZMNlhwRHR0UUNmeERsbUlRRzZrd2R5TWlyaEhYWkx3LXp4TVl1SlpxNzk4b3VYbHlzVkxJVjFFTWZ6cWZUSWo1dDZ5cWZ3S2tReS1MYVNFLWZjS2xLbGlHQVdqVEQ0N3pnVU9BazdBcjJrdDYzVFd1dEJ0bnpBWE4tbldvOC15NGpyTHB4SnpJdGNFcS1ZSVFJc2lpR092NHpFMThiOTFjRnJUZWw2cUt1NEh0QThpTG91WHVnMFVuSTlOa0pGbVlTVVdnNmxmd2g4R3lweTVCd21XMFFoTFhnRjhoUFBodDBvR0M1eFltTXAyUTZPWGlFUmN5dk9ielRRYWdtUmpZc3pRWlZ0NFlIZGdjUkRDYXBydHNjT21xd2I4ZXBoajFHUXZCdWgtNlNCZEZ2WVpnTkl3UkR6eDRKTzRoY1lEVzhDT0paQ0xKZHR5bGVRREpCT1UwMzI0MlFKZmFRa1RFSHhJT3VGSkRkX2VHQzZxazBpT3pYRHRySHZSR2Q5dFpURUpsZ1BoLWEzejlibGdfYVFUdzhhdU85SXg4a1hjM1hJYkU5OUh4cVkxZTdxN181b2tNMU9XZjZlemQxUWVsZllBS2tQR3hLTEpfM3NoV29FU2JDWDdkZmZDV3lMWmZlbXRhT0k4VVJKZHhoaEFVb1g5LUZSelhaR3hBVVZIT1hlRFhDNGNqRGdFVEFlT2w3UF9fN0xPay14U01zR3Z3M0IxUUxWNV9UNHVEdXhxcWRWSmpVeFVmUEFGZU5LWXF1YXFCYWNaOEYxRWV5elB6R1VFd1Yxdmg2aE9xODJtbC1GOVlaa2NXQU9jczhwanVOU1pfdnpMNmlnWEJrOV8tUzNQNFRiSmNSRXJRSV9XYkFvTHJFZ2FVd2IyWlJ3TGZCV3QwNEFzUm85MUdCQU9hWVptLTRYRHlPVGxrU2hXNW5sSmVGSnpSbGpDZEd5Uy00bndsUW5sVmhBaklJV19nWFlEc2lXOEJzRHFNMU5ydzNoMlNodlZmeGF4TzZzSVBpdFhCMFkzM2FKXzI0WktZRjZfWmQyLWVuU3VBdVdiT0szM3RPbGc2LVF6TnZRWE55T2lZS3dqRmF0OC1VR0Q2UDhYcUJPTFB0eExkRUhwLXRGUmJYSWt2WThDMVdYb3I3Q3FvOEJjT2xwdVAzOHl0eW5INDdWamdieUNha0lRMWNUQUJQUkZuZWVUXzZVcV9GUHBrVTR4ZTE4Y1d5SDdwc0wtdXozaEVRdUk3NWppdmZZUlFZRVNSN1lHU0ljdW5wLUNqdEhOcm04bjdBVlJOaHZTVUphUk5ZLVlB?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "Cyclosporiasis cases top 1,600 with source still unknown; ACP presses Congress to tighten supplement rules; could a finger-prick test track metabolic health? — Morning Medical Update - Medical Economics",
-      "source": "Medical Economics",
-      "sourceType": "newsroom",
-      "published": "2026-09-10T03:02:14Z",
-      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOdndzbmhlc1E0cm1KZzVYeG1iemdwVjZjZ24zMDMyVGFiX0VkZ183RTdydEh6ZnF2XzZldWxQeDJ5Rk1jbWtodkE1U1J0RWFEbmZzTkxGNW5Cd2dHWXRqc0NXRXFuQWR2ZVR4T2kzY3o3UU8xTFNJdjVoWU1fMWxHWTYzMkh6Y2NpMVQ5VjgyS2dKbm9PVDg1bXNhbEszcnlya1VLcGxYejN0bDlneUhfSHY4OXVzVTJvUExhY3N0YmZROUpXeW9PZ2NsMUZqY3VNMjV6SXdxNzJmZ0RabUw0QjZEVzB0V0w3M0FFTWFKbHl6TlFPZUxadDZzZDhUVlp5RUYyVEZDMGh3WGFsRWJZTjhNVl9RTUNiaU5xOHk0SUxabUp1X2g4OGFValVyN0VHbC1HSkNlT25jSTQ?oc=5",
+      "published": "2026-09-11T14:16:12Z",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR09VN1ZRWGprdy1ndG9qTEVXVVkxVXN0SE96eDZJU1BDVFF5T1RHR2I2TGU1Z3lsc1FIWU9vdTgtanZ5VlZOZkYtQWVubkNHMDFBR0F1SUwzbUxIMnJjUmFEU2xWQ3dIZEx6UlRhcmhkQXZhUEtucEk5dzlpV0dIUGZNemxzY0l4U1luTlpTRklTYjQ3X2VhQXRlaTV4UjAxYUVxblNodGduX2o0WExvSFdhQWxKNXJMZGRKR0NCVHZOR1FwYldr?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     }
   ],
   "blog": {
-    "date": "2026-09-10",
-    "window": "News published on September 09, 2026",
+    "date": "2026-09-11",
+    "window": "News published on September 10, 2026",
     "title": "News in Reverse: start with the verified scope",
     "dek": "Yesterday’s public feed contained 2 indexed item(s). The daily brief works backward from official scope before adding headlines.",
     "paragraphs": [
-      "The headline trail, newest first: RFK Jr. says cyclosporiasis outbreak is 'under control' amid at least 1,600 cases in 5 states; Is lettuce safe to eat now? Experts weigh in after summer of cyclospora.",
+      "The headline trail, newest first: U.S. Officials Expected to Announce Cyclospora Outbreak Is Over; Cyclospora outbreak to be declared over.",
       "The stable reference point remains 1,645 federally confirmed domestically acquired cases across 47 reporting states. State totals may be newer, broader, or include probable cases.",
       "The current federal source finding applies to a large five-state lettuce-linked subset. Water remains a possible general transmission route, but the current CDC and FDA pages do not identify a municipal water system as this outbreak’s source."
     ],
