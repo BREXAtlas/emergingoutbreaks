@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T14:06:24Z",
+  "generatedAt": "2026-09-13T14:54:45Z",
   "alert": {
     "level": "high",
     "score": 81,
@@ -191,38 +191,6 @@
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "CDC declares cyclospora outbreak over - Axios",
-      "source": "Axios",
-      "sourceType": "newsroom",
-      "published": "2026-09-12T04:41:38Z",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IdXQtUktMc1l4QUY2eFMxSHlwaXloTnFDejRvTUVDWUUzZENZd21mc3g4WnVqTWtlZDRaek1YQmtiQk93Z0RwVnZPX2JWd05CU25UcXgtWDVfX0Rtb0w0VXhlZWVpZkFOM1JUM2dEZldPMmliQWJwR2h3?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "Salad is safe again: CDC declares end to cyclospora outbreak - KCTV",
-      "source": "KCTV",
-      "sourceType": "newsroom",
-      "published": "2026-09-12T10:59:00Z",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQUhiZXA5R3JWWGF3NTNRYzFZbHA4bkQ4ZWdkbnhONFVfaHJ5aFVCSG84QkJjUm91Zk5TbDBCRFBTYU9sVjRlYUctZFQzWTBPSUE3cFJyVTVjWUlzOTEwRjJrMW1KbVRkUTR1NmY3Vnhoc3BNTXo4MVZhZE45dzVvam8xQUxVbTlIVnVhaTJTNVpnTDhMRWJuR1FXVmk?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "Cyclosporiasis outbreak that sickened tens of thousands officially over, CDC says - Los Angeles Times",
-      "source": "Los Angeles Times",
-      "sourceType": "newsroom",
-      "published": "2026-09-12T00:43:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWnZDV1k0Vm8wODY4VVhFQmU3Wm51eFI2ZHJ5TWJDRW16NjlTOUI5SjdFb0VYckZUOWw4RkowY05oaTBRNG81MnZ3enptSGdTVlZZelE1M2tXcXlZUVJYNDlBOTVCc3Y1UFNzT1lWV284UVpEWWxrSU5VRURaa0pyNk1sZC0xU3JhYzlfcTlyVlpxcEFsQnBlbXN4VFlSUFd6ZTRkdjFZc0RJMGxkQ3JHWW15VnNPUXFKdmc?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "Erie's cyclosporiasis outbreak ends, but why were there so many cases? - Erie Times-News",
-      "source": "Erie Times-News",
-      "sourceType": "newsroom",
-      "published": "2026-09-12T08:55:00Z",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdW1NN1V1djNXUTlPZ1hqbThqMjZncGQzWVVfbk9sRTF1WHNHR3hVQ0lfSUl6MDVPSGdGZ2dtdDVsWVJveVFITHZ2Wm9HanJjZFhrSzdKWVlodjVtUWxhLW5hdnZPWWJqbUFEaU9aZzZMcHJKMjRlaHZXcU9keHhjUXZETUxqUUFwS1lQdlZQTENlMWFwQ0FDb3VPeWlJXzVCamhKQlhTd3lxNEFaRHRqckt2WWdDQQ?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
       "title": "Record U.S. cyclosporiasis outbreak is over, CDC says - CNBC",
       "source": "CNBC",
       "sourceType": "newsroom",
@@ -231,21 +199,53 @@
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "Map Shows Cyclospora Cases Across US As Outbreak Declared Over - Newsweek",
-      "source": "Newsweek",
+      "title": "CDC Declares Cyclospora Outbreak Linked to Iceberg Lettuce as Over - WSJ",
+      "source": "WSJ",
       "sourceType": "newsroom",
-      "published": "2026-09-12T13:14:00Z",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMl9zX0RCTEU1T0JrT2JNekNMeDBPdVRHOHBFWXQxcy1jeHBwZGRrQVpCUS1PemsxYUZ4WnJ6NlJDYlM4Uk12MV9ueXR5dW9CWV90Q1JsS3pfc3dqVGQ5QWlIVEpVQUFaX2VVMERpVV9FSlhRdzRLelhrYWVSRkZEeWoyUkkzazMweFRpY0lfQ0tnM0hlQkt5VVZJZXc?oc=5",
+      "published": "2026-09-11T18:05:00Z",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxLUxfczNTRnQ5TkNTeDRrSHJtT0tKTWh1R2xZaFNZbGJlQkxobHdfQzdyRU4wSnVlTUVDZXJGUktjSkEzbjRWTVp0cXUtUTh2ci1rb0lWWUJfNHkyLUdRd09XYnJKTUd2ZEFkLWY4dFBOOVBMcENsc3FSVmFZQQ?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "The Largest Cyclospora Outbreak in American History Is Over at 12,883 Sick, 570 Hospitalized and Two Dead. The FDA Marked the Occasion With a Letter Reminding Industry of Rules Already on the Books. Here Are Ten Things That Would Actually Help. - Marler Blog",
+      "source": "Marler Blog",
+      "sourceType": "newsroom",
+      "published": "2026-09-13T13:01:50Z",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQSXVhUWEyaWRtODhWdExHeXBTTElULTZsV1dJS3ZaMC1icmIyZFFKTVVJMFY1TkhNc3ZIUUI5RllRZUJzTXpCb3hlbGs0OEtSSjlXTWpJdFR1bGFpcE1aemR1UkVESElYc0ZSMktmTU40dTN3YmpMazRNZG4yai1YR0ZRb0EzTjNsd3g4eWtqbmR4UDNuMkxXNjlfbjZCa0twSGN2Z1Z5SXAzNzJHbFZBaW85NVdwdmFoR215bzczN3V6T290NmZjQjZtVVlBWG93UlhPb3B5M3JsVndJbWN2dnQ2dl93WVA0Y2FPejB2NFRpbllWdU8tOUd6T2tkSi1OSVZta0pzMDYxR2hmRWNkdlRoYWlYR25NRkw0NDdBOVVhcTV1UWdWenNham9BelhzYWVCbXhuMzdLOVJ6aWNUT0Rqd3VOVHRN?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC7 Chicago",
+      "source": "ABC7 Chicago",
+      "sourceType": "newsroom",
+      "published": "2026-09-12T22:48:38Z",
+      "url": "https://news.google.com/rss/articles/CBMi0wpBVV95cUxPVjFoa1NBRnBuUFFFeElUM3ZCckRsRVMwSWNDWkFSZ3BHdmhqa1FKb28taEgycDdGalNSXzRraUFZaTVzVmM4YVNGU2hYZXUwQXZNNXdHX0FqcE9Za1F4UW96Y2VwaEhhQmUtNHY1X2ZHSDlqZmlwVUNXVFN1SHlfcENZLVByU25SWmpPR3V0OS0tc1ZCTGdlSVVPcEVsQlJPZ3Z2OGtxczNBQTBkX3E1TnRqQmRBZE42V25TYWpvclhhdEdud2kzU2J2dnhhQVVNTmxESEpwSFN0YlNxek5xaVVNMHN3MU9wRW8yYktNWW9DYTl6bktpbUFkVmNJRnpWRjc5WFQxQ1IyakxOTjc4dXpnVGNDN2sxUjJBZWt2ejhHSmg5Uk9Tck5GR2J4WHk4X0NqZmlEdU1tM3c4eDVHTzZDb2xXU2F2aTktcmtIZGFLbnZEWk0xUk5UNXRLOXNUaXB0N1lYU3BEMU1PN2VMN3d1VGJLUmlld1hVQUZ3OGdjekx5UWx4ZGtFZXBkTGNOOXpydHFPSi0wdkVqLU50Ylk0TUVsY0NJZTlERXdhZGRYd3p4am1kTFAwX2lfMV9HZ2dSVjkya2VBQTczR1BkTWRpR1AzS1hsczBjM0lKdjZWU0FOWkJ1RnRYWE5yNGVadTBZWWlKVXBVT3VRZFh3MUVjU2VXZTVZX1ptMENzMVVVUzUwX25GU3BRNUMxTlE0ckVVbkNKNXoxMUxMMDZLOXJEdVNmcWQyYWR2YkFwd2FmSDZIZTlTN1JqbktRczBrTzdIemR6dm9JbVR3Y3o3TVlzakg5UjZWUURSREttdVR6M1Z1OFgxQ2V4WTR0VXd5dkRKeHc1WXNGQ2Rmc3VVY2tJQ3F6RlV6NnM5V3pBbE5tdjZLQkVxTTNuVGIzYlVqTHpLR3VQVzZiWkwydWw3eEZuYTJLVHdNVEMzUHJzNGdvQlZ6cnVkcUF5MldPcVhlYmhBSXQ2bUNZMVVhTkdEOHNSODZYaHpLdkVHMldFb212QWVxdGgyYVRhWUdCS0RqNElaLXdYV0E5NHl5bldKUFlJQTNSUWwwWXdmUk9OLUFJNTFXWDRPczBfaG12VDJGc2tnWWdHNjVzSGNYNkVRbWQzekNEMURJdE56NDNER2MybmlkdTlBX0NQcG1KdTBEOUdqZG52MHp2UHhuaXhWc0liRnAxR2c0RkI4VjhCYmprQy0wbF9HRzFSVUZDSW5XVWZ5VWRJN1ByT2FlX2VmSGhoSVlTQWhtMnpyOHFxTDlZYzBLbmIyVVBjclJERXdWLVlIUUpFLWxOdk80LU1rMVUzRDBjS2ZwR3BYZll6Zk9XdWxNMVFYS1NkZ0EwVVluX0trTjI0UzNJNi1JdGNTS0NxWTlvMndpaUlTSHRFRkVGa3ZPeHNsTXVpakVoUmdqTlJiNER4Wm90YnVJOGNKOGxVdm01V3V4aExGaDVMSEc0RG9YdkRkNVdpc1FTS2VHXzhjSzJ5YUNlakVFYXNpY0tRWkVyaVBBUXVFT1pTc05uRTVpdlBZTkZSZWJXQUxpc3kyd0JTVkNZOHRhODh4UnNKcGpWMnBmRENPV1huaEJWeWNNQXUzOWhic0hUTUNoSjhfV21CN0dGTFR6Q3piYzZBT2c0UkFCSFNmeGp1cHZkQVc0NkJwZzUzMlhtdnZQaWlCaHgtbmIzZ1RJRDdMWEhPQjB0R2xpR3IyeWdWeVFRY195Y2YwNVVnZ1VzOTI4Vy1TUjVvTU5xLTFQYU9kZl9OVWxlUjIyeEdyMTFfbWwtMXlhZ1U4LWJkbjR5TGJuaHBB?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "Record-setting cyclospora outbreak is over, U.S. health officials declare - CBS News",
+      "source": "CBS News",
+      "sourceType": "newsroom",
+      "published": "2026-09-11T16:17:00Z",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aemk2VzNTc3pDVzl6ajBKU2k4Qk81NTVkMTAtazNLZzdWQXNzVlBwNXlKX3o3Snp4OEJWQ0RRdjN6SkNtekFqZ1NPWEtFaEpaM0lNU3NVTnE3QmNjY3EyNjNhUTVBUDRjdWVfcVItQXVKYmc?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "CDC declares end to massive Cyclospora outbreak - The News-Item",
+      "source": "The News-Item",
+      "sourceType": "newsroom",
+      "published": "2026-09-13T03:45:00Z",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQ3dhR2F0c1YxeC16QXdmeTBLOElNd00zQkJyTUxZcjVaWklrR0NSTklIa1NpSzk4ajNsRlVuZGNINmRLbWtYRnNkZ3M1SVBUUFkwVWNiWHpldUZad2dSTEJmV056NDlBOGFrSEpvTGtHN0k4UUF3LVNLRnhBaV8ybThGVWk0clRCWnB2WF9mWmJEeE82b3Z6N3lrUTZSM1Jydk83WmExeDlQaFZ4M2RyMnNQMktWQlVva2w1TVF2RkJlc2lZOURtUEtkSlNaZw?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     }
   ],
   "blog": {
-    "date": "2026-09-12",
-    "window": "News published on September 11, 2026",
+    "date": "2026-09-13",
+    "window": "News published on September 12, 2026",
     "title": "News in Reverse: start with the verified scope",
-    "dek": "Yesterday’s public feed contained 3 indexed item(s). The daily brief works backward from official scope before adding headlines.",
+    "dek": "Yesterday’s public feed contained 1 indexed item(s). The daily brief works backward from official scope before adding headlines.",
     "paragraphs": [
-      "The headline trail, newest first: US officials declare multi-state cyclospora outbreak over; Record U.S. cyclosporiasis outbreak is over, CDC says; Cyclospora outbreak linked to iceberg lettuce declared over.",
+      "The headline trail, newest first: Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow.",
       "The stable reference point remains 1,645 federally confirmed domestically acquired cases across 47 reporting states. State totals may be newer, broader, or include probable cases.",
       "The current federal source finding applies to a large five-state lettuce-linked subset. Water remains a possible general transmission route, but the current CDC and FDA pages do not identify a municipal water system as this outbreak’s source."
     ],
