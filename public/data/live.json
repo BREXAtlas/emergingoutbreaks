@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T15:24:55Z",
+  "generatedAt": "2026-09-17T15:32:03Z",
   "alert": {
     "level": "high",
     "score": 81,
@@ -183,69 +183,69 @@
       "summary": "Michigan reported 2,640 cases at the state level and reiterated the need for Cyclospora-specific testing."
     },
     {
-      "title": "Cyclosporiasis outbreak linked to shredded lettuce served at some Taco Bell locations: CDC, FDA - ABC News - Breaking News, Latest News and Videos",
+      "title": "Cyclosporiasis outbreak cost Kroger over $100M in lost sales - WSLS",
+      "source": "WSLS",
+      "sourceType": "newsroom",
+      "published": "2026-09-17T10:25:07Z",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbHlUU3hBSFdLdnJpSFMwUG00Y3pnczJqcy1pZW1LR0pHbGZiWDlfUUQ0ZE8zVWFnSWNLY2h4VTVjR1piR0gzZnVfb0RPaTlzdG5KaG9ENThORG02SENpNmJIUGtNa29XSHoxdkY2Ni03cXdyM2JMdllsOWxmaTRsTVJqY0xaUVk1cXVnR3RwSWJad01rbGRVRktlNENhQQ?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "More than 11,500 cyclosporiasis cases reported in 41 states: CDC - ABC News - Breaking News, Latest News and Videos",
       "source": "ABC News - Breaking News, Latest News and Videos",
       "sourceType": "newsroom",
-      "published": "2026-09-16T02:26:29Z",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTHBwM1VkQU5xa2EzWU9tVGJEQUswaE1XTlhqT3FlakdSTDlXd0tfWk9pcks3RUxkM0F5ZlhoZzFvekNBOVZ4TlFtTVJ4WkZ0a3JJRXhTOTZwdVB1d2NEbS10eXBXV3VvR0VxNEZiU3o2WEdjRjcwejhmbDZiYzJBZDdwWHBjbC01N0d6T25lSTJ0UlctTUNHNEprNEowOW03QVFHYktjTXA3ZEFvSVM40gG0AUFVX3lxTFBRVlB2NmxkSUIzRDlhakE2SklUUHRRMkN1Rkd1ZXNJZE9odG5iME5MS1Nfay1NREhqU0ZfSlFzSEJDaUoyNTNpNFNLX0pqNUJCNW5fMmdQSkQ1MTRhRmdjbVZTSUsyMGk4Zms4TDd3Tks4U2V2WmxFb2FsY29pNDdqOExyRml6b2lsQURGS2NVam9rOFlqR0pzYzNhaUFYelc5Q1JJemJBRFk2QjVUUHBzRHI0ZA?oc=5",
+      "published": "2026-09-16T11:01:51Z",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcjFGNXdMLUNQNzUzOWJmQmNNV1F4NlRSeWMzXzFHMDBmMWo3elduQ1RpZXZZdl9WUmlvdFB0SkNpdlE0ejdnLUs1bEpTXzM2clZOWHFHa0ptbXJQYU1Yc1duc0xHak5oaTZKSGNneHd2RUd5UXJlSjNwb3JCajJnek9NMnVsM3p4eVJXS0k4X0xham1VZ1ZlTmFEc9IBoAFBVV95cUxQM1dkMWNBZ1VidUtPWHdBZWpEcmFLYU9LRTJ0RnhGeHVmUktNWnJsOEtYNTVzYjJIV0JOUnVCbHVuWUhveTlrVE11ZHh6MjY1WlJheHhVYnRNVW03Wk5FdGJCemJlcV80OVlQWFg5UHlSVzdWTWZNNkNXQ09tUWlHMmc2eFljcUZNLTVoVmotT3NrcWlKRUlQNE5Lb092QTZ3?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "Cyclosporiasis outbreak ends - WKRN News 2",
+      "source": "WKRN News 2",
+      "sourceType": "newsroom",
+      "published": "2026-09-17T04:16:30Z",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81Q1JWeHM1eW14TDl1elhnSUJXdHp2SUt6TDhublZHY0tWZ3BOTHpkaTloaGVXRnVfVldFdHk3bkk0ejBTVWE4NE8yWElLajZ1bXBGSFVmZk8ybXEzVFBHU3ZSZHBVRlBrM2h0VmE1QXE3Znc?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "Kroger says Cyclospora outbreak cost them millions of dollars - WFAA",
+      "source": "WFAA",
+      "sourceType": "newsroom",
+      "published": "2026-09-17T12:04:00Z",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYXF6ZHZDblpkWFZvNDhwajZDT2pCbVlES0pwdHItNFJINndzc0RSR00yYUdCR0VabXRtTTJ5eU1sY0Q3Z2pta3o5MDd0RFhDY2dqUEtPYjRjdDhucm9DbUo4ZjV4WjNEV25mUHFEczhGT010ZndsT3JCT3Y4c2JIMnhIbjlHajdKSGVkQ081bXJWWG85R2FnWHpFQUhJX0hsRElYakk1VTNXazFjNXNvVm1ZeDRNdnBsLVRlNDNneWRtVE5FQnpkbnpWOWVSQXFV?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "Quick takes: More sprouts recalled in Salmonella outbreak, Cyclospora slows, Klomp touts MMR shot in hearing - CIDRAP",
+      "source": "CIDRAP",
+      "sourceType": "newsroom",
+      "published": "2026-09-16T17:26:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX2hVNThNYkdSRGtndFFqUV9fVWNfZG9SUlIzSUhjSlRzZkhzSzdyVk5MekVDd3FoWjhfaDkzRXpUZW1nQVlDZ3JoYVN1Zkl4MkJxX0tUUk5tOGFzSHVLaGpubEFidlhHazVRRGJ4UEVWdE9zSHRBU0ZZSW1wb2RiX3JkRC1jM1IzVkJjdVhCTlFDcksyZ2JobW05S2tIT0JVSHZLRXRRN0FRYWRCM25CMkxOa2ZqRUlvQkk1dGRKWXVjUQ?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "Taco Bell’s traffic slump persists as outbreak ends - Restaurant Dive",
+      "source": "Restaurant Dive",
+      "sourceType": "newsroom",
+      "published": "2026-09-17T13:18:12Z",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUzVBQUV0cGlKcmZ2TG1adWM5T3JxdGRjVGozamxtRll0dXVkN2FOM1VpaGU1djUzdTFRTGZuZ1V5bDBKYU5kUUZtdDdkZ1pKNXhCMXlhbTljSmtCcFlBVDRKcjJSRE9ZTjRSX3RSTXJPZnFqUzBlM0puTUl0UVdPMnZ0emxVNDNQU1Vn?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
       "title": "Is your food safe? What experts say about a historic summer for foodborne illness - Scripps News",
       "source": "Scripps News",
       "sourceType": "newsroom",
-      "published": "2026-09-16T11:01:25Z",
+      "published": "2026-09-17T00:34:09Z",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQlI1MGJYcE9uMGRyR1M0MVQyek5ldm9qNTFwTE9ZX2s4aGJSbzEtU3JETGQ3YXIzTldMWThHTVJIMHRJZVludGhpNENmNklXU3JreTRyWTcxejgxd01GV0cwbEhIZTFFb2pqNHpMR3ZCeF9LQnJYdTYwckdLYUtaMG1rUHZDa0w4X3lUTjIyZ2hLd2F4Z3BLU2doaHlsVElsSFc3N1g2dWVDOHF6ekg3SWdpTTVxM1FIYVRMSXZxNjNlRDVta2ZB?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "R&DE to not make major changes to dining amidst national cyclospora outbreak - The Stanford Daily",
-      "source": "The Stanford Daily",
-      "sourceType": "newsroom",
-      "published": "2026-09-16T07:46:53Z",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xYnE2NkpoXzFMN256cjZhS3ZHVXZHb0hiek1QVXo1R29fcno2dWJkY0dKdVd6c08xY2xGOVJ1d3pGRW5ybjNyQWJ3b0VLcGlwQlZEemVzN1oyeDkya0xPa3IyZ1ZTSUI1?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "Federal Cuts and the 2026 Cyclospora Outbreak: The Case for Public Health Capacity Is Strong, and Five Numbers in It Still Need Answers - Marler Blog",
-      "source": "Marler Blog",
-      "sourceType": "newsroom",
-      "published": "2026-09-16T00:43:46Z",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOVUhucnBQaEpUVk1NajRBb0Y2bHh2MEx4OTVveDdpTG93c3BWTWp6YzFxSy0tWmhObjg4OUxFT0w1VkdJZ1ZmeXp0X2Nfd0FLUG5DVmotVmZDb1JtbUhPSE5HaWFFeUpkM1dHbWZVdnluU3F1c3liS1JqQk1sVzhOWDg4bEduUWc2LS0wNGgzalpnZE9EbXJndVNLQ3Y3UUtkcVAzYkZtUmtjRzQtM09STkJuTXdUdk9kSGJFRV8zR0syMlpPaG0wSV82TWNVYURxRlRBb1M1M0NSNGd3UWdWR2VHRkRwZy0wRW5OYU1EWVBmeUZtQVF0aXVDcjd5N0tF?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "NCDHHS reports 952 cyclosporiasis cases since May - WCTI",
-      "source": "WCTI",
-      "sourceType": "newsroom",
-      "published": "2026-09-16T01:41:35Z",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSXdLb3NjZ2JpalhZUUFBSWJ3YVZpVUcxS0JMWWVwaHF0d3hIVVhqelhEYjJXMnlNWlZHa1VlaVRpemJGb0Jya3lkVC1IbmRnTVJOXzZYRTlZUk52SVRmWUliRkhIUzFJM1YzRFNRdnI2MmFhbW1YT25PcXNmMFhBcHVlVGp1QQ?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "State reports 8 new cyclosporiasis cases, none in Eastern Carolina - WITN",
-      "source": "WITN",
-      "sourceType": "newsroom",
-      "published": "2026-09-15T20:24:00Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNclp4eG5hMGQxTk0zVF81YTNfTTlyZ0pGdEMzMTVrRGd2MXNRUkRjRE9URVdETHJDcVR0UWJpRVZ5R21rQWx1UU5wSVpsMjNTVXozSUg2dkI1Wmp2al9JYU55TjQyM0FRWEZxbWdMdnZySncwalVRR3JFaV9Mb21oa0haN3FtanhQMGgtem80bVRYQzA0OWdHZF9jSdIBrwFBVV95cUxQczVMNkd0X1dycmRNMkdVUlFiLVRlWmxsbE9UdFRfeENZLS1DeEkwY1NENkVJUmpCeTNMcWp6OVR1UUtpTlA5WFc1c18yMHhQTVFFbUZCOTV2Q1FSd3Mtc0FsZm9vdWdBeEtOQThLc2RtdEFwSm4yZDNGdU9wb2RSc2lpejZHTjJDY1FrcXlGa2x6TURJaEx3M0prbkFTR3hvaFR5UFpsb1NHX3BmT2dB?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "Customers understand cyclospora outbreak ‘is not a Taco Bell-specific issue,’ CEO says - FOX 17 West Michigan News",
-      "source": "FOX 17 West Michigan News",
-      "sourceType": "newsroom",
-      "published": "2026-09-16T12:03:28Z",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQanhGSmZGX1FCSWFRVUIxZHNPUlRNenB4TVltaGRTTmxOUERSeFRpQXI0WlJaYUpkN1UtZlcwcHlwOTBTTmpMWS1NT0laTEdaYWd5dUI4d1k5T1RCbWhyVlE3dXJVcTlGU2ItUHZVRGo4czJoOFRueTZyWVhieExLdmR4cm1EVklULXNGRHFpR1RsaGRzQVJKeDdsVlFFMzRWYzRrVVh3bFFjYXJoN0c5WHh3eUxCRE1xaE5qVlFsNUdIVERKSER4Y3R2T2NEZU5UUmZ3?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     }
   ],
   "blog": {
-    "date": "2026-09-16",
-    "window": "News published on September 15, 2026",
+    "date": "2026-09-17",
+    "window": "News published on September 16, 2026",
     "title": "News in Reverse: start with the verified scope",
-    "dek": "Yesterday’s public feed contained 2 indexed item(s). The daily brief works backward from official scope before adding headlines.",
+    "dek": "Yesterday’s public feed contained 3 indexed item(s). The daily brief works backward from official scope before adding headlines.",
     "paragraphs": [
-      "The headline trail, newest first: State reports 8 new cyclosporiasis cases, none in Eastern Carolina; As a record-breaking cyclospora season comes to a close, a look at the impacts on local growers and gaps in the food safety system..",
+      "The headline trail, newest first: More than 11,500 cyclosporiasis cases reported in 41 states: CDC - ABC News; Quick takes: More sprouts recalled in Salmonella outbreak, Cyclospora slows, Klomp touts MMR shot in hearing; Kroger says cyclosporiasis outbreak cost over $100M in lost sales.",
       "The stable reference point remains 1,645 federally confirmed domestically acquired cases across 47 reporting states. State totals may be newer, broader, or include probable cases.",
       "The current federal source finding applies to a large five-state lettuce-linked subset. Water remains a possible general transmission route, but the current CDC and FDA pages do not identify a municipal water system as this outbreak’s source."
     ],
