@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T14:58:35Z",
+  "generatedAt": "2026-09-19T14:24:13Z",
   "alert": {
     "level": "high",
     "score": 81,
@@ -183,11 +183,43 @@
       "summary": "Michigan reported 2,640 cases at the state level and reiterated the need for Cyclospora-specific testing."
     },
     {
-      "title": "Taylor Farms recalls lettuce in 27 states amid cyclosporiasis outbreak: What to know - ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos",
+      "title": "Is your food safe? What experts say about a historic summer for foodborne illness - Scripps News",
+      "source": "Scripps News",
       "sourceType": "newsroom",
-      "published": "2026-09-18T10:27:54Z",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZG56YlN0MDdsU2pKSThXS1dhalk2SjlGX2RzdGpjck0zcG84OU5LOEZXX1IwVzBmVkxhRThyOXFZZUJ2dW9LOGxPQmZHXzNlQTZORERGX0RRZTVMTXlrT3RWQkxTU2phZm44N0drMHctakk5UEJyTy1qNG5SRmpTOFpOMHlKeUdTSkRacmVrMUdTdkXSAZgBQVVfeXFMUHRRNF9FcG13Sjkya2RFNDJaMVg3VUNOWjM0ZlVFcTlQWERiTHZuTjFsMHgzY0xuOW9EQjlPVE9IYWdpQmJ3eEJDdEFwNE5kWTFjSVFCVHUtaWtYTERKM1hGN1ZBV1pwV1ZsX1JEZzZ6NmpyT05LdHZIcnI2WHE4WGlnT3pZZGZYOVJFajlxVGJCMEZTVlhqV0I?oc=5",
+      "published": "2026-09-19T10:23:14Z",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQlI1MGJYcE9uMGRyR1M0MVQyek5ldm9qNTFwTE9ZX2s4aGJSbzEtU3JETGQ3YXIzTldMWThHTVJIMHRJZVludGhpNENmNklXU3JreTRyWTcxejgxd01GV0cwbEhIZTFFb2pqNHpMR3ZCeF9LQnJYdTYwckdLYUtaMG1rUHZDa0w4X3lUTjIyZ2hLd2F4Z3BLU2doaHlsVElsSFc3N1g2dWVDOHF6ekg3SWdpTTVxM1FIYVRMSXZxNjNlRDVta2ZB?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "Joe Crawford recalls the Cyclospora outbreak's messy end - Alton Telegraph",
+      "source": "Alton Telegraph",
+      "sourceType": "newsroom",
+      "published": "2026-09-19T10:40:31Z",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMFNFMlozVG93Zl9PRXhGZk5RUGhwaWFiN2pHVGpWRGVuczNkMmZDWjg4RG1MNTBRemJUdjBjdWx0YXU5YnRUMGxBNWZ5T0lmY1Mxako4ZUZvQU1CTms4d2RTMGpKWW11UDdZcU9YT2FKTGh5WXBXQ3ByN1EtdkVOQklQRE14d3JGYTA4U1Q5aFNnd1hRODVLWGpmdm1IYlkyMm5xSDR5TWxZY2ZL?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "Cyclosporiasis outbreak - LAist",
+      "source": "LAist",
+      "sourceType": "newsroom",
+      "published": "2026-09-18T22:37:00Z",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZk96WnQyOUdqb0VPdFdvSU5zVEc2U3hTVlcxaHR4MnJkUU5raGFwQUNibm9pTnU5RGVwbEsyV28xVGxHeC1pWVFZZ0F1a2tLVjRhenpRazJqVHkzYlFsMnZCNEpXUVpCV3NMWktmNXhrWUh4dVF5UEtiWjU1M09mNThUY2FMMG9reHZ3NQ?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "Cyclosporiasis cases top 1,600 with source still unknown; ACP presses Congress to tighten supplement rules; could a finger-prick test track metabolic health? — Morning Medical Update - Medical Economics",
+      "source": "Medical Economics",
+      "sourceType": "newsroom",
+      "published": "2026-09-18T22:50:18Z",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOdndzbmhlc1E0cm1KZzVYeG1iemdwVjZjZ24zMDMyVGFiX0VkZ183RTdydEh6ZnF2XzZldWxQeDJ5Rk1jbWtodkE1U1J0RWFEbmZzTkxGNW5Cd2dHWXRqc0NXRXFuQWR2ZVR4T2kzY3o3UU8xTFNJdjVoWU1fMWxHWTYzMkh6Y2NpMVQ5VjgyS2dKbm9PVDg1bXNhbEszcnlya1VLcGxYejN0bDlneUhfSHY4OXVzVTJvUExhY3N0YmZROUpXeW9PZ2NsMUZqY3VNMjV6SXdxNzJmZ0RabUw0QjZEVzB0V0w3M0FFTWFKbHl6TlFPZUxadDZzZDhUVlp5RUYyVEZDMGh3WGFsRWJZTjhNVl9RTUNiaU5xOHk0SUxabUp1X2g4OGFValVyN0VHbC1HSkNlT25jSTQ?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "Opinion: Why El Paso’s Pure Water Center can protect against cyclospora and other pathogens - elpasomatters.org",
+      "source": "elpasomatters.org",
+      "sourceType": "newsroom",
+      "published": "2026-09-18T16:19:32Z",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNWt0Y3NXS21KMS1iTFpXVkVOSDMyYmxtb180aHVpdWZwbWp6aWVjRlpndklxWnhBOHpYbFd3MjBBbjNZZnBFTUtETDVvQThKSGdCVGpxcE9DV3h6REtqVXIwZDlHa0dSdW1pYzZlaGJfc2xJWm40TzBfZl9iejNDR1NtR0FJUnVxblFxNzVmdlNIR3c?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
@@ -199,53 +231,21 @@
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "More than 18,000 cyclosporiasis cases reported across 45 states: CDC - ABC7 Chicago",
-      "source": "ABC7 Chicago",
-      "sourceType": "newsroom",
-      "published": "2026-09-18T06:01:16Z",
-      "url": "https://news.google.com/rss/articles/CBMi-BJBVV95cUxPM1NNVVdpQlFrSkdFTkhka0JtdGcwRDdneEM0UFpmMGJVeDhzQzNpWmIxaUtRNTBjczlUem4tWEZ3QllNMjdSYTg3ajk3VXdiTUNlaVlwMEJjX2QzTElJRGhBR3Q0NVBWVmFEcUNTS1pOS3VWdG9FTUlpOG1aUDN4THNXMFpJdWM5TC0zVlNtQzBFd3d4REM0T2pXVEhnWmExTDlPVTFnTDQ1TW5MamRjSHhoS0Zkcm51akhfOTJOOG1NclJZMlJ4NE9pUmlEYllHXzhfZXQySl9sM2RkQ1A5MHlDalEzbjgtNXA0UjFQS240Rzd3SWU4ekFQY1dJb1FDNC1OdVNZRFdwN3JYb3lBNXBBZk1QM2s5bTl2b2xNVmZnSG1JQ0tJU0JtX1JwY0FHZl9mRUJEQ2RlMTF3dVNVZ3pNSEpwM1A3ZFozM3Z1SnM2V0lJNURTZlhUQUhLTVZhVmpyV2NGdDhTUWdxVGNKOF9qa3FHWS1CS3RIT3lpWlhNZzhlUlhVMWQtLTdQa1NQOHdCNjRkWFZya1NObGpFNGY1Y0JWbkVfWEhQSGUxSmNkVndRaWs2YjdOenlQWmtDVUpPUHNaSTZ5bV9qRzB3dlBqQTMyUkRYRGF3dWN1RGdsY3Zrc0pPaW93R0pUVFJyOVYyVUxVZ1BPcDhMeXZIZVBIZEg3dWlyUDk3UlFqSWdfbWVNa0lRX3RGTzJUaC1zNmYzYUJCa0x2bmFUTGVZVktkVlFSTmwwV2FneThOVXcwcXNZSWpSTDJRQXRpSGFmVXdSZVRDNmNMZ0hrWWlYWHlFbkhKbjVtcWpOUnBhbE1nUGRTVmUtanAyN1pyb0x6TUlQNVhmODM3M1c0ZGR6aFc3YW1KYVFscHZCNWZlQ1dGTXN5dVhaQ3lTb3FESGw4bklJaEJGQkFBNkYtdU12WFdzbGlFY1g0NzRndDAyYWRIbmEyd19RYlFGQ2l6VU9Sa3F2VC0tX3hBVV81Uklua3hac256V3owdXo2MnpWdndQZFJlaFpqQzhHTWxkMlVEdzZHZGRIUGtseEFWSUExQVhNcVYwbEVtc0JmRzRRY3FvOERtX3ZRMkFqZ01MS3JPQzZURWdGTnI5dmZkbTZlQzFCX21DNkpndTNVdkdPTXV3OUZxWF9JQkFQTHNHeWNjYUNfSHR1Z2p3UmtJRnp4MzFEQWsxczJua0JucTBwUU9hNnBnOXBYSmpiV25ndE43bnN0WlNnU2VMaVpKTnpidVgyYWdGN2RhUGNGcS01b2NvRjcxcDFQd0xlSGVUVzEzVVJ1bWhjTjZHZEk3ZERPd0duQS1JemY1NFJZTktJa2dFek1IVFpBYURsMGpGQm1ZVGlzdG5ZdklFRHI2amdGaXZWWVlvRVV0QnlibEdEelBGZlpMSWZ4VDlEQV9TZnEwV0liUFl4NUpYOWhjcGpQRE45M1l5eVJ4QVN6M2tMM2s2elBDa05LdUhSdUFmNTgtNHU2UkRiSnhyanBkc0hJZVBoVmtXajhEOXFjZi05aXlQYVdnMUhtQmJmcXVIZC1CZE5hNF9hZDJjd0k5QUV4dlpEaDVmRnpsWEM0UkRYRzE2YVNqZ21CUFlQSnpoSjdaN2NETEtkVklUeGcxR1hSNU5YazJoTU5HZjM5b1BKVVliUlBwQlI4U185cldnLXJyVUthU1A3d1diYjlxZ3AzVkpKVEhNTUhWbV9XSUtwakVlQi1vTVlSa1ZGWmtYVzJtWEpqMDdfV2E5RFJwVmNQS1pPX0dxbGl4cFRGT1lwUGRJS2R1TVRxOW5aa3BaOG94VzRwbHVMNThfdURySmE0SGpMZFF1LU1SMGsybEJlWkd3ajR2dHhPamxnM1YxYnZCX2paTFZGakxadjJiWjVraVJEdGlxcVB4MzRiMXhfY18xMUpESmdObjY0bm5ybUo1NWhpRmVWS0RLb0RLRXJlWjB1a0V5cmhhVFRKSFd3b2d4LXBRYTQ0Ym45VUhMcU9UWEtUTlliaVJucVZfQjdKWWpqNzdZNHRmMGZYc3ZxRnVwdV96WFdUbzRmak1EcE1CQWxYbDZsSkRqd1haLWp4dlZ6b3dkTzVGazhjWW02VVdfMUpWQzBqVkhjM01sLVRyRGI4blRja0x3cWNpMDFwZUhSTFdOd09VY3RfT09KX05rb0t4QWNkNEc5STFwNldudlRocWFoTzQ4Tl9zUVJnVXRaQmlOcHNFY043RkxOSWRONkMwdGtjTUNQOVNkZDhGbzlGNzdVMlE4QXc2LWxFYVZVb1F5WWZZdTdVVFp5RDdLZG1uNzRSZnFsVkg3MzVYUjNQN25fU2FlU21lWEJabHFOTXd2Wnl0QnpTbmphLTJ5Umk2cTFyc1VqTTNvVE0xQjMyWXlwNGZkaTR6emRHY2RXV0VaT3pyTVM4UXdqX0kzMnZzc3o2UkEwcmRCbnBTcDQ5V2laSncycEhNVnNOSGhzeDZVTWZYQk9EY19vUXRGVTh2QTBvS1c5cVozcjU2ejRsUnNYQXRCSVFwZHAxWkxURnZEa0c5QWtxN29PVUY5N1dtQ281Wks3emVOaXRMMEZKdHptNTRaSHl3amVVWG5NMk5wTVF3dFhPRVRpSmVxOFNSQnZGQy1IMjZPVm9aU29jOEt2c2xsS0MteDJqdElTVzRubjlSTjBXVDQ1SFNyNXZTVk5BUldUUUV1c3dvUWlVcDZfTzd0dkI5eUlLNzF4bnJfTEhzdVF0VFdwZE9mMm1JZFlwcFlHRlFtTUhlU1VTWGJNZWRuZE5hSHJGWEpQS2F0QUl2TUQ5V2NDNGJVYnlNa0FzSGU1aUtfUE5JUVhvaWp4bUduQUlLV0ZtS3RHUWtJNkU4Sl9pc3RzQkRlUV9JQkwxNTF0Q0V2RDZCMHdHTUlmT1dwUUpnZ3FldUJ3cFh1dVB5aERUYzFlT0V5ZWpiZmNsSGd1d2FPQUZtOExzNXNCclNyZ3N1WldGMlRZYXEwSEtVRmNtajJncXhsR0ZSS1BiTlBEVmtXRGdLdElRQ1BxN3RZZnVQRkpqOTBhVU4wNkhyQ0RnZXNIbmxDaDFlZzBWRFZGMzlNdHltYWxRdzBnYW55WWtVbnZVX2ZHU2Y5anh1YnVfQk1TcXdCeThqZ3A2Z0ozOWh4ZHdlLUg3WXA5dkROcUdRWXBVSWkzVmdtTDNZbjFxX1N5ckp6LXBzQXJ2elI2SWRla1BoVHZyWVdLNFY?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "Cyclosporiasis outbreak - LAist",
-      "source": "LAist",
-      "sourceType": "newsroom",
-      "published": "2026-09-18T02:05:00Z",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZk96WnQyOUdqb0VPdFdvSU5zVEc2U3hTVlcxaHR4MnJkUU5raGFwQUNibm9pTnU5RGVwbEsyV28xVGxHeC1pWVFZZ0F1a2tLVjRhenpRazJqVHkzYlFsMnZCNEpXUVpCV3NMWktmNXhrWUh4dVF5UEtiWjU1M09mNThUY2FMMG9reHZ3NQ?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "The LGMA Marked Twenty Years of Leafy Greens Safety the Week the Largest Cyclospora Outbreak on Record Closed. Here Is What It Has Said, What It Hasn’t, and Ten Things We Can Do Together - Marler Blog",
-      "source": "Marler Blog",
+      "title": "The LGMA Marked Twenty Years of Leafy Greens Safety the Week the Largest Cyclospora Outbreak on Record Closed. Here Is What It Has Said, What It Hasn’t, and Ten Things We Can Do Together - marlerblog.com",
+      "source": "marlerblog.com",
       "sourceType": "newsroom",
       "published": "2026-09-18T13:52:01Z",
       "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOZ0Q1cjR0bHp4cTdqcHVqZlFKRzRtQ0hEQjhSMWp1UG1hSC13aGxUVWlnWWQwSFBZb1l4QW5TeGdYUVlVVlFNVjJ2MDBLN24wNzNoRHhOWFc1ZHRVRDQzc09BQkZQUXlYaEtBSGNvdWwwYVQwRUIzYkNsb2V4ek96dldKTlNibWx5WVdSQzBRVWk4TFBKV2g2a25RNGxRZDF0dnZ5VjVGdXFlb1R3YWF3TGttd09sejFPUUVQUk5OSTdFOF9OTGtyUDY5MkFqWHBFekVCMWVKLVNIQzFVd3Z0OUd3MEhvNU1LVW8wSzBYN0N1aVhaMTFENV80cHFrZURqdXlDdWNiWWFsNVpHdXRreFp3NGpKV0NxeTFkZGo3Vk83YmRzVnFlVXpNb1prT0dJNlFQRnpISW5lN1Q0UURZbmZR?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "CDC declares cyclosporiasis outbreak over, new Ohio cases drop significantly - The Columbus Dispatch",
-      "source": "The Columbus Dispatch",
-      "sourceType": "newsroom",
-      "published": "2026-09-17T18:49:00Z",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZWF0U3hnUzZ1Z2dObFFKek9oWXlhTDhlbUNnNXlzSnU5dFZhQm5tMWpwbjZHWXUzeElJT0V1QmRBM2VTN01CTlBXXy1UMkdzUmtOMzVBSHhtY0hUdkJ0SUhTVHF2cVhUaXJmLU9KQ2c3WkZhaVQyNWlRWFJFV3R4UFZWQzVDUlhEZnpNZnY4OUUwQWJKRGlSNHpkU0ZYMXdLYVBKMWhwNEUwRmc2MXVWTG5PZDJsT3NhbmJ3aFBNcUc0TjNJb0RkRUdrbjBXdl9JUkhoTGZZa3Znb2ZtWGc?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "FDA Director Takes Lessons From Cyclospora Outbreak - Lancaster Farming",
-      "source": "Lancaster Farming",
-      "sourceType": "newsroom",
-      "published": "2026-09-18T10:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOWJ3R0NmSGtLX2c2MjFuLWpCNE5pZkNfc1dfTEV4R3FrVDVZWm1aQk9RcHZEb1lsd1dQbHlpQ3VvcnZDaEZZZS03MnJvUFZWZVJ2bGRhWEVZVVYtZTRBSDlqaE9fdlpCS2FVck9ucHp1TXdWS2dMT3BKUlgzdFptTVRDR2hVMWthX0txTFplcTNyQ1hVc01uaDkyazJIZ3ZnRDk1RTJpUFh5QnRfTXlFUi1PT2dmUFNZNk1vdkpzeXMtQmx4SXJFb3pMcC1Zd0RWQ0xqVm1qVzNNaDh5bFBPYWJocXN0ZjQ?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     }
   ],
   "blog": {
-    "date": "2026-09-18",
-    "window": "News published on September 17, 2026",
+    "date": "2026-09-19",
+    "window": "News published on September 18, 2026",
     "title": "News in Reverse: start with the verified scope",
-    "dek": "Yesterday’s public feed contained 2 indexed item(s). The daily brief works backward from official scope before adding headlines.",
+    "dek": "Yesterday’s public feed contained 5 indexed item(s). The daily brief works backward from official scope before adding headlines.",
     "paragraphs": [
-      "The headline trail, newest first: CDC declares cyclosporiasis outbreak over, new Ohio cases drop significantly; Why the Nation’s Largest Cyclospora Outbreak Ended in a Supply Chain Mystery.",
+      "The headline trail, newest first: Cyclosporiasis outbreak; Cyclosporiasis cases top 1,600 with source still unknown; ACP presses Congress to tighten supplement rules; could a finger-prick test track metabolic health? — Morning Medical Update; Opinion: Why El Paso’s Pure Water Center can protect against cyclospora and other pathogens.",
       "The stable reference point remains 1,645 federally confirmed domestically acquired cases across 47 reporting states. State totals may be newer, broader, or include probable cases.",
       "The current federal source finding applies to a large five-state lettuce-linked subset. Water remains a possible general transmission route, but the current CDC and FDA pages do not identify a municipal water system as this outbreak’s source."
     ],
