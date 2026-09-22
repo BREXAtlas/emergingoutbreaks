@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T17:02:31Z",
+  "generatedAt": "2026-09-22T15:30:52Z",
   "alert": {
     "level": "high",
     "score": 81,
@@ -183,11 +183,43 @@
       "summary": "Michigan reported 2,640 cases at the state level and reiterated the need for Cyclospora-specific testing."
     },
     {
-      "title": "'Sharp rise' in cyclosporiasis cases in UK linked to Mexico travel. Here's what to know - ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos",
+      "title": "After summer Cyclospora outbreak, caution around produce remains for Harrisites - thhsclassic.com",
+      "source": "thhsclassic.com",
       "sourceType": "newsroom",
-      "published": "2026-09-20T09:14:05Z",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM3BjODZZSDd0eHFXOVNIaGZpazY2OFZPWjJRUGpudU9hLXV5TExZUWhsS0xLeWFteG5ERlBSanh0TmJNTGRUVjR5cDllN1NWeUJsZUNJX1RkWkVuTGZRZW9jZ2Y1Q1lkSXB4LXdnTm1RZzJBQVNQdU0xWHY5YnFZQmx6bk5IRUVuLTg5LVdySWpKc1VrTDB1UkE4V0lmTlR6ZEVF?oc=5",
+      "published": "2026-09-22T01:00:50Z",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeENSQ1AwbmI0Yl9Ea2R5MWlGOEFJb0UzUGFwSVhlc0xNTGRTSU5aYlFSdVAwUFJwMmtEdDREYmZNdi12cFFXN3U3Rnp4OFFHcXRwblRfQWN0U2t5T2ctNTBJRjRyOXoycnlwSlZVTEVncDlvWHFXNGFHMnY0RW5SWEFWQlFNWDBBQXhpZEUzMjk2TjdYRm95aGhPRUFvT1RYNlBCbkdaWnFsVi1aRTNPMUUtNDE?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "How Little Leaf Farms Turned a Category Crisis Into Record Market Share - The Packer",
+      "source": "The Packer",
+      "sourceType": "newsroom",
+      "published": "2026-09-22T10:38:05Z",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOEhRSjZBRFAwNnNMdnVVZHZIVUx5S0x1OF9XQXJGN05IY2tQbVRGU052Q2hGTFhfNkZ6bU8wMHZFdG9kNFhmY0xVZkk2WDRldS1DNzgya0lKMlRsdk4wNTJaNVZlLWwzZExucWw5Qm5KZW9CazZRYWlpa2hkZDdva2pYbHZCcGN0a0hsMW9rSDV0bVdUMEtCTGhfZw?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "What we know about the U.S. cyclosporiasis outbreak – ABC22 & FOX44 - MyChamplainValley.com",
+      "source": "MyChamplainValley.com",
+      "sourceType": "newsroom",
+      "published": "2026-09-21T02:52:11Z",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOG1vVmVYWl9SYmVJRmFJNTY1Tmh1dGdtOEo2VGFMYkx1N0lENm10WVBKM2J4a1JSeldUMGRyQ1JTRGIxRDBnN250bjVJSGl1YVdSVzZkZ2NlLVd5MEtIc19saEN6RGxOSjR5Ym1jNGhaYkhQRTdIWG5LNDlrb0NwUWxvaTNtRWlWemo3Z3FGT1c0d1djc09QampNTm5ZSnQxM2c?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "Taco Bell offers heavy discounts as customer numbers struggle to recover post-outbreak - independent.co.uk",
+      "source": "independent.co.uk",
+      "sourceType": "newsroom",
+      "published": "2026-09-22T06:38:00Z",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPV1VxU2pZaERFYTZKMGVPTkxDWUZpQUhRQl9qeG1rTzFkR19wSDItT0dwNGM1dmdqTDBTUU5QWXlEaFJ4ZkdCckNjQnNQckZIOVVuRzNnSUlHdW1HZXZnbEh0NTR1OWQzaUc4ZzNfbldVZ3BTaVF4dGpsQzJUcm1tYmVlZVNvWlhrSzNnRDJzN01sZkZTV3o1UEpDcEg?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "Data: Contaminated water puts cyclospora into food supply - Tahlequah Daily Press",
+      "source": "Tahlequah Daily Press",
+      "sourceType": "newsroom",
+      "published": "2026-09-21T21:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTjgzai1qSS1WNV9ONjl1eFU0MkFxaC05emdsQzQ3UGRSMGtGMUhnMVhVTG9xMkxvYmpuTkZwSjNnTXhCdWRadG9jVS1MeExYVGp3b1VVREQ4aXNsTC1CUDhUTDZhOVhkZzdYRzdpUnU2VWEwX3pxVWJLSVAyeHMyX21Fd3g2LS16M3B3cVlhV1p0bHBqeUVGNU8tRmR6QzRDYm1kankzd0E1Tl9FMjVKeW1GcFB5ZXpJUGFnZ1dMSTFzVlg1VXFRNHNRQk8ycnJyYUxVSDYwVUlvTUlyR213bQ?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
@@ -199,53 +231,21 @@
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "New York’s Epic, Manic Summer - The New York Times",
-      "source": "The New York Times",
+      "title": "Is produce from a home garden safer than store bought? 'It depends' - NPR",
+      "source": "NPR",
       "sourceType": "newsroom",
-      "published": "2026-09-21T16:07:38Z",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkWnRJSUR6V09fanpTQ2VTb0VSd3ItdFdsU2paUGl3bEYyOGlZOS1wREhKRVlHYy1rOHc3SkxTN0t5RmtzR3pHM1pUX2hDR0xNNm9sOHZKV2ZwWXp3RTB6ak1rZlF5ZVRnaGh1LUkycVRJdw?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "Taco Bell’s traffic still down double digits despite aggressive promotions - Restaurant Business",
-      "source": "Restaurant Business",
-      "sourceType": "newsroom",
-      "published": "2026-09-21T16:04:56Z",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRS1EN3E3R1hhOEd0cnJqNkh4SGZzZmpfZU5rSE1iU2JKWmgyVWJJM2Y0VVlRaC1HQzU2RVBSbmZPR2MxZTU3UXJ0VnZqQmpLbVhoY3RJRnRoYjZtU2c2aDFBS0hGWkQ0NEZjMlNHUlRDVjhRenZYOFFPX3RiTlVVVklpNkdTbmdpLVVNeC1zMEZETGlhTVZ1M0ZQaW40cXZ3NEx5clNkTWdfaWQtVDZVcVl6MEhsS28yeUJERm1qUHFudw?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "What to know about cyclosporiasis - The Almanac",
-      "source": "The Almanac",
-      "sourceType": "newsroom",
-      "published": "2026-09-20T12:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPR0ZVd2pZNTVqaGtlVUhrcmw2UU1rNW1vdWc2N2R3MmhOYjJLWUI4Vm5DVi1XMmREZDA2X3l0akNMWFZFVThsQ2tfb2pKODMxaTdxVUpfZGVjbEt5NC1XdHJRc3lXVm5ZcFVQdlozVVdXWTlfVHRYV3oyakd2ZzhVNjhkS3Y4SjN4anVz?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "Florida summer brings pathogens and water risks - Florida Today",
-      "source": "Florida Today",
-      "sourceType": "newsroom",
-      "published": "2026-09-21T16:15:25Z",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWXRNeGxuZ19Wa1dVUVNWVWtDWVpMWXpIVmdURFRlNGd4RU13azUtWDhiNEEwMXp6VkxIT0YzbXN5aGhnRm1aN1pXdnFqeXpOeUdmN0oyX0I2NWlmZVo2SmFDRUIwTXFjdW1XX3NCWTRqdlU2VDVnZlZGUTFjV0NKeUpraVRfaktXc2ZLbkNIUl9PTHdjQW0wMlBSMUZrbnBRUlNRV2xCR3ZiNl9qYkhTR3RiWXZjQjEyQlE?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "'Takes his kids swimming in Sch*t's Creek!': Abdul El-Sayed roasts HHS Secy RFK Jr. over Cyclospora - The Economic Times",
-      "source": "The Economic Times",
-      "sourceType": "newsroom",
-      "published": "2026-09-21T16:31:42Z",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNTWxKUC03ZXdtUERGX0NDYk5KR212NElDYUh2b0MwZVBtcjV1ODAyMHg3LVprYVdRUGs4ZzNCaXBCcXpLQzNwa0lCNVo2VXpiNXJ3bDF1c1JtMmNJWXBIanI5enR0M3hiQnBkaFprTTRwT2N3eFBSNk1ielgtQW5rZG9NVTB1Q0dlTlJXVFpMd1RxcjhqRjBSRWxhc0dBdUxPQXBIMHpWeVF5alhCSzZ6VURNQ2lQQldEcmtYbDdSUXJrQVlVRHVPZmViYi1lWDBKQjhqOHJWWXQxSWNuWEFES2l3V1Bza1lNR1FkR0FMdU1zYWdSXzVoVGpyLXdhejZ0cm5YS9IBigJBVV95cUxPdlE1YlBoRGlfYkwtZ3RKc0Q2WWRlQklhS3lwbFJOcGphSm8xcHZ1YnZfMm9kVTRjV2xlYUdxSHU5WlZQN2pMb05ON250dmU5NmM1ZHlZM29fUlFCWUZGSXgteExZQ2hMZ2k5cDV3ZTQtRzQzVW1TaldQTnBWcXpzU1ZXZUcxaGJKSDlOUmZUZVlYNlRsS3lIRGZiNXI3d2ZqQlZsNVhXVE9oMDZCSVd3SER5M3k3aEF3b1pxUnBrTm9GUl9TbTNDN1pOUzQ4X1RieG9BTkFOTFJ5enFNNURGRE5nU1Qyd2NDdGlnZkRhUnpNMmlOdWhCeVVLR3h6M1B1b0V5eERZMXJCUQ?oc=5",
+      "published": "2026-09-21T08:40:49Z",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVFJ4QlBNQXVyU3g5bTNLMmpxbl9sd2RuMkVMNU9MdTMyUWlIRHh3TDlLM25PLU92SGF5S3JDSy1EdGZ5MklHai1PTzd2Tkp0SVB2bjZ6RjhTM1dZT1J6dlBjTDJHZUl5cXpjaGhDSlJlZXlfcjAtS2tvaklETktjSDNvc01tVjlnalE?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     }
   ],
   "blog": {
-    "date": "2026-09-21",
-    "window": "News published on September 20, 2026",
+    "date": "2026-09-22",
+    "window": "News published on September 21, 2026",
     "title": "News in Reverse: start with the verified scope",
-    "dek": "Yesterday’s public feed contained 3 indexed item(s). The daily brief works backward from official scope before adding headlines.",
+    "dek": "Yesterday’s public feed contained 5 indexed item(s). The daily brief works backward from official scope before adding headlines.",
     "paragraphs": [
-      "The headline trail, newest first: 'Sharp rise' in cyclosporiasis cases in UK linked to Mexico travel. Here's what to know - ABC News; What to know about cyclosporiasis; FDA warns recalled supplements contained hidden erectile dysfunction drugs.",
+      "The headline trail, newest first: What we know about the U.S. cyclosporiasis outbreak – ABC22 & FOX44; Data: Contaminated water puts cyclospora into food supply; CDC Ends Weekly Cyclospora Updates at 19,883 Cases as Thousands of Unclassified Reports Could Still Raise the Total.",
       "The stable reference point remains 1,645 federally confirmed domestically acquired cases across 47 reporting states. State totals may be newer, broader, or include probable cases.",
       "The current federal source finding applies to a large five-state lettuce-linked subset. Water remains a possible general transmission route, but the current CDC and FDA pages do not identify a municipal water system as this outbreak’s source."
     ],
