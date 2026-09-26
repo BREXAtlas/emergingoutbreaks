@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T15:48:36Z",
+  "generatedAt": "2026-09-26T14:58:05Z",
   "alert": {
     "level": "high",
     "score": 81,
@@ -183,11 +183,43 @@
       "summary": "Michigan reported 2,640 cases at the state level and reiterated the need for Cyclospora-specific testing."
     },
     {
-      "title": "'Sharp rise' in cyclosporiasis cases in UK linked to Mexico travel. Here's what to know - ABC News - Breaking News, Latest News and Videos",
+      "title": "Cyclosporiasis outbreak linked to shredded lettuce served at some Taco Bell locations: CDC, FDA - ABC News - Breaking News, Latest News and Videos",
       "source": "ABC News - Breaking News, Latest News and Videos",
       "sourceType": "newsroom",
-      "published": "2026-09-24T18:49:30Z",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM3BjODZZSDd0eHFXOVNIaGZpazY2OFZPWjJRUGpudU9hLXV5TExZUWhsS0xLeWFteG5ERlBSanh0TmJNTGRUVjR5cDllN1NWeUJsZUNJX1RkWkVuTGZRZW9jZ2Y1Q1lkSXB4LXdnTm1RZzJBQVNQdU0xWHY5YnFZQmx6bk5IRUVuLTg5LVdySWpKc1VrTDB1UkE4V0lmTlR6ZEVF0gGoAUFVX3lxTE1mcXJiOEhyZzVjUk9DeW80XzZ3VXdxUW9uekRkekZGbkJuMVFVSDQxUUkwUlpRUHdsMVRqVDkwODB3WFJFVnZJbkNaWWNoc3doTFU3dWUySml5cVZ1OUNoaERvcTRKd29mdEJINFZfWHlMQTdMWUJwajA5dWlLWkpYU1lWSEt6Q29US2RieHlPM1Zjb1RMbWh6M3pMejd1eEpWekVRZ3R3dw?oc=5",
+      "published": "2026-09-26T08:38:01Z",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTHBwM1VkQU5xa2EzWU9tVGJEQUswaE1XTlhqT3FlakdSTDlXd0tfWk9pcks3RUxkM0F5ZlhoZzFvekNBOVZ4TlFtTVJ4WkZ0a3JJRXhTOTZwdVB1d2NEbS10eXBXV3VvR0VxNEZiU3o2WEdjRjcwejhmbDZiYzJBZDdwWHBjbC01N0d6T25lSTJ0UlctTUNHNEprNEowOW03QVFHYktjTXA3ZEFvSVM40gG0AUFVX3lxTFBRVlB2NmxkSUIzRDlhakE2SklUUHRRMkN1Rkd1ZXNJZE9odG5iME5MS1Nfay1NREhqU0ZfSlFzSEJDaUoyNTNpNFNLX0pqNUJCNW5fMmdQSkQ1MTRhRmdjbVZTSUsyMGk4Zms4TDd3Tks4U2V2WmxFb2FsY29pNDdqOExyRml6b2lsQURGS2NVam9rOFlqR0pzYzNhaUFYelc5Q1JJemJBRFk2QjVUUHBzRHI0ZA?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "Taylor Farms recalls lettuce in 27 states amid cyclosporiasis outbreak: What to know - ABC30 Fresno",
+      "source": "ABC30 Fresno",
+      "sourceType": "newsroom",
+      "published": "2026-09-25T23:14:59Z",
+      "url": "https://news.google.com/rss/articles/CBMioBBBVV95cUxPTG1kYWFQYjlMTlJ1QTF3M2E2Q3Azei1aZnplbVcwd0RxUWkzZ3FaajNoUXFVNFBpZThvTGZSMm1PSWdvdzhJak02OGNaaHhHNG1ISlVyNUpwZTROUlMzdWlHZm1rbXFWbEtXWTZFX05IOE54aWtpSzdvUTVnNzlRcXN1V2Znb3Fncm81QzNVRmRTNFZDWi1EWjRHdWF0dXpUYlNCY21hLTZoT0hwanZSQU8wSXBEMDRlX1J4dDFxd3B6bVBtNTJVcDhmdi02dXRHY05Oc1B0TVVrS1lrdmV0Ri1qQ0hmeG9WQ1FQV2syT1RMQ1NxanNtYXJhWUp1RFF3cXhFS2ppLUpNeVZheHNRVnBMMUpnRUpGajdvUF9iV0lTSnJuZ2NMRTg3enB5S3VkT3NqeW9xSEtIVVVidXVzWXBCd3FvUkNGQko4VDVoUmxCdzJreklWcExITmVDVzY4YURCa3R2NS1LY1RId0tfY0FsbWhlLWpPUG5hUngydy03LXowc1FNN1UzTXFYSmhfV0xWNG9Ba0tPTWlrQ3lWXzZ5RExLcEpuT1E1TEc4UVBTWnhlYnNSMjYyRnlnR090SVBEQjdSSkxhOWE4aGR0NVJ5NWstSVZRZ1hUNVViNkJmX1NFUVZ2SU5FU2RGVncwNkUwTDZvRk56dENsSjFGeXZHcG40THpxNjYxWGNyektYUGRmdHNGTVFxdEJyekx1Vnc2dHZYbUdjR0l6Zk9RU1FfdEJJZWtOQzFOcnZZVDdiWWY4bnUyOUlLTlFZMUVudlRoYWd1cjhZUXF0N0EwM1JQYnMzaW90SFlFUS1Uc1MxbHJLQ0FsbWhpTFhib3RCdTFVemZVR0NUVGtXRXRPZTZSYjdUejVsV01rbmxkMFA3X1pDUlFIMVo0UU5rUWdfZG0yamduMVE4SVdsVnpnSXdoYTY5UjVEWXlxNXdzaUF5Q1ozSW91clRxY2JSQnBYRVRWcm82Ym9iekVNTUFlTlRKd3NzcE4zZW03SERrY1NOQUhzZjI0MW5YN1Z0aW0wbThqMTVVQ0NTYV9idUhMTlJpTks3ZHo1NFZ2YmVodHpiUldoU3U1ZkpOeFpmVzVrLXdqd0syTmV5amFHbUVwUm54ODd3Y1M0X010MXBqalUyVGlQWFlKNUZqNFNfMXVwSlctMEU5YTVRc202MTVmaVhLb0wxTmhtRkNqOHcydmIzSzlCdFpoME91cWV5c2tJaWdWalFJZTZDV1ZuUzhTdE4tNWZlbjhGWVltdUhKT0dZQTBtUlJMWEJjMHFuTXNqNGJWVXBBNUVzeV80SGFfUUJSNlkxVTNTVElzaUZybGsySW5RMzBGN1NDUDdUTzFidE1WZXZSSFlmTmdGT1ZlMlhHN2lyYmJCZ0c3ODhlX2lfbzZLazFMVU90a0phZDZVeFpNWVZtQ245S3VsczBzZDZRMVlZYVZyazlpQzJSMUJTTHZwREZMSXBNSURWc05DTVcyYi1KMjZZdzRvWVlVOWJPTlg5NnFMSVFNVnVmcG1XSGx1UTh1ZV9FQzVsY1dWeXBpS3d1dGZ1b3o3OFh5LUtySk9lSV90ZTVjMHJaYzZnbnNKMkRmSXpvMUtfX0tfaDl3RVR5V1pSRUVPenZJVWZfR2lPNElKR2xiTEswMTNWQ2lXSjh4UUVJQk9HYmtlUHZSSVppaXprQzFoVzhGd1JlZlhqTm1tWlBRQ3VTMElqdFRPcHVLN3g2V1dCSUdiNlN4Yjg2LUFDRUpYU05PWlU5Q1BwMXNtYVhZUFJfV25qcmt1OU5CTzJ4YjRwYzF0d0lOVUdyQzB5UE1pMTZOV21TczNTeHZfVU1FYXByTTBBZ2ZOY1lTWU1LRnplZG05MEdKTTNMOW52TFRMc1I4YjNlbmRGeU1LMW51V2h0S0Q3ektBNnZ3bXVlbHJyRFNzN0ZRWmVDNDY3bmtZeXdGQ1FIQm5qSnA2UWF1Szh2RFUwS1o2VlNrcm4zZmYyLUstREJCYVZxY3Vrd0FSN2d6ZG10RHo3QlZiMzh4aEpEME5pUmFrOVk5TVVMazRtejVjb2VRMTl6VmxYY20xbkpfNHVRX0QyckJ1bUNrbVNLcXZrSHVXVzN6OFo3c2t2dFN5RWdGS19nYVJReThHTEoxVUtYcWJrcUFNdFFZLUhTUm02aklxci1JTmY2TjI0YlVNbHpDeTZreGctb0tIaHM4ZzNfbWZmUEVFNXd5ZGtoSy1fT1hRZXVUMGdnblRvN3hCQlNJaVFtcVp3UFJ0UW9wdjZhSTRwSm5uUUFwQ1lyWXZ4OFYyLXJYc1lNU0loc0pQenNRWmdRWEx0NFdGOGVLWTVTdmlRV2phRWkyUWhySEJCNmJjODJxVjdyUEd3QnRTOEw2OEotODhLcHgwVnU2OXQyYlU3Y1A3LU5xWk82dVFEUVV2aW5aREU3ZTBIR0dibWJpVDg4djFpS043Q1JoclhiZzd2Y1BXSnVqRktHb0N1bEtEQWZGaklKd1FCWWlnTmlreG1EakZRa3A3b0dzS2xVQ0tOWnJEZFZIcVpBNnlPaE9aa0RTUjZGMVNSc1hWTHNUWjl5QmI3WFE5bUswMk5SQjBwbFNtVV9TSWY5WGN6ZDJ3MWVvekpLNV9tbXNMY1RBR0FiTGltU1NDX3M0ZDRSQ0ZDOTRDYmtGU0djWW15N1VLcXlHZzlJRU5XZXhXUWxBWVZFaWlIYzNncFlSbTllMGI4aWZNT3ZmbGxRbF9RX281LTdQcUdRTVpmRm9G?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "Oklahoma health officials release new cyclospora numbers - KOKH",
+      "source": "KOKH",
+      "sourceType": "newsroom",
+      "published": "2026-09-26T00:23:45Z",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTkdkT0ktSUE5OHJ1YzNzbGpnVWtwa1B0aXVMeURzU0VxX1NnRXRxaHczMDJtLU10anpmakgwQmxtdXp6dHFKY1FfS3NWdW12N0lyZWhpRGhSbHpSME9XamFtRDhqSjR4cUJ1b0JIT2VKbUlTeWxkUUU5ZWhiWmIwUWVWbWNCZnEyal83SjlVZEw4Ml9jdTg2cF85V3g0YTJ6SnhJVw?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "Cyclosporiasis ruined Kansas couple's 45th anniversary: Suit | Exclusive - Yahoo",
+      "source": "Yahoo",
+      "sourceType": "newsroom",
+      "published": "2026-09-26T09:05:18Z",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNVJpdjBKY3FlcGliQ2owRDk0bzhoWmxVODZhS3VnZ1RRMHN1QjIzRlQ4RGxGbkViZ0RPVmY0UTYtQXJPRDZYanIxMjQ3X2owZjZ1UVFfYlhQeDkxYkphOXBOWUJCTDlmWV9ucUNlOU5DbUFoVkxBZDV2Q2g4cjlHa3NubFNwNzBQZ2pxdjRjSDc3M24wRmlOeG9jVQ?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "More than 11,500 cyclosporiasis cases reported in 41 states: CDC - ABC News - Breaking News, Latest News and Videos",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "sourceType": "newsroom",
+      "published": "2026-09-25T11:32:08Z",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcjFGNXdMLUNQNzUzOWJmQmNNV1F4NlRSeWMzXzFHMDBmMWo3elduQ1RpZXZZdl9WUmlvdFB0SkNpdlE0ejdnLUs1bEpTXzM2clZOWHFHa0ptbXJQYU1Yc1duc0xHak5oaTZKSGNneHd2RUd5UXJlSjNwb3JCajJnek9NMnVsM3p4eVJXS0k4X0xham1VZ1ZlTmFEc9IBoAFBVV95cUxQM1dkMWNBZ1VidUtPWHdBZWpEcmFLYU9LRTJ0RnhGeHVmUktNWnJsOEtYNTVzYjJIV0JOUnVCbHVuWUhveTlrVE11ZHh6MjY1WlJheHhVYnRNVW03Wk5FdGJCemJlcV80OVlQWFg5UHlSVzdWTWZNNkNXQ09tUWlHMmc2eFljcUZNLTVoVmotT3NrcWlKRUlQNE5Lb092QTZ3?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
@@ -199,53 +231,21 @@
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "Cyclospora outbreak put a damper on Olive Garden’s summer - Nation’s Restaurant News",
-      "source": "Nation’s Restaurant News",
+      "title": "Even 'triple-washed' lettuce could be nowhere near as clean as you think, warn experts - BBC Science Focus Magazine",
+      "source": "BBC Science Focus Magazine",
       "sourceType": "newsroom",
-      "published": "2026-09-24T13:45:03Z",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWE9ZLThkZUhoV1pfdFBPd0RLVVBLWFlLQmZMY2JFSWVQS1pHMUp6STlHTDNEZzVNdUU4eFh6Ylc0VFhhaEpOSVNhTTVPVmVKRmhPcUYwb2NhQTJ6YjNtdXd6c2pHQzZ1a1p0QjhSNHBoS3hkRGNqNnB5LVdFamlDdE03U2NGbEhIMUFEYURDZm9xZ2dVSUE?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "Salmonella, E. coli, Cyclospora, and other germs that cause food poisoning: What you need to know - Harvard Health",
-      "source": "Harvard Health",
-      "sourceType": "newsroom",
-      "published": "2026-09-24T04:00:00Z",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbXdLR0hmem9rU05nOXRNdVRMa040WFN4WjdaQ3ZmUTAxYVNTYWYtUV9oakVESW1VRmEwREMtUXktbV9BeF9oT01SM05rNnpwWlM1UmlKb21YU0hXQ2owajQ1aDhZQzNOX2hadExPZXpzRG54bVVCU3RqRjc3UEY4SjVCZ3JlX1lDNGszRUxMMjVSQUdoVU4tUEpabEhVbmN6UTNnNlNVbHZRb1NNb0pBNFJXMzdPOFR5dnZEWjBCa1FYdUJMQWJwWUlocGYtQ2pGQ1A1Y3RXYw?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "RFK Jr. says cyclosporiasis outbreak is 'under control' amid at least 1,600 cases in 5 states - ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "sourceType": "newsroom",
-      "published": "2026-09-24T18:17:42Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQVpoN0llaXNHWHZ6OWk0endMWXVfNGRJdXBXSlN6MG9ubDFNQjNFM3ppUG41Y1c2X1ViNVdpSG80WEp1akI5QTI3N0FpNlBSZ0p6Mk5rcjhGQWJ5S09ib1A4ZHZaMTFObHpRY2lrQzhBcFVDeWhmVlhubUtoZkZjb21iUkVpODdxdjZ1VUhsUkFhd21GbnRfdG5xUm9NUVBIaUHSAacBQVVfeXFMTzRGX3dQUGxMZWNwOTd2UF8xWW5SeWQ4R0VVZTl5Tld1YUFTYjNvYm5RckdLbTI3VDJ2ZVdkTUl6Zk9WbE0yRXJNRTAwZW9NaVcxOUFSZWVQMmtyZlh3WWhrdFNjcjhBamtpODZkdEptUDJaaEFLaHcyQXVyWElfR2k0cXVQa3FXVzRwa293VlFQRXJ3N29NVll5SS1SZGlfd1E1S1p0ZG8?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "CDC Declares End to Cyclospora Parasite Outbreak - The Hoya",
-      "source": "The Hoya",
-      "sourceType": "newsroom",
-      "published": "2026-09-24T03:47:56Z",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ0g5TTdqN1pwSUE2SzExLVo2N1paU3RFNzZJanlZdmNMVjdfa21IR0pIS3NBMHFvWHFPU2xDM0Zmbi1ydVRDSkNHQXlrYUtWanI0UDQ0YWt4VU52MDVPRjNITG45MjhFUTFSVjJEWmozelB6TEtNTE1hM2xNMTF1YWZuUQ?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "U.S. produce outbreaks prompt review of microbial risks on farms - Hortidaily",
-      "source": "Hortidaily",
-      "sourceType": "newsroom",
-      "published": "2026-09-25T12:18:32Z",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONGo3eTd1RHZBVEtOUFBSRnI3cnIydHVSemZ0YURFdDlZdVY1dXgweUF0MlVLWkNVMDcxWHo3WjllSk1XejBHMkNVUTdtQkRKQngtNUNHa0YxM0lSOFp6dG9ZOGVOaHBSdHJWVm9hWGUyNWh4VXlaLVhxLVlFNmdZQW5kcXlKWmtNMzlUNktsYjJHOWhnWW5hUnNLX1NGWm04ajIzcTdyV2xWOGM?oc=5",
+      "published": "2026-09-25T18:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4ZG5nLWZQSE81djNHVXg3SjdnS1ItUnNHSzBHSFZMRmE2aFNyQ3FIWm1qUXMwemVnMjdjcFBCTm4xSmp1ZzhBQ01zejhBUGFCUWdLdXl3aFFDdk9pYlNxT1RXOVZHN0hQ?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     }
   ],
   "blog": {
-    "date": "2026-09-25",
-    "window": "News published on September 24, 2026",
+    "date": "2026-09-26",
+    "window": "News published on September 25, 2026",
     "title": "News in Reverse: start with the verified scope",
-    "dek": "Yesterday’s public feed contained 6 indexed item(s). The daily brief works backward from official scope before adding headlines.",
+    "dek": "Yesterday’s public feed contained 4 indexed item(s). The daily brief works backward from official scope before adding headlines.",
     "paragraphs": [
-      "The headline trail, newest first: 'Sharp rise' in cyclosporiasis cases in UK linked to Mexico travel. Here's what to know - ABC News; How Produce Can Close Its Communication Gap After Cyclospora; Cyclospora outbreak put a damper on Olive Garden’s summer.",
+      "The headline trail, newest first: Taylor Farms recalls lettuce in 27 states amid cyclosporiasis outbreak: What to know; More than 11,500 cyclosporiasis cases reported in 41 states: CDC - ABC News; Even 'triple-washed' lettuce could be nowhere near as clean as you think, warn experts.",
       "The stable reference point remains 1,645 federally confirmed domestically acquired cases across 47 reporting states. State totals may be newer, broader, or include probable cases.",
       "The current federal source finding applies to a large five-state lettuce-linked subset. Water remains a possible general transmission route, but the current CDC and FDA pages do not identify a municipal water system as this outbreak’s source."
     ],
