@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T15:44:00Z",
+  "generatedAt": "2026-10-24T14:31:02Z",
   "alert": {
     "level": "high",
     "score": 81,
@@ -183,19 +183,35 @@
       "summary": "Michigan reported 2,640 cases at the state level and reiterated the need for Cyclospora-specific testing."
     },
     {
+      "title": "Frank Yiannas on Rethinking Food Safety Post-Cyclospora - The Packer",
+      "source": "The Packer",
+      "sourceType": "newsroom",
+      "published": "2026-10-23T19:59:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUWpZUDZmNzVUa2lYNXFiNlkxNDluQnV4N2M3UzllNEVZVzNPZ0d6X1Z3NXlYTE43Z3ZFdmUxc0Jadi1DUFRUOXFjNjA3Y09ZdUZyZFdtQXlJMjdBRmJWSk9za0RBS3FJQTRMZzZYRi16eWUzMEU5cnBnakZKR0RrVWljUEtVb1pPR3pn?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "Yum Brands Third-Quarter Earnings Likely Weighed Down by Cyclospora Outbreak, UBS Says - Yahoo Finance",
+      "source": "Yahoo Finance",
+      "sourceType": "newsroom",
+      "published": "2026-10-23T20:13:28Z",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPam13dEhMY3F5QmFERWg5Tk55NGNNS0NmV0VLNER6ZkQwcWdqNEhQb1AxMXI5ckNOOWJHbURJdHRTYTZqVkN6YzNtZ0pJSjZ5MVhDb0JzU3VoUVFHVmhhMks0RjFwVENwamZqOFhES3FMMXdSenQyUm1xSnB6SGQ3cTBkbkZBZXN4VXpQdVJzd1hYalB4djA4eEJRT3BQaXM?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "First cyclospora deaths reported in Michigan; Medicare Advantage provider to pay $14.1M over false diagnosis codes; five insurers cover half of Medicaid's children — Morning Medical Update - Medical Economics",
+      "source": "Medical Economics",
+      "sourceType": "newsroom",
+      "published": "2026-10-23T18:40:56Z",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOd3NlNHpnbmFzZDZQdVdPTV9rRGhLMzQtaFpjdHMyU0w4NnB2N2Z1XzZlV3JmeFhNQmFNYWJWcURtVTF3Vlc3RUgtNzlONG03ZEE2ZUtGLThmUzV0Rzk5SXVOdTB6NEM2WC1VY0pGMXFNNUJLVDA1c1pmZnZYMHJ6WTRIcDN4ZjRQcWNDSVVQSmUtWmZoZWw3ZG1UZnc2aEhJTU1rUWo4R0hPN05pVWNObGJqR0JveGdLTXhMbS15S0FqeUxCTk9sN3lSMzczaDZteW9WcjFOaFlvdThjcXp6cWhzZ2tGNnlxOTE0dnY1enZQX2pPV3JTdXlVMTdnWmZvX1lXNXF2VDdOLTQ5eEJYQmM4VWg4dG9na1FKRU5qLVdxaXdHZFk3UEp0Q255OEVlYmJPNWJWQThLdjk5NTZfS2pxYw?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
       "title": "Texas food recalls down in 2026 despite Cyclospora lettuce outbreak - KWTX",
       "source": "KWTX",
       "sourceType": "newsroom",
       "published": "2026-10-22T23:22:00Z",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYjMtZDZSN3hPSTZHajZyaG00eHBpdmtiVEFwMmFNRzQzUUU0OTNXTEkzdlVEMVVVUllRYm0tenBvSTg5OEJ6NFhBNk5zTmRPVXpjTkZtSW14QjRkVkpPUVFuR2VEWGV2TEVXNE9XTnNXcDR1TS1uMmNRdGRjQzE2TTd6ZzhMVFZDa0FqM0Q3bDFuOVd2OVpXVklVMHNWZ9IBsgFBVV95cUxOWHRRT2Z3cHJSZ1pCLUxXY1FIVmdmaWVvNF9IZ2JCaXBnUzR2dGxmV0JuMm0tR3Q0VlNkMGsweXI1Q3p4dGlyNjRqOXI4UFd1cnNmMEZINUlPZWRxbExxdlFOUm43SVVhRTVBaXFwamRtSWgxUEdOMWxjcWZhMWlWNTh3ZXp0SVp3RTdpeUE1YTUwWVBxc3V1d1Q5dTZUVU95Z2RPaHREdUZtOW1fODBJdEtn?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "Cyclosporiasis cases top 1,600 with source still unknown; ACP presses Congress to tighten supplement rules; could a finger-prick test track metabolic health? — Morning Medical Update - Medical Economics",
-      "source": "Medical Economics",
-      "sourceType": "newsroom",
-      "published": "2026-10-22T21:20:36Z",
-      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOdndzbmhlc1E0cm1KZzVYeG1iemdwVjZjZ24zMDMyVGFiX0VkZ183RTdydEh6ZnF2XzZldWxQeDJ5Rk1jbWtodkE1U1J0RWFEbmZzTkxGNW5Cd2dHWXRqc0NXRXFuQWR2ZVR4T2kzY3o3UU8xTFNJdjVoWU1fMWxHWTYzMkh6Y2NpMVQ5VjgyS2dKbm9PVDg1bXNhbEszcnlya1VLcGxYejN0bDlneUhfSHY4OXVzVTJvUExhY3N0YmZROUpXeW9PZ2NsMUZqY3VNMjV6SXdxNzJmZ0RabUw0QjZEVzB0V0w3M0FFTWFKbHl6TlFPZUxadDZzZDhUVlp5RUYyVEZDMGh3WGFsRWJZTjhNVl9RTUNiaU5xOHk0SUxabUp1X2g4OGFValVyN0VHbC1HSkNlT25jSTQ?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
@@ -207,45 +223,29 @@
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "FDA, CDC and FSIS Outbreak Tables: 15 FDA Investigations, 29 CDC Multistate Clusters – and Too Many Still Without a Named Food - Marler Blog",
-      "source": "Marler Blog",
-      "sourceType": "newsroom",
-      "published": "2026-10-23T14:17:33Z",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMU1PYnBnRTBHeEcyVG1zQlZhX1JHYWhkbGQwdHpkVnZ5bGY2dlhhTERtc1dEVTdrNUpwNUkyNE1sTkpXQ0FEYkpxeFhNODNkdVlUdWVHay14b2xLaGVJR1FfdkQtV0ZadnhGQXA1bEVVTi01RFI5aURwZHJoWlBMZmdtUElkMlFKVDJYaFYyRkVyTU5haXhlblV3OUhoRnZpSTk2ZlFkV21VYmw3SFYzZFdoQlJJSGlEQ2EyMEdpaE1ma2NsZU43WDcwZUZUc1VPNndlTTZ1RnBjMUo2OUdBRkJqTl92UnVEbGNEdEVrdzM?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "What we know about the U.S. cyclosporiasis outbreak – ABC22 & FOX44 - MyChamplainValley.com",
-      "source": "MyChamplainValley.com",
-      "sourceType": "newsroom",
-      "published": "2026-10-22T12:28:44Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOG1vVmVYWl9SYmVJRmFJNTY1Tmh1dGdtOEo2VGFMYkx1N0lENm10WVBKM2J4a1JSeldUMGRyQ1JTRGIxRDBnN250bjVJSGl1YVdSVzZkZ2NlLVd5MEtIc19saEN6RGxOSjR5Ym1jNGhaYkhQRTdIWG5LNDlrb0NwUWxvaTNtRWlWemo3Z3FGT1c0d1djc09QampNTm5ZSnQxM2c?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "Cyclospora Found at Mexican Farm Linked to Lettuce Outbreak, FDA Says - Food Manufacturing",
-      "source": "Food Manufacturing",
-      "sourceType": "newsroom",
-      "published": "2026-10-22T08:42:58Z",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUXA4VXlIYVo0RzAwRjlGTXFlZVYzX21TX0JRdDhLcmdzc2hFUUhkTWdfd1VGRHlOVnFhMkg2b01xLWFlOVJCdmxRdGJ1SFVjRlVLRlI3TVd3cnZGTnl3bnVqVmFESTdsNVhwRElaNUFPLXFyVjhFdnpRcGE2UlpwcUFQQ3FkT0MwOExNWUQ5SGx5UXA0WmhoVHpFczlYUlF3MVVFTUJET0EtcXpqOV9mUlRBbjVFQnVfSXA1N0UxVk8?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "Cyclospora Outbreak Is Over, But Food Safety Gaps Remain - Patch",
+      "title": "The Lettuce Scare Ended. These Food Safety Problems Didn't. - Patch",
       "source": "Patch",
       "sourceType": "newsroom",
       "published": "2026-10-22T17:50:07Z",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZi10dTJZbHJhV1hRZ0gxckxHLUZ4WnB4VXhJOUljZWhsSThDMVVESm5LTGNmNzJtTDVUZk52QzdOTnlDRWdXdHRoSnB2QnY5Y0xXNVI3Wnp1d1lQSTNybm1YQkwtUXkxdUNLOEt5cGFiSjgtNFFYMFZ1anlzRThlUDJSNF9XR0JzMVk1cNIBpwFBVV95cUxPd3hhRDY2OHVTVy1RTEJhdFFCR3JCOVlDS19pUngwZFlFZDJreFFuVjI2VUstUDAyZjZhQWlVbTJwcDhNbllTdGZFV2lSUWJZeGlraHJ4T01CRERzaGprVHlwcnJDOWd0YTBROG1UZEVZNGR3ZDRpX3ZTdWNqQUhkRDZSQ29QVlM3MlNxbHBTbE11V2FkX3RubVlLSXN0SHdOZU5PTHVNSQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZi10dTJZbHJhV1hRZ0gxckxHLUZ4WnB4VXhJOUljZWhsSThDMVVESm5LTGNmNzJtTDVUZk52QzdOTnlDRWdXdHRoSnB2QnY5Y0xXNVI3Wnp1d1lQSTNybm1YQkwtUXkxdUNLOEt5cGFiSjgtNFFYMFZ1anlzRThlUDJSNF9XR0JzMVk1cNIBqgFBVV95cUxOM0V1VVB3RGE3R0dNVkdHR1hnc1Q5c2sxcW94U1FEZjhjWWM5VDFTNFAzS09XZnUtd2lWOHZ4UU12SGxVWkFiemFtX0ZoRUhLY0FmZXotc0VpU0xFWm04Yi1DSldBUVVJb05SbnRRbUk0UE5aZlY0LVZFczVRUzJTUnVuY1pENFNVb3lBZlNjem9TQnI1Z2o5LUdQMmpyRFJ6dXljaEFZNTd2UQ?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "FDA, CDC and FSIS Outbreak Tables: 15 FDA Investigations, 29 CDC Multistate Clusters – and Too Many Still Without a Named Food - Marler Blog",
+      "source": "Marler Blog",
+      "sourceType": "newsroom",
+      "published": "2026-10-23T14:17:09Z",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMU1PYnBnRTBHeEcyVG1zQlZhX1JHYWhkbGQwdHpkVnZ5bGY2dlhhTERtc1dEVTdrNUpwNUkyNE1sTkpXQ0FEYkpxeFhNODNkdVlUdWVHay14b2xLaGVJR1FfdkQtV0ZadnhGQXA1bEVVTi01RFI5aURwZHJoWlBMZmdtUElkMlFKVDJYaFYyRkVyTU5haXhlblV3OUhoRnZpSTk2ZlFkV21VYmw3SFYzZFdoQlJJSGlEQ2EyMEdpaE1ma2NsZU43WDcwZUZUc1VPNndlTTZ1RnBjMUo2OUdBRkJqTl92UnVEbGNEdEVrdzM?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     }
   ],
   "blog": {
-    "date": "2026-10-23",
-    "window": "News published on October 22, 2026",
+    "date": "2026-10-24",
+    "window": "News published on October 23, 2026",
     "title": "News in Reverse: start with the verified scope",
-    "dek": "Yesterday’s public feed contained 7 indexed item(s). The daily brief works backward from official scope before adding headlines.",
+    "dek": "Yesterday’s public feed contained 5 indexed item(s). The daily brief works backward from official scope before adding headlines.",
     "paragraphs": [
-      "The headline trail, newest first: Texas food recalls down in 2026 despite Cyclospora lettuce outbreak; Cyclosporiasis cases top 1,600 with source still unknown; ACP presses Congress to tighten supplement rules; could a finger-prick test track metabolic health? — Morning Medical Update; Alpena, ‘one of the’ highest case rates for cyclosporiasis, says DHD4.",
+      "The headline trail, newest first: Frank Yiannas on Rethinking Food Safety Post-Cyclospora; Yum Brands Third-Quarter Earnings Likely Weighed Down by Cyclospora Outbreak, UBS Says; First cyclospora deaths reported in Michigan; Medicare Advantage provider to pay $14.1M over false diagnosis codes; five insurers cover half of Medicaid's children — Morning Medical Update.",
       "The stable reference point remains 1,645 federally confirmed domestically acquired cases across 47 reporting states. State totals may be newer, broader, or include probable cases.",
       "The current federal source finding applies to a large five-state lettuce-linked subset. Water remains a possible general transmission route, but the current CDC and FDA pages do not identify a municipal water system as this outbreak’s source."
     ],
