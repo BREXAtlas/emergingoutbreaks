@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T18:37:45Z",
+  "generatedAt": "2026-11-05T18:43:49Z",
   "alert": {
     "level": "high",
     "score": 81,
@@ -183,11 +183,19 @@
       "summary": "Michigan reported 2,640 cases at the state level and reiterated the need for Cyclospora-specific testing."
     },
     {
-      "title": "More than 11,500 cyclosporiasis cases reported in 41 states: CDC - ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos",
+      "title": "Cyclosporiasis symptoms, treatment and how it's spread: Everything to know about the intestinal parasitic disease - ABC11 News",
+      "source": "ABC11 News",
       "sourceType": "newsroom",
-      "published": "2026-11-04T08:19:17Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcjFGNXdMLUNQNzUzOWJmQmNNV1F4NlRSeWMzXzFHMDBmMWo3elduQ1RpZXZZdl9WUmlvdFB0SkNpdlE0ejdnLUs1bEpTXzM2clZOWHFHa0ptbXJQYU1Yc1duc0xHak5oaTZKSGNneHd2RUd5UXJlSjNwb3JCajJnek9NMnVsM3p4eVJXS0k4X0xham1VZ1ZlTmFEc9IBoAFBVV95cUxQM1dkMWNBZ1VidUtPWHdBZWpEcmFLYU9LRTJ0RnhGeHVmUktNWnJsOEtYNTVzYjJIV0JOUnVCbHVuWUhveTlrVE11ZHh6MjY1WlJheHhVYnRNVW03Wk5FdGJCemJlcV80OVlQWFg5UHlSVzdWTWZNNkNXQ09tUWlHMmc2eFljcUZNLTVoVmotT3NrcWlKRUlQNE5Lb092QTZ3?oc=5",
+      "published": "2026-11-05T07:27:18Z",
+      "url": "https://news.google.com/rss/articles/CBMiywtBVV95cUxPR29hSHVLQWx5dk14V3VDWGVtUXAxbUVqWEMwal82Y3E0dlpKaUtxNWFaMUR2eGtGT3h5R3htUmN5WEVrMnJhWE51MTVQRVpjRmNCY18xb0ZFdU1ZTXRPTlAtVmdqS1hxNGdnU0ZpNVVjNlY2N0ZvWGhwaHQ5aHlwNnVkanFoSC1EczFlR0c1ZjdBcVY1dVo2aUQ4VDNaOVF3TUx2SWN1UUZMNG9fbVYyQk1SVHVfcE1Sb1NjbG1hYzNOVFo0SFRIYUwxZ20tWjMxMlZ4UHpaUHNNNG5SQlJsN21YckdGYXE5eHpmUmxCWDlSS2tIYmlXMzRDNVhNdzRmYTdaSlRRN2x0TFJncmhOcWpuUHZXd3RZbldpSXdrU19HeHowc1czc3d1dEtVVXA4aXJhbmZtWk1VcWdhUVVVeVpDTEtwcU9NaHVjdDN0T1h5VXJ0bjIzWVJpdjQ5T1A2cFo1NE5neXZFUEFCLWtCemxYa3h5ZmJxU1hTbjlxcHVwRmYtbTNaVkFrakdfbVQtZjJUVDdfN2pPZmpqd2U4bkUtUjNqeUhjcWxwV1pyc2ZLOVBqX05kWjJnbU5yR1VtRjRJVTFBQTl0UjB1RTgzV3BOTVNaUHdqTy1ldTNNeU43OFVOUDJodU5CVGpwdTdBWk1pU3d4SnZIUkxfUjhETHBaWmZfZGRTRWJDNkJ4VzdodEhJb0JsSDdUSTRHVUZTM3Bmd2ZoLXRnZFlweS1ReWlJOGhaVkFGNDVPUnJyb2ZwMUp2dmRtdFhfbWc3VGxvNi1hT3JEeG5INVd1X2E3SlFJSUpVZmdJUThIQlB4Yi10VFJrbXlsU1ZhQVJ4dFJ0cWZtRjNTZmlfbXcwSlFlUmVqRENrbVFZMV9WVl91MmZJUGtIUC11T2NuYUlNblE5Y0ZsOGJCWmgzRWdjUEZQRjBFREFmRG9QeDdERnpMLXBSbWF6NVJ5SmJfMFhxT2JLOUV2M2RDRHRXLUpNS1FEUnVSWTVQTmtrX0haYlVxTlgySldNTUtXcTFPMW1NVUpGdGJwd0JORFlUdTRhWnBUNUZiTElsMmpZcXI4ZEZfX1g2cHRGdWxOSG9waWcxODRhQ1hZbUR3b1JoVXg1TW9Qb2dmZnZpbW1FZ2gxY3JFdG9ZaFY0OHpvcVotbG5ic1dnenUxTHF2QmRvZFJhMzVmcFVyR2RfR1FJN3RIaTFjWFVkUUJENXh5MDhCLWpFYWVGWlp0X3ZFbkNmY0oxeFlnN2gwY0tNeTVSa21QZVVsTFRBUDduSlgxbHFxOWJnYmF6N2tPa3ZndWZrVzRwd0tkbzJIbVZxeTZWd0R5eWVkeUJpYVZzYXNpZFRNb2FLZzJYcVdHQ2c0U20zdnk2dEU4ZXdaT3FEd3FFVEZINFdxcFVHdll5WVIxX3VIU0k5N3dzamxYRExOV0gzYkFMWlZ2MHdHcmNWZUNCcXNnOU1QcWcxZGdWSkJta1JRMjRNUGY5ZzNRYm1qeTV3YjhHaGFhVllnc0lYX1dNS2RLQXkzQ2N1cWNpZGJ3RzExdnYwY0ExcGpCU1VmUDczSHp1Uzd5aG9sTy0wSGJtU2xSaWlVX21IcVA5MEVXdlRUSDRSTDRTQVY2dTg2RzRVZzhSQmcyYkc2VUxRbHhDVTJoeXRaMjUzLTNtcU5BeFZZRkM0OXkwVjgzOGpvaEJtWlFCZUU5bTVrdzJSMlVuR0JKS1V3RVJlSkRqbzNmbWRVcmJqRmpfZml5UWI4ZWdsd3VlUmVId3ZPalBGMHF2MmxXSWNVV3hBUEd0T041bEp3dkxvc3JfR0l1cTNKZUZDclUtYUU5OW9IR3FuMGhaX0NPSWtRNkQ1THdQVDRSNFAzX3BKd0JuaHpVRGt2MlladDRWaHdHR1NQcTRNUnkwaUdMTG5BUU1nU0FQY3cyTGNoZzJ0S25MbTk5b19ybnlRZ2tLT3J6eXpLRktpaWFXN2JR?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "Taco Bell recovers after cyclospora outbreak: ‘Continuing to play offense’ - AL.com",
+      "source": "AL.com",
+      "sourceType": "newsroom",
+      "published": "2026-11-04T23:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM1RaZHpkZVRCSzBkRlZuTW9XWkYybWs2aUoyalZtSFIwRnVMWXRRSzloQkc0dnVnSmFhRjdmYmNJeVpkWE9jRmZ6VjljNmJydXF5YzgwZDFPaEZsdmF5S2dkYjR0NUpDRUVKeGJEWG9PdnNZUnRxVGJxazR1VVFVUVR3SVM1b19obXFPWVh3Y1ZqQXpuN01ySWVkc00tLV9OME5FZ2IwdTdFN0s50gHAAUFVX3lxTFBzQVYzSDFMdk94a0ZHUkd4Z2NiYmhzLTdQbE9SNG9fZUl0SUxVcGRCRGxYTEZ3QXNQdVVxakhucEtOcE9ZOEJLb2hRQm1KdDh4WnlpMUVGdFFIZWdlNGhvTVpESG1SWm1ZQUhCZDcyV0tzVnB3WVFlMVdSZXg1NHVPbUViUTAyTzd0TWExbUVxeENmckx6TFNZX2psam81ajdqd1BkNzk4aUJ1TG1vYmFIakxYN0VZMlhmZkZKZVJJRg?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
@@ -199,53 +207,45 @@
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "RAW: FILE: TACO BELL SALES IMPROVE AFTER CYCLOSPORA OUTBREAK - Local 3 News",
-      "source": "Local 3 News",
+      "title": "Taco Bell sales improve after cyclospora outbreak - KXLY.com",
+      "source": "KXLY.com",
       "sourceType": "newsroom",
-      "published": "2026-11-04T17:38:00Z",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVHJFS0hvcjY4YUEzb3BmWGhXODYxM1h3bnB0d2xOTXMtSHE0OXVxQjJIVXNOVmZ2azYzUUpRZE5wdXFXbWdVNDB4WWI0d0JEMUhiLWl2M2ZaTnozWmVqdGVyX0xuMjlUNFNpNklYamdmX19Yc3VleWtwLTNDY3NTbDIzYUlyNlN3OGNyLUhCbFc4TzkxSno3S3FuMjVTQmFBRE4zbnRHTDdsVjBmdFl5OGJGMUtfN0VUS0VPcm9DRWFVRk9Ha1VacW5JU1NwOUlCbWtLZ3FKbnJJX28tamJySXM5VnlMQQ?oc=5",
+      "published": "2026-11-05T07:28:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYnEzN0lsNGVvQkN6ZXJ2SUI5NlQ4WlhTaHdOS0JvTmMzMmxYc0YwdHhPMDI1UzBhSEtHWmNvbkVucEpYcjJ0WW1USU9rNkV0Vkh1TFZsbWRIN2FnMEZOSUVZMDZMVHNvalNORWxDc2xoNFVyc2JGX0I5LUFkWVgzWEZNbnBFTnZGWE1SMFVMa1NnSlQ2Y0dPNTc2cjR0M0VmeGR5ZjhzaEhpTE9mSGY1Y2NSWjJoWFRjRVd0M0pWdlI0QQ?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "Federal health officials have investigated 5 different clusters of cyclosporiasis cases, FDA says - ABC7 Bay Area",
-      "source": "ABC7 Bay Area",
+      "title": "Cava Group Sales Slump on Cyclospora Outbreak, Profit Down on Higher Costs - WSJ",
+      "source": "WSJ",
       "sourceType": "newsroom",
-      "published": "2026-11-03T20:01:07Z",
-      "url": "https://news.google.com/rss/articles/CBMitBRBVV95cUxQa0lrUkRiT1A0VVNuRHIwNllqRzVMVnVWLXAtOGJVQmVtellVT3pGcm84OWk1R0RlWUJWa1poZGZnelJyWnNyaGgzcWJhdHlHRV9EWkd5UTY4MmRhMEdtR0pPMHhzUmg3Y2NwVF8tTDA3cmZETlNHSjdPbmxsX1plN050Wm5rbE5mOHdKcGtKcE5NN0pfX2FKVTJSU1Nsd2drODFCdmJGNzRjLXhvNktXYWtlMDYyblRuTGFtb0FwVDdacGxJMjBaTkdfU1Q5VTNwSF9zX3lHaElyOUQ2aFlNb0JqdzZtMy04SXotcWNra2g3MUtXTFh6dU5Kay1hV3JPb3B2MkZWYUpTMGFEQW5Od3hDTFhHbWlmN1UwckhNbExLa1c0ZFg4Q2U1Zld5bzhLbllMeDFpWm43dUFBNFlWQ3N0c1lhTURlMHU3enU4VTVxdGZsUTU2WGZLVE4xTVZxeW84VVBtSGRIeVFvWjE2dV9lb1JHVkYyYmRtblhFeExhSlk1OWF1S2tQdy15WnAwM0JYaXNaSmJycW1ENUphNHNabU41Z3dGVldHVVU4RGRPRTJRMU9kQjNwQXZnZFJlLXlGZ0toVDNJRy1FRGNGODEzSFczbU92dXdRMmI5ME83SVplanBHblFUV3Z2Vl9MbEVDbWtkNGdwbXRPSkxSYWppZ3BNMGZpbDAyWG85V3ZRSzNDdWo4VWVCRmJGOVNCLUtnM0wxTjZwWURQUTIyQTNrTDhWUEcxS2lSQUFNMVNZSGI3S1BMYU5ybE1JTWxINzhqT2pRNU1DVXlkRWpGNTNkQUNFVHFQUTh0Wjc4akFyRlNkMDNOeldjc1Q0Y3pGbTNaU2o2Rm8zbzd1Xzg0T08yWm1nUGExY2Z3ZkJwRVZYZkFuenBnb1EwUlBjd1prd0FUNF9tNUlyNHNrUmxEQ0xSQ2tLamtJbjlDZVpzcVptblJzREdBMDJQOGhqWXNDR2Y0djVXN2N0cjhqNUgwV1hIREpGcDYwb0dNR183VnFSbXhPR1Jaa2tmYTdDVkJuR0ZRM3dJM2Nhc041TFRQLUp2V0hpZ3V4Qk8wbGdKcjR2VmhETTFvUm9PX1U5R1FpMHZMRnJPYkVCcGt3UC1GU0xCX1JFQklTaC1ieUlNSDZ0RnRVZWtqdE9jNWs2dWdLbjZPVm94VmYxbVlxVlAxVU1halBGN0pDdFI5aDJMajU1c2tNMVBZNnZzT0FsS2VoNHFtM05McDVJWk9DTHlsaXJ4OEdEb2dxTnBMeUVicjF0eGtHN3hlQWZMRVdIczdVaFlfQXJHOWx2eDN4am1ZTWZ3d21qVkNKMEo5bW1XdDUyVmpaVnVZeWZ5ak9LWE9mTWxacldfVmVfc0VVZkl0UnI0V0NaeWo3OXZYaVZWVm1BbGtFdkFBLW1IdXNNczA5YzRCZjhxN09QVS1POFhfeXFpcnNMSXgzOXluR2gtZ3JTcVQtN3Q1UjNDWDlXaFI3bG1XYW5aZDBGMFJjUEpfVlZBazR3eVJ5Y25UM2tUaC1ZQ0FhRFk0RTB6UVp2cXI4U1djSEdnLVZlS1BYR0VGR3dORE9MbzZ5TjNGMnp2QUsyOXVyRUttaGN0eUh6dGMxNTdNbjhNLWMwd3lpQnlKWU8tbThHZE9HQzljWWZKUzBuVWpnY0ZpQnBzbGhVZEtTY3JZYi1nOWN1WVBiSWRXaGtKUmFBaVZaMHh5MU53SGpITHpxc1duWG8tZ3RJTE5jSWtlWE4zdWhnMWVFSFBaZlJMelZxeDdoODVDZ1ZEajNwbXY0dURwNTQzZGFQYUZxYjNIeERtODFqal9PelhhdnRYSjNuWnFyVTdDTDR1dFQwYkxONFpkenFkV0tTX0daZzE5bnJxYmppNm1KVFBvUFJZWHZwbGFYZjJJZUdGNGptdTFiN18wRW1YR1FZaWFaZnVlX3V6TmVJdUFkaFdEVFBHejl0VG50aHptempRMWtjUXkzQjNETW1vTzJYUWg3S0hpSktaSkVOaEw2eDI5NDFFMllFUjh0QU1LOWdhdHNtZ1ZTLXp6cHhXV0M2Qlh0S2Nnc0FrdUF3NUcyYURzR1gydUN5VUpQVW9lUlpoOWdmU29OWTRvdThMSVpTZm1HeFRhR09rb3B4RlY5al9iWUtVUU11ajdQYkZnMlU2R1NIbjdfNm9YWmJHUnJRYjlDQ05GWUdKekVtUG5pdUM2Q1I3Ymc5RU5ZdVZWN2g2RXhfT1VnQXpmSjdiaW85VHNsT2hTbDdzZ0taVnJfUWNBX2RUb0dvSDA3VEZYV21SZUZKa1V0bVpEOHA1LS1FQVFrdmk1cDhoaVVZMWF3ZS1YWnF6V3BKdGo4VTlUWkJhdlIwaGpUa2lGM0VreWVfcndhTElLV1BQTTlPWTB0QzloWW42MFhWX2N6eGU0dEtWSG5WcldVMnB3bjV0bnljaTdIbW9LZlREZHBFVlJQQmQxSzBEeEE4ZU1BeHhYVzBFNDJDS2hxWTU4ZEpuQkpqTk1hdlhRU0RvYU5KSkZ1Y2RtQk56a0Z4S2xoazY0X05KLW84X051RzN0ME1SWlVITHFZZVlKOWdXUU85RkJycnJJZXVSNWUzT2R6VzAxcHBPU1VFOXBSZElkRkd0UFRRcTFzTkVJd1VfdVBELXNRWThYclpnaGZBN0ptNDU5NTBQaHVQUUc5OEpib0Z3VWo1OEp1QmJJMkVQQ0tDRlFqOEFaTlVfbnltR0xkeGphQWFJcGE1MWF0aXRnRldfYVNZczR0NmlyeUswQkdUaWpXeE1FZTVBdGRyZ2M2LTVvQ202MW9KcTlOSHNNYVhJMmVEdEFENk40MnZaVlRHQ2NuU01FWHB0UjlDYVJPdldPNVM2ZG1TSjBTN1pHTWo1c3hfRnVzVHdzVDJFZU9GQ0p6QVljekNiNWp6UzVMS0xYRXBsbm9yUzdZelRhNmtkVUM1enV4WjNXRHN6dW5lS29TNFRqR2hXOFpuY1hvZnhjUkhmakxXNFFNaTRQOHJNMEoyREJSWVpydl9GVExVd21ZN3RtMWpadElTTUREdDNUcW9GV3Qtb210aWhQR1ZuYUdDcXhfWXdMOUhGdkREckhoQUt1cWxTUDYxVlNQb21oLVhWNnVnZ19aNTVGYUYtX1VWendlRDZEMHBlLVdwU0dUR1RDQzZpeXQzTzhKTmx6VVRsNXhuVzZOaWZjM1ZqLUtwQ1dEX2UyemZZMVlQejFEX05DTGpPbWFYOFMzeFZweGtFSXAwVHpZcmdGTU43dUgxdWtZMkFrR0ZTeHFxOUlSZW9pcVo0Q3NZUlJHQXRiaF9OQ1RMcUdoUks4MldtaGx5eUczVlI5NGEzeHFFak85THNlcDVTeFhSZVJobE82QUJ6bF9yRUFKR1VlSGtEampCaG5iZVp2WHMyVHJIRnhGaGpmNmR0VTRwemxHTGRJNUYwLVI2R2wyVU9IXzlaUHJNWGVQYjd0bA?oc=5",
+      "published": "2026-11-04T22:17:00Z",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdjdqc2t4VXJNMVl0cndaLWE1RUwzVU9INmlMcFUxZUJRRWlJZUY3b1dHSm0zVl9ELUFaOWR3UzJOWGpzRXloUFBfY281NC1TdGpnYWtuYU9yOFdDNThCcFNIMnZNY3U2ajJoX0E2NUhOZmZXMkRLcEdVSFhNRkhYdUdzRy1oWHZDdzZLaDZGaHZVY3VFY1BLd29SdU4tQW5PaE84YlpwUUhMckwzekE?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "Here's where cyclosporiasis is spreading as cases are confirmed in 32 states - ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos",
+      "title": "Cyclospora Outbreak Hurt Marzetti’s First Quarter Results - Food Processing",
+      "source": "Food Processing",
       "sourceType": "newsroom",
-      "published": "2026-11-04T07:07:26Z",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWDZHUXdQQl9hOUN1N0hOb2c1NFVNaXdaNzlGUFlaMmZDR3poLUIzajllQkwyTDJIbmVjNmVxTzFKd2xwRjJnWEstbUdmVHI5dkdwMjc2aTNJaW1FODNfQlZnRTZDZ0hyLUZIbEt5b2N6NWxsRFNXWmpuenBTaGZqM1RHYm8wLUpReER4ei1EOFdHRkxfaWYwdEV1RzDSAaIBQVVfeXFMTzZOYWhBZjdzcVBVY19QbnhkblNhczd5aHJzeFMxMEJjV0V2NmRCR2pEd3VhcGFYRTFQbjlCU3RlNEhEcmExLTZ6SU1WdW10NW4xSWNBUmpUUUlrakpKcmlUQnBiQ3EtZHE4dnNqaDNBWnBIZUMyTEJuOEk1c29VREpfaWJ2VDliM01qbjZub2RLZnkybmRiMXYyOFA0aDNQc3lB?oc=5",
+      "published": "2026-11-05T03:49:34Z",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV0g4TkxaWWRPVDkybThNM2pXNmwtTGc3RU5hU2VZbVF3d3R1aXA1MUhmeTQyUXJtVVNsWnJGbkNlRFRLZkczV1NfOGZkcWRhc2liVlZNWEFycjR5MjJuTTVfMFB1R0FVcjdrU3FZM21KeU5UcURoQ1BWNEJQamNrNUFTQjdoRWExbFBWMWx4SzQ5S0VHV0s5czNjU1FiSFF2VWJxVnhJTDhCdG42SGlwV2tBRkU3VUtodGQtdV9yVkwxZ3pmakE?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "When Consumers Search “Cyclospora,” Bagged Salad Sales Take the Hit - Morning Ag Clips",
-      "source": "Morning Ag Clips",
+      "title": "Taco Bell recovers after cyclospora outbreak: ‘Continuing to play offense’ - Yahoo Finance",
+      "source": "Yahoo Finance",
       "sourceType": "newsroom",
-      "published": "2026-11-04T14:50:09Z",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaTgwaHI4ZXZNU1M5X3hHQjRXcHhQdzhQM1VRLU1JWkJQRDRDTXFoVGxZbElFWTFYQWxZYmVzMkhwYklGOTJCbEtvSWR3Zml5TEFXVEt4T3NuX2tjc00tZTlLUm9NY2d1MzRFYXhXWm1wRlNUVG4wTk9MWFpPOHZtNXhGamhBbnVVcE40dkQ5Smt4NzVMY2JXelhPMHA?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "Yum says Taco Bell rebounding after cyclosporiasis outbreak hit Q3 sales - Reuters",
-      "source": "Reuters",
-      "sourceType": "newsroom",
-      "published": "2026-11-03T16:40:56Z",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWUxtc0hyOVlCc1lxRzByTXhXVzB6MHhpN1VPNjhJZXBQM1JZM2ZUeTh6elg3eXhyQmpMUkp6SU1TV1E4NXU2TTNFZzFxR3BqaUJQbDRCS2pWZEdGdGRhbUh2bHo3Z0w5c1hPaWtqdEQtWS1lVy1HamxqVG9zQmRTVVNTLUJLLXdLa01LUng0MnNNT19RRWlybDU2ejJ0R2RuOVJCemRKTkFVQWhPOWNMU2l3?oc=5",
+      "published": "2026-11-04T23:00:58Z",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdE81NTBNR25IOHloRUktSGxqRXBTYWNhLVFFTzBuQlRiLXpQVjhtdHBUS0Jpem9maEtlbElpSTNPVzZZdkZhMnR1SjByaWxXZlJyeng0em5nYzZzWG15RERJYnQxNUFRWlY0SzFkaTMxbUZ6QzItX29sQnlUcUt4aHhPWVZmNzljQ3NmNjBILW9aNFMyd3VPQ0g5dlRCWlpa?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     }
   ],
   "blog": {
-    "date": "2026-11-04",
-    "window": "News published on November 03, 2026",
+    "date": "2026-11-05",
+    "window": "News published on November 04, 2026",
     "title": "News in Reverse: start with the verified scope",
-    "dek": "Yesterday’s public feed contained 2 indexed item(s). The daily brief works backward from official scope before adding headlines.",
+    "dek": "Yesterday’s public feed contained 4 indexed item(s). The daily brief works backward from official scope before adding headlines.",
     "paragraphs": [
-      "The headline trail, newest first: Federal health officials have investigated 5 different clusters of cyclosporiasis cases, FDA says; Yum says Taco Bell rebounding after cyclosporiasis outbreak hit Q3 sales.",
+      "The headline trail, newest first: Taco Bell recovers after cyclospora outbreak: ‘Continuing to play offense’; Cyclospora outbreaks in recent years tied to $374 million in bagged-salad sales losses; Cava Group Sales Slump on Cyclospora Outbreak, Profit Down on Higher Costs.",
       "The stable reference point remains 1,645 federally confirmed domestically acquired cases across 47 reporting states. State totals may be newer, broader, or include probable cases.",
       "The current federal source finding applies to a large five-state lettuce-linked subset. Water remains a possible general transmission route, but the current CDC and FDA pages do not identify a municipal water system as this outbreak’s source."
     ],
