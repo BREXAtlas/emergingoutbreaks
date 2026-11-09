@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T17:02:18Z",
+  "generatedAt": "2026-11-09T21:25:41Z",
   "alert": {
     "level": "high",
     "score": 81,
@@ -183,6 +183,14 @@
       "summary": "Michigan reported 2,640 cases at the state level and reiterated the need for Cyclospora-specific testing."
     },
     {
+      "title": "Cava Group Sales Slump on Cyclospora Outbreak, Profit Down on Higher Costs - WSJ",
+      "source": "WSJ",
+      "sourceType": "newsroom",
+      "published": "2026-11-09T10:57:25Z",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdjdqc2t4VXJNMVl0cndaLWE1RUwzVU9INmlMcFUxZUJRRWlJZUY3b1dHSm0zVl9ELUFaOWR3UzJOWGpzRXloUFBfY281NC1TdGpnYWtuYU9yOFdDNThCcFNIMnZNY3U2ajJoX0E2NUhOZmZXMkRLcEdVSFhNRkhYdUdzRy1oWHZDdzZLaDZGaHZVY3VFY1BLd29SdU4tQW5PaE84YlpwUUhMckwzekE?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
       "title": "El Pollo Loco says fans flocked to its chicken during the cyclosporiasis outbreak - Los Angeles Times",
       "source": "Los Angeles Times",
       "sourceType": "newsroom",
@@ -191,43 +199,27 @@
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "More than 11,500 cyclosporiasis cases reported in 41 states: CDC - ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos",
+      "title": "Is lettuce safe to eat now? Where the cyclospora outbreak currently stands - kcentv.com",
+      "source": "kcentv.com",
       "sourceType": "newsroom",
-      "published": "2026-11-07T02:46:27Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcjFGNXdMLUNQNzUzOWJmQmNNV1F4NlRSeWMzXzFHMDBmMWo3elduQ1RpZXZZdl9WUmlvdFB0SkNpdlE0ejdnLUs1bEpTXzM2clZOWHFHa0ptbXJQYU1Yc1duc0xHak5oaTZKSGNneHd2RUd5UXJlSjNwb3JCajJnek9NMnVsM3p4eVJXS0k4X0xham1VZ1ZlTmFEc9IBoAFBVV95cUxQM1dkMWNBZ1VidUtPWHdBZWpEcmFLYU9LRTJ0RnhGeHVmUktNWnJsOEtYNTVzYjJIV0JOUnVCbHVuWUhveTlrVE11ZHh6MjY1WlJheHhVYnRNVW03Wk5FdGJCemJlcV80OVlQWFg5UHlSVzdWTWZNNkNXQ09tUWlHMmc2eFljcUZNLTVoVmotT3NrcWlKRUlQNE5Lb092QTZ3?oc=5",
+      "published": "2026-11-08T15:51:45Z",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMkhaNUtwWnk4THl3S2hITnlZV2RhSzN1RnItd3U1S19XRnRjbm1VNVlYcGg4cEhvUlRQQTVyRmgtaXY1Y2EzUTEwU2VJdEdOY0RPdVl4M01iVlZuQi04Y0RaS2RFWjRXaV9BcUhiT1phTWhZYjZ6NzRoVDZ5MFFuVWlNczJwbXdpMk1HQ3VMLVBJOGJZM0dJd3owOFcxdDFZZ3V2YjJsYzdfYjBWM3ZsOU93ek5FdjktclVMZll0RGJEYkpLRzVNNGEtTjJzRGx1Z3dZeDlxRW41VFNvTXAxbGRFUE1NdGdjOWdFNjZwT3RrSHJJX3V1dEsyUWI?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "RFK Jr. says cyclosporiasis outbreak is 'under control' amid at least 1,600 cases in 5 states - ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos",
+      "title": "Health Talk America: The Cyclospora Cover-Up, Midlife Marriage Truths, and the Grand Canyon's Unsolved Illness - HEALTH TALK AMERICA - iHeart",
+      "source": "iHeart",
       "sourceType": "newsroom",
-      "published": "2026-11-07T14:36:02Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQVpoN0llaXNHWHZ6OWk0endMWXVfNGRJdXBXSlN6MG9ubDFNQjNFM3ppUG41Y1c2X1ViNVdpSG80WEp1akI5QTI3N0FpNlBSZ0p6Mk5rcjhGQWJ5S09ib1A4ZHZaMTFObHpRY2lrQzhBcFVDeWhmVlhubUtoZkZjb21iUkVpODdxdjZ1VUhsUkFhd21GbnRfdG5xUm9NUVBIaUHSAacBQVVfeXFMTzRGX3dQUGxMZWNwOTd2UF8xWW5SeWQ4R0VVZTl5Tld1YUFTYjNvYm5RckdLbTI3VDJ2ZVdkTUl6Zk9WbE0yRXJNRTAwZW9NaVcxOUFSZWVQMmtyZlh3WWhrdFNjcjhBamtpODZkdEptUDJaaEFLaHcyQXVyWElfR2k0cXVQa3FXVzRwa293VlFQRXJ3N29NVll5SS1SZGlfd1E1S1p0ZG8?oc=5",
+      "published": "2026-11-09T10:30:37Z",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTW9VTzh5ZEhDNDhzZ1M5SDQ4cnFRQVUySC1VVVdjZDhjRF9TVC1PcFRXZ2JaRkZOaTV0ajRocEpuQmF5c2dqTnZ5Q2xPb0J6T2syR3M4T3VDbW96QWlJeDdKUlF1Mk5HMFRxaVZoQkhObWt5cmNlR3JpWGt4bzQ1NzJoQVhDcHdLVmw1QkRYQWJPZnBMWXJ1THVnR1B2ZjBnUWI2UW54YklTQ1BsZ3c?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "2 Oregon residents sickened in possible link to nationwide Cyclospora outbreak - KBOI",
-      "source": "KBOI",
+      "title": "Teleconferência de Resultados do 1º Trimestre Fiscal de 2027 da The Marzetti Company (MZTI): Frete e Cyclospora Pressionam as Margens - TradingKey",
+      "source": "TradingKey",
       "sourceType": "newsroom",
-      "published": "2026-11-06T17:22:52Z",
-      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPRXlnbmxobUxmeFNKci12aHZzZlJUZzVPY3g0bDlDLVZFaWNZRlNrVU1KLU14Ni1zeExHbExqYzlucHBfc3FQNXZJd0xKcHdYeTR5V1dmRXVXZHNZMk1qbjlBUjJMMEdLMU5pZkdKdllCdnZFeXBHdnRhcXR5OTFfYzhfa29QVldxZnFjX2gxUlphb0VTMWYxaFpkTlRxeUFQanBldXhyUTYwQ2NQQnhBbEFMYkNkTEF1VGdjWm1VV1dfTi1JcVZGNUVOVFJGNlRLVVVWYldwUkgyeUM4d2JfdU9BSUxPc1o3bkl4UUVocU9mbGhFMXZnS1g4QzlWLTVYZldGeTI3VzkyZEtxT1RBVndNY0xBdTJ3QS1PRTN3dWoyOVVoNWtqQkFZWldOYmJlbEtz?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "Grundy County Schools pull lettuce and tomatoes from lunches amid Cyclospora outbreak - WTVC",
-      "source": "WTVC",
-      "sourceType": "newsroom",
-      "published": "2026-11-07T04:36:38Z",
-      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNRWJxd1F1Qk5BNUdjd0R3RHhzT3RUMDNlMjdFQWptM1pUb2h4SDZJV1pCTElaRlp2a1pZM0VXOHhOTGRGdEJ3WkhXRGFjZ1BkMVpsM2NYNUdWYkVMS2NlMkNBdDc2emNUeG0xN2Fsb29YYTN3N3RKQ0Z6V1hSSXVhMF9RR0RCQ2xZS29ET2YyYUxJT2Myb3hwbERFeE84d3U3TVQ2bU8yTzBWMHpGWVpYY0ZfVElEQTVCSUZ5aVVpZHp4cmc3anRsZGs4UUxiY2pLeGp5dHNKRkZfdDA5SVc4WGlUVzVlTmtPWnNnc3d1RmtDdkc2eGtydHpGZHdEU1k4dW9wblhROWxTOUJWbTZEelVyVGxzMlVrT3dxZEtmMV9CMnA3NWZvX1BUYmZ0UQ?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "Taco Bell sales improve following cyclospora outbreak - KYMA",
-      "source": "KYMA",
-      "sourceType": "newsroom",
-      "published": "2026-11-06T18:00:07Z",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOU1BT0R3ZUl6LTVOWE9OWTgwVjZzNEMtNUQwWTNBc0RZNDlXYnNBT0pCdGJydmZ3aGFGaDQ3WjJ5WFpoRzVUS292SURVU01xZkhSbm9FUGpRbGJqa0d2bTlsR0dCQTFicHlWSzBfTzZrOWFQOWQ0UkF4Z1IyandOVkh3N2NVNi1QYm9HWGxWTXdza0lDVFQzb3IzWk1sXzVfR2hqMg?oc=5",
+      "published": "2026-11-09T20:34:50Z",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XdHQ1U0g2UVByci14b0lzNUVpU2dnMWdueGFaZ1E5NlpERjVwWHlZSzl6ZUd2TlRfWkJEOHM3MDlaSUFTNjFabmphY3VBaGlKeGNDWVVnWFE2ai0zZng3Rmt3RXBrazg2?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
@@ -237,15 +229,23 @@
       "published": "2026-11-08T11:03:00Z",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUmJsYXNFRkZhdjExWnN2ak9MRVRqR196NHlWSzY4WFZtODdyTjh4R1ZWQzJPNGVYTWNBRTdFYVJYbUN4ZG9RdlV2VnVrR3VfM0VoM0E0M0xIdnJCenQ1U2FjaHdZcm1vaHhHRGNJWjFjV1BheE5XQW42OVBJQUlUWS1Rd1pBTDRsYjFJNjlLSW51dHpBRi1BMU0yeHlFNXJZbVVHV1VvQ1Z4OVdveWludUJnOW1MbEdmaWNEdDlqaHpjYzJfYjJiUVhoN3U0bTU3RWc?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "Weekly Recap: Q1 sales miss and Jetro deal remains on track - TradingView",
+      "source": "TradingView",
+      "sourceType": "newsroom",
+      "published": "2026-11-09T11:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVlhaUm1zdlZMTXg0SXBEVVpJQUZ1WEtxOW1ZVUpyUVNESnE5WklYVG45a1c0UzFOZ1d3Z1pFdjNCdWlPcjZGZTZDUDZpMWVXWmhxVzBWZGJ2Z0R3UFdUbUFxT1Q1VU1TazQ2MkZIZlpLTktfWUxLUlRFby1UZVRrc3FVcTd6VEo5Ymx2NnN6LXVxS2pwalFKZGFyWlZQOW9ieEJ5YzJEeFFsTlRkSHB3MmNxTVEtNlRkaHhrMA?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     }
   ],
   "blog": {
-    "date": "2026-11-08",
-    "window": "News published on November 07, 2026",
+    "date": "2026-11-09",
+    "window": "News published on November 08, 2026",
     "title": "News in Reverse: start with the verified scope",
     "dek": "Yesterday’s public feed contained 3 indexed item(s). The daily brief works backward from official scope before adding headlines.",
     "paragraphs": [
-      "The headline trail, newest first: More than 11,500 cyclosporiasis cases reported in 41 states: CDC - ABC News; RFK Jr. says cyclosporiasis outbreak is 'under control' amid at least 1,600 cases in 5 states - ABC News; Grundy County Schools pull lettuce and tomatoes from lunches amid Cyclospora outbreak.",
+      "The headline trail, newest first: El Pollo Loco says fans flocked to its chicken during the cyclosporiasis outbreak; Is lettuce safe to eat now? Where the cyclospora outbreak currently stands; What's safe to eat? Recent food recalls you might have missed.",
       "The stable reference point remains 1,645 federally confirmed domestically acquired cases across 47 reporting states. State totals may be newer, broader, or include probable cases.",
       "The current federal source finding applies to a large five-state lettuce-linked subset. Water remains a possible general transmission route, but the current CDC and FDA pages do not identify a municipal water system as this outbreak’s source."
     ],
