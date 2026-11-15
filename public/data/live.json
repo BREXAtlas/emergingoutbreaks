@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T17:05:21Z",
+  "generatedAt": "2026-11-15T17:41:42Z",
   "alert": {
     "level": "high",
     "score": 81,
@@ -183,19 +183,11 @@
       "summary": "Michigan reported 2,640 cases at the state level and reiterated the need for Cyclospora-specific testing."
     },
     {
-      "title": "California launches cyclospora research following Taylor Farms-linked outbreak - Sacramento Bee",
-      "source": "Sacramento Bee",
+      "title": "Florida’s Department of Health removes 4 vaccines from required list for public schools - CIDRAP",
+      "source": "CIDRAP",
       "sourceType": "newsroom",
-      "published": "2026-11-12T20:22:52Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKQ2dOOER4MlNZaVJSTUU4RDZQZ0NHRFoyNUlOTGRfa0NfM0RUblB2SHNXV3k4NVFLbGx1NjljSnBJalhuOFNscWJPUUpCQmR1V1lDb0RZZ2N6SVBEdm42bmk2WUkxaWZRUGFMTtIBbEFVX3lxTE83TUNaM2JHUnQ5WU9IclBIek1aNzNzRzlrR1BvQ0lWQ2pMeWI0N2IwQThTT2VpR09DV0RMaUZoRG42TFZmVHh5aXpiT196MTJMTVg0S2hvZlMtZG5iQ0dkdldHaTBYRnc0RHctYQ?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "sourceType": "newsroom",
-      "published": "2026-11-13T05:45:18Z",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcnh5TDV0UkZKRExZYzBtOGtpekp1TXFLUjJFQ2ZRZUJoSjVIUWdWQ1BUX3BrVWRaeTJRYk1SNzdsSXBKa0hUSlpkUlpIazkyb2FmSmZOSXRtaGdiYTcxNmlHOF9oYW9TTnlRQndRWE9KWHJBaDFJcWY0cV9rZXNHYllpSWphem9qU1F4MG0tMjlQc25qZkFBYnlnb28zdVZjWVRFakcyT1kwSUVp0gGyAUFVX3lxTE82cXNXNDFNT3NOdExUUm85aVRrX05kUkhacDh6S0I4Tkk4djRGRU1MMTFYOGZKZ0h6R0h5a0FoX0xXYWN3NXhHNktSM3RBenNRMWhsTTg2cVFMYWxyYnQ0NFVmd1NyNFlPTV9WVi1TcEVqUElwVWljMGdFUFRJSGZubEhoa3VRRk9tUG51ZjgyWVp1RXdwejJxN251ODh1SWtaVDF4MnplNnhoUXFMNjdxUXc?oc=5",
+      "published": "2026-11-13T22:28:17Z",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYkN1bUREbHhlazZNOUs4WVltTUhNMjdZdllCZ1YzQXpTTlJEUWRaMzNkYS1iNDlMU1hFa1hIdE54aVJYOFJWS2lXMzR1WUFSZGFmbXBQdmdRSU5SY3NIZFpUS2dleGtQMlRBa216dzFqRjcwUmI4LUZ1NFB2N3ZNUlNsREQ3TWdYQ2IxWWF1T216LUlycElvVUluY0FZZnNlUDIwTUNmRjF5NUtMV0Q0WGhFYmZCdnc?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
@@ -207,45 +199,53 @@
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "After the Cyclospora Outbreak: When Demand Returns Before the Crop Does - Growing Produce",
-      "source": "Growing Produce",
+      "title": "Food safety concerns rise ahead of Thanksgiving amid recent illness outbreaks - cbs19.tv",
+      "source": "cbs19.tv",
       "sourceType": "newsroom",
-      "published": "2026-11-12T19:52:07Z",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaGR1MmR0OUE0ZVFJemd2REtkQUxNbnFXQUtNWjJLVkV6cTM4SzZyeFFodVBscUpXRDJXek9OMnY2cWcxOW4wMUp5dUhCU2RZY2Z1YXlwVFg1dUVqSTRsUEYxT1NUS20teW43eW1VNU91ZXhVNnNtZW5fcjkwOWZSbWo1UWlNQU9RTU5hb1BLTGY5WlRYdkUxR0lZQ1NHYzc4eGNxdXNkRHc4SVZMM2dnc08tV0o1UUJxWGV6T0M5MWdsSnJ0LUJ6Z3RR?oc=5",
+      "published": "2026-11-15T15:43:24Z",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOR1phQUVRTmhocUlMMng0ZDdBMl9RSjFYMnRVVmI5Q2NZd0tOM0t3RXlMNGdCUjdCckltTkw3eGFLcnVMa0ZJRHpKRDF5R1YxRU55VXVhRFRpZnhNVHA4LXNwaUNtU3VMY0FaVWVUMkdmcXF1cm5Zay1GM3E0Ny1leGl5b1BZZllaV05kY29PVDFRdkJ4LXItVGYzN1U0RVR4UUZjTmx5RHF4ZjMtX2pQYjJZdWZibTdXYzNTM1dCRUg2MHJ0VVEtd0FOU2llUm1SMjhBdTlMemRObmRHSVoxa0pESmI3X1Y5Wm1FcA?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "Foodborne illness: What to know - Parkview Health",
-      "source": "Parkview Health",
+      "title": "Kentucky governor calls for removal of Robert F. Kennedy Jr. - Eyewitness News (WEHT/WTVW)",
+      "source": "Eyewitness News (WEHT/WTVW)",
       "sourceType": "newsroom",
-      "published": "2026-11-13T22:05:48Z",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PeGFMaUdMdVdIU05iNWo0ZnNjemNHZExpbFJuVDlNMmNKRk9Rd3RZaWdseGxMVG9Gd2hqLUdWendnYXlZaTlpcmd3WXpzOXFoZmRkT0NRc1RwMmZtLVBHZTNUYWJXOEpSY1U0bA?oc=5",
+      "published": "2026-11-14T14:28:42Z",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQnE3YTR0YWk4RnVGeDZLYlA3b3hFcVlZRmhyNDI3TmJGeGJZaWVJUVgxTWRQOWFrLXd1NnVrU1pRU0JLOGI3a2I5TlBqM2R3LTNfUzhMb1hVTi1oOFBfd1FPbXBCMFljc21Lc19kUUlSTDNJOVFQWUs3TnJBdTh5WHFfN3NlN29JdkRPelNWNkhjS3dwbmVaeC1BanE2WXA4MnFR0gGjAUFVX3lxTE1CcTdhNHRhaThGdUZ4NktiUDdveEVxWVlGaHI0MjdOYkZ4YllpZUlRWDFNZFA5YWstd3U2dWtTWlFTQks4YjdrYjlOUGozZHctM19TOExvWFVOLWg4UF93UU9tcEIwWWNzbUtzX2RRSVJMM0k5UVBZSzdOckF1OHlYcV83c2U3b0l2RE96U1Y2SGNLd3BuZVp4LUFqcTZZcDgycVE?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "Beshear urges Trump to remove 'woefully unqualified' RFK Jr. - Lexington Herald Leader",
-      "source": "Lexington Herald Leader",
+      "title": "Vaccine Integrity Project turns its eye to meningococcal and pneumococcal vaccines - CIDRAP",
+      "source": "CIDRAP",
       "sourceType": "newsroom",
-      "published": "2026-11-12T20:55:00Z",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MaTcxbDhvd3U2SHVGOFNac1Bsa1A0V3NJNjlQcmpYOEJ2Wlg5Q1A5MXpwSTM0SVJjZlVaZHlGTVhGeDF5eGI1UXNPVEhRNER1eEtXQkE5YXFqSDNrRDk0V0I5TGRpU2xJQ0FEaWh6emp0Z0Rp?oc=5",
+      "published": "2026-11-13T23:09:28Z",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaFRZbTAwTkt5ME0yckE3dGswNkpuS0c5cW9KWjB0SDJicGFsVDl4S21wUkJMbzdTampZN1BBSXJUWEhvWXZ1UnFtTy1wTUdET1hva3EzM01XMjhhTDVlcDlDc25WbUMwRnFIRXc4OG12V0lEbTFqZGRoT25FX0lScEZocllrcFByMDFkUmRLVXZPbEduUTlMNExyWmFucVpBS3p5ZVBhS3I1RHBjWVdGRUdoc2tlc281WXk5UzRRN2M?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "'Our people deserve so much more' — Beshear calls for Trump to remove RFK Jr. as HHS Secretary - Herald Ledger",
-      "source": "Herald Ledger",
+      "title": "Hamilton public health investigating possible food poisoning outbreak at downtown Sheraton hotel - CBC",
+      "source": "CBC",
       "sourceType": "newsroom",
-      "published": "2026-11-12T20:29:00Z",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWE0wMS1jU01meE9ncTRFVzJwbEl1RmZOWEFzQWkydUNBRHNZQzF1dm5KNUFRUms3MXNOVThrSHRxbUVSMVpXcTN0VWZTT0pFbU9wLThpR0ZXNEZxYU1aR3ktZDhKUmtVMWsxbmFGdVNJMFBIalBfWTk2U2Z0UGdnV2V3cUZpemFLcFBXd1BXNU1ENWhIV1JJZDZwTHhYekVVNnZFYWk5Z202TktDTnFqVm5HQkRLUlZmMHZHdFc2akdrb3kyVnRCZ3JLWkR6SVZJMEZqeld3bG5hZjFJREJubFk4dE5kVGR2ODRjRDZqbWhLME0?oc=5",
+      "published": "2026-11-13T21:00:38Z",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb2J2djFTVXB4dy1qaGJWdkZUUkhUNXhLM0VaN0JnZHBVbk42SENoUDFoZFpCQW1LdWxiU3F5U0s0dVJDYWhNVjJodXp3SVc1c3gwLWFxeUtSM05pYWhKUU1yenA2NG1ENExjR0s5SlNNU2tuQ1k2amx3X3JzcnhjMWZkbU9kZXRuOVczV3N6SEF3dEd6RHRLbG5aWlZKTl9vb2VqQzdsYkZDV1IzZ1psbg?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "Marzetti Earnings Call Highlights Growth Amid Headwinds - TipRanks",
+      "source": "TipRanks",
+      "sourceType": "newsroom",
+      "published": "2026-11-15T01:28:13Z",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ2V4SWRTTENkeXB1c2x2Yi1zSGJ6LVNWNm1nLW1XMk1WSHdvNTdUVGNnU0FTWnVXSXpJUXBfZ01XSUFPR21mWEJHd09Rc25sTkk1RUxnOEVzRTA0dHlmT3lsQVhFWHhxTFZvbU5IdDktV3pvSTB1WkhzVDdWSTBKQzA5TzdkRnkyaUZDd3BuWnQ3d2NOS0MwOExSN0VzUmhKdjFPc2stNzdxNmc?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     }
   ],
   "blog": {
-    "date": "2026-11-14",
-    "window": "News published on November 13, 2026",
+    "date": "2026-11-15",
+    "window": "News published on November 14, 2026",
     "title": "News in Reverse: start with the verified scope",
-    "dek": "Yesterday’s public feed contained 4 indexed item(s). The daily brief works backward from official scope before adding headlines.",
+    "dek": "Yesterday’s public feed contained 1 indexed item(s). The daily brief works backward from official scope before adding headlines.",
     "paragraphs": [
-      "The headline trail, newest first: Michigan health officials say people can resume regular lettuce-eating habits as new cases of cyclosporiasis slow - ABC News; Second cyclosporiasis case linked to travel reported in Clark County; Foodborne illness: What to know.",
+      "The headline trail, newest first: Kentucky governor calls for removal of Robert F. Kennedy Jr..",
       "The stable reference point remains 1,645 federally confirmed domestically acquired cases across 47 reporting states. State totals may be newer, broader, or include probable cases.",
       "The current federal source finding applies to a large five-state lettuce-linked subset. Water remains a possible general transmission route, but the current CDC and FDA pages do not identify a municipal water system as this outbreak’s source."
     ],
