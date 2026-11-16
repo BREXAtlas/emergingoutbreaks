@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T17:41:42Z",
+  "generatedAt": "2026-11-16T21:00:51Z",
   "alert": {
     "level": "high",
     "score": 81,
@@ -183,19 +183,11 @@
       "summary": "Michigan reported 2,640 cases at the state level and reiterated the need for Cyclospora-specific testing."
     },
     {
-      "title": "Florida’s Department of Health removes 4 vaccines from required list for public schools - CIDRAP",
-      "source": "CIDRAP",
+      "title": "Bird flu detected in Oklahoma dairy herd - Oklahoma Voice",
+      "source": "Oklahoma Voice",
       "sourceType": "newsroom",
-      "published": "2026-11-13T22:28:17Z",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYkN1bUREbHhlazZNOUs4WVltTUhNMjdZdllCZ1YzQXpTTlJEUWRaMzNkYS1iNDlMU1hFa1hIdE54aVJYOFJWS2lXMzR1WUFSZGFmbXBQdmdRSU5SY3NIZFpUS2dleGtQMlRBa216dzFqRjcwUmI4LUZ1NFB2N3ZNUlNsREQ3TWdYQ2IxWWF1T216LUlycElvVUluY0FZZnNlUDIwTUNmRjF5NUtMV0Q0WGhFYmZCdnc?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "Second cyclosporiasis case linked to travel reported in Clark County - KSNV",
-      "source": "KSNV",
-      "sourceType": "newsroom",
-      "published": "2026-11-13T22:48:21Z",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTmpINlBxMTc3ZmJFSGcwMWJfUkxjVXlYZUZfN24zTEIxalN4U1hKZEFRN1NKenNrVDh1elBMX19pUTYxRGdnUFFKNVJHVnVFMjhLY1pkNnJKdEZ0Y2ZLUmprNFdKWW5TRGFtU1k1T3dFOTVJVkFRcVNBWU8zUmNkZFo5QUhrTXV4OTdBMUJQRjU3cHJ3UlFERWVFcmtDMzQtR19la21LSm9NekpNWVBuOVBYY0FUNkJxOEU0WXZaQnhHS1VuTS1EcmswVm1QRTBNYWZjXzBUR09YZWRaME1GN002TGtIVkZ3TjljcEwwSDhjRWFoZlVwSzBR?oc=5",
+      "published": "2026-11-16T19:37:35Z",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYndUYVZmMEg5aDhzOEQxM3A2cFN5WlBQT2ozWU9jdlZLSXVyTG1tU3pobi1KTUQwMVlZR2h5TnRZWVgxM2hTd04waGl6NkxWU280QUswanB3YTU1YlF0MGZSYks0dmhsVUxWUlJkUVM3N3RkSU1Gdy0wcXhmMVhtaHRRZmo?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
@@ -204,30 +196,6 @@
       "sourceType": "newsroom",
       "published": "2026-11-15T15:43:24Z",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOR1phQUVRTmhocUlMMng0ZDdBMl9RSjFYMnRVVmI5Q2NZd0tOM0t3RXlMNGdCUjdCckltTkw3eGFLcnVMa0ZJRHpKRDF5R1YxRU55VXVhRFRpZnhNVHA4LXNwaUNtU3VMY0FaVWVUMkdmcXF1cm5Zay1GM3E0Ny1leGl5b1BZZllaV05kY29PVDFRdkJ4LXItVGYzN1U0RVR4UUZjTmx5RHF4ZjMtX2pQYjJZdWZibTdXYzNTM1dCRUg2MHJ0VVEtd0FOU2llUm1SMjhBdTlMemRObmRHSVoxa0pESmI3X1Y5Wm1FcA?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "Kentucky governor calls for removal of Robert F. Kennedy Jr. - Eyewitness News (WEHT/WTVW)",
-      "source": "Eyewitness News (WEHT/WTVW)",
-      "sourceType": "newsroom",
-      "published": "2026-11-14T14:28:42Z",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQnE3YTR0YWk4RnVGeDZLYlA3b3hFcVlZRmhyNDI3TmJGeGJZaWVJUVgxTWRQOWFrLXd1NnVrU1pRU0JLOGI3a2I5TlBqM2R3LTNfUzhMb1hVTi1oOFBfd1FPbXBCMFljc21Lc19kUUlSTDNJOVFQWUs3TnJBdTh5WHFfN3NlN29JdkRPelNWNkhjS3dwbmVaeC1BanE2WXA4MnFR0gGjAUFVX3lxTE1CcTdhNHRhaThGdUZ4NktiUDdveEVxWVlGaHI0MjdOYkZ4YllpZUlRWDFNZFA5YWstd3U2dWtTWlFTQks4YjdrYjlOUGozZHctM19TOExvWFVOLWg4UF93UU9tcEIwWWNzbUtzX2RRSVJMM0k5UVBZSzdOckF1OHlYcV83c2U3b0l2RE96U1Y2SGNLd3BuZVp4LUFqcTZZcDgycVE?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "Vaccine Integrity Project turns its eye to meningococcal and pneumococcal vaccines - CIDRAP",
-      "source": "CIDRAP",
-      "sourceType": "newsroom",
-      "published": "2026-11-13T23:09:28Z",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaFRZbTAwTkt5ME0yckE3dGswNkpuS0c5cW9KWjB0SDJicGFsVDl4S21wUkJMbzdTampZN1BBSXJUWEhvWXZ1UnFtTy1wTUdET1hva3EzM01XMjhhTDVlcDlDc25WbUMwRnFIRXc4OG12V0lEbTFqZGRoT25FX0lScEZocllrcFByMDFkUmRLVXZPbEduUTlMNExyWmFucVpBS3p5ZVBhS3I1RHBjWVdGRUdoc2tlc281WXk5UzRRN2M?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "Hamilton public health investigating possible food poisoning outbreak at downtown Sheraton hotel - CBC",
-      "source": "CBC",
-      "sourceType": "newsroom",
-      "published": "2026-11-13T21:00:38Z",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQb2J2djFTVXB4dy1qaGJWdkZUUkhUNXhLM0VaN0JnZHBVbk42SENoUDFoZFpCQW1LdWxiU3F5U0s0dVJDYWhNVjJodXp3SVc1c3gwLWFxeUtSM05pYWhKUU1yenA2NG1ENExjR0s5SlNNU2tuQ1k2amx3X3JzcnhjMWZkbU9kZXRuOVczV3N6SEF3dEd6RHRLbG5aWlZKTl9vb2VqQzdsYkZDV1IzZ1psbg?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
@@ -240,12 +208,12 @@
     }
   ],
   "blog": {
-    "date": "2026-11-15",
-    "window": "News published on November 14, 2026",
+    "date": "2026-11-16",
+    "window": "News published on November 15, 2026",
     "title": "News in Reverse: start with the verified scope",
-    "dek": "Yesterday’s public feed contained 1 indexed item(s). The daily brief works backward from official scope before adding headlines.",
+    "dek": "Yesterday’s public feed contained 2 indexed item(s). The daily brief works backward from official scope before adding headlines.",
     "paragraphs": [
-      "The headline trail, newest first: Kentucky governor calls for removal of Robert F. Kennedy Jr..",
+      "The headline trail, newest first: Food safety concerns rise ahead of Thanksgiving amid recent illness outbreaks; Marzetti Earnings Call Highlights Growth Amid Headwinds.",
       "The stable reference point remains 1,645 federally confirmed domestically acquired cases across 47 reporting states. State totals may be newer, broader, or include probable cases.",
       "The current federal source finding applies to a large five-state lettuce-linked subset. Water remains a possible general transmission route, but the current CDC and FDA pages do not identify a municipal water system as this outbreak’s source."
     ],
