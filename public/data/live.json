@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T19:50:02Z",
+  "generatedAt": "2026-11-18T19:23:32Z",
   "alert": {
     "level": "high",
     "score": 81,
@@ -183,19 +183,51 @@
       "summary": "Michigan reported 2,640 cases at the state level and reiterated the need for Cyclospora-specific testing."
     },
     {
+      "title": "San Antonio Woman Still Sick with Cyclospora Infection That Lasted 6 Months and Caused Her to Lose 30 lbs. - People.com",
+      "source": "People.com",
+      "sourceType": "newsroom",
+      "published": "2026-11-18T18:00:00Z",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZm5KZkJCakpsY0RaVVRpYkw4QktXU3hDMktDOWQtQ3Q0b25IWUFfd2NmcnlPUDFYM3VJZW9EakJ0eWJMc19ZdGVNdkpoal9HVlJkaWI0bVJnUDl4N1pDbktDczdHcUtjN3d0SjhJWHUwZGdGeXlTQ3VzYXI1S0dBR1pGTUNjOGc?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
       "title": "More than 11,500 cyclosporiasis cases reported in 41 states: CDC - ABC News - Breaking News, Latest News and Videos",
       "source": "ABC News - Breaking News, Latest News and Videos",
       "sourceType": "newsroom",
-      "published": "2026-11-17T05:03:23Z",
+      "published": "2026-11-17T03:30:27Z",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcjFGNXdMLUNQNzUzOWJmQmNNV1F4NlRSeWMzXzFHMDBmMWo3elduQ1RpZXZZdl9WUmlvdFB0SkNpdlE0ejdnLUs1bEpTXzM2clZOWHFHa0ptbXJQYU1Yc1duc0xHak5oaTZKSGNneHd2RUd5UXJlSjNwb3JCajJnek9NMnVsM3p4eVJXS0k4X0xham1VZ1ZlTmFEc9IBoAFBVV95cUxQM1dkMWNBZ1VidUtPWHdBZWpEcmFLYU9LRTJ0RnhGeHVmUktNWnJsOEtYNTVzYjJIV0JOUnVCbHVuWUhveTlrVE11ZHh6MjY1WlJheHhVYnRNVW03Wk5FdGJCemJlcV80OVlQWFg5UHlSVzdWTWZNNkNXQ09tUWlHMmc2eFljcUZNLTVoVmotT3NrcWlKRUlQNE5Lb092QTZ3?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
-      "title": "Democrats Ask Watchdog to Probe FDA Cuts and Cyclospora Outbreak - Bloomberg Law News",
-      "source": "Bloomberg Law News",
+      "title": "Congress Pushes for Investigation Into Impact of Trump Admin Cuts at FDA, CDC on Cyclospora Outbreak - Food Safety Magazine",
+      "source": "Food Safety Magazine",
       "sourceType": "newsroom",
-      "published": "2026-11-17T16:23:00Z",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbDBOUkl1bF9qcTAwTlJPblNKc0FReHotNDVzeGJKSVkyYjVQOE5telppTWZCU0tQa3ctek8tblZVQ25hRVRCN2szWXRtSzdNZVBWY1h5NWdwWU5peDUwNzJJSUVWblA5UGpxQUpwNXcxOC1kdHc2YVRDN1Q4SkxOS0pxTjFlMkEtS1RlUWx4VmFHZkZmbnY3MmUyNEpXQ2NwV1JzS2FSYkZjMnptbnJPZWtOVU5SSVpucWc?oc=5",
+      "published": "2026-11-18T13:59:38Z",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaG1OVTVTR1YyQTNKTHlad2syU1BQaGtDTGdfa1RKeXNTZ0V2MUtjX2ZzWkc0QXVYWlItNVhlOGh6dmozcHBSRXhPWGkxX3ZCeHIxWlRhckVwLWk0NGRCQUVJWXRQS0lWa0pIV1h2S29BOVAzMTBkNmJiR3h6RmRWM0ZKX3ZlYk0zbm5Fc2JXb0ZKaTd5Sl9FWDZRb3ppT2tRanJzLUZrM2s3NmZBRklQZ2xXRFJCY1d4Vkl6cGpJRWFxb0F1MzFzb0FEdTd2U3JTanJQNVV6MlAtdw?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "California plans research project to investigate Cyclospora contamination of lettuce - Food Safety News",
+      "source": "Food Safety News",
+      "sourceType": "newsroom",
+      "published": "2026-11-18T05:09:08Z",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZXdNRGpfY0Zib3FZNWh6X1ZJTGtlSEN2S3ZzRWtmZWxabTFIUW5VQ3RjUktpWkxpem5RSHRZVldkVHJlczdlUnVhZDk1dW15LVV4MW5idjdneno4d2RZTTA4Y1phVGVVbVRrNlI2UnJaN09odHVKVzlNcWtocngxM1d4SXBZbjJsV0tlZmtBS1BRNk1BNUMzZHlIMmlEaUR1NTFORmIyeVdEOUhDSDdVcDk0X2hJSkYxbE1Sbmk3dmpJUQ?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "Three Senators Asked the HHS Inspector General to Investigate the Cyclospora Response. He Should Say Yes. Here Is What the Record Already Shows, and What I Would Add. - Marler Blog",
+      "source": "Marler Blog",
+      "sourceType": "newsroom",
+      "published": "2026-11-18T01:54:01Z",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPRnE4aWZYUk9uSjJPR3hObkRSNmhwUW5xVjNTcnpycWRzOHhSU2g2R3FDOXJSVlRGUkxKTkRhclRTMC1VU3VLeG9kcW0xWkg5RmdSc2NReS15b01zREtCWHZlaGZnVWFJay1ib1NkUERKTWpzQXpjOW9VTFFoUHZwQlF1Z09OQjJIRjhWalJfZUJORGxRalRfUGZzMVZsZ3lhQm9kT1VaZ1ltaGk3X2twelREQlEtWkdORHUySWRKdmdEOXFkcmh3ckpKdzZFSlc0QTJqMW90bERfSFZNS3dhZ1FUbWZEaS15ajdHZnJMdlgyWXlGVDZYWTMxRjRFR2lWNXRBTkJSZ2pSbmZ1U1dfbktyY212OTROWW96NWRzcEtpY1h1cXln?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "San Antonio woman says she’s still sick nearly 6 months after contracting cyclospora - KSAT",
+      "source": "KSAT",
+      "sourceType": "newsroom",
+      "published": "2026-11-18T04:25:18Z",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQjcxb2V6LVZ2U1FvT0RZWHhNUURGazBySXRfRzJvUnZ4eWhzeGV3N0lTdENMSHRsbEd4RHpPNkZMdFBUa2o1cnMyMXg4N28wT0d1MXdGU1dkdTd1bEZrbS1qSXRfZzQ0UEluRXZVVXZWSVB4U2hDWFRxNFF1QjJjZ2JNWnhOaW55Yi1GZFBJUGFXdUZwUVdhWUFvZHJNTjVoMEdZTUU2X3Q3U1lEWFB2NG01Mm5KcVdkMTZ3bTZxVngzUWpMTkE?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
@@ -205,47 +237,15 @@
       "published": "2026-11-17T16:23:00Z",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeW51X25IcEJoVldpYzZQZ3ZVNHdWU216QUlKODVQOGVraWQydkJfUXhKZEhCNGdFdHYtanFqLU1JZXYzVURTTndRQlFqQldaZXQ0UldwYlA0eno2dnkySHRTQUdZelJ3ekU1TC1QNkR3U2R2ajFaWHVKTFhCanVOdFp6alNaYkYxbTlCdVpRclRyOFNvdG1wbFlEd2lUTnBmcXRKcDVPd2Fnbml3cjRZ?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "Cyclosporiasis outbreak linked to shredded lettuce served at some Taco Bell locations: CDC, FDA - ABC13 Houston",
-      "source": "ABC13 Houston",
-      "sourceType": "newsroom",
-      "published": "2026-11-17T11:05:34Z",
-      "url": "https://news.google.com/rss/articles/CBMizglBVV95cUxPYzVYMUZVUDhxNGN0eV9fLWVHc2FwUXZRLTRzeXdrMUx6SmlOUUZLRkRjOVF3VlBEaWd1ZFMtd1pkVkE0WWN5ZnM0UHQ1bjZzYWxyQlBsdUhtM2xNZm9aU0dCYUpQS29QTTVDbW5VUWZSVG9seG4tbDZaQkcwNHk5SUdEalVpbGZZOW1EbFlTbW4yMFlTMWFFZTc4elUteXpMT0xwRWk0bXo4WmF2cnRJSW1CUTllOTBveDBFMDRUTlhJblZPdmIzM0ZoV09lbmo4Y3RBVU1iTF90Y3hqOUdZTWFoZ195cE9DSXh6R1VoUWY3Q3BjbE00MmgyaS1LVVFUNVVKOUJ6ZmwweUtGMWhiSXFfQ1NaSVVqRXRzWEQ1STEzR1Nfb3NHU2ZBTGZ6dHBHMTR6eTlQbzhmX2xOY1NBRU1TMFNZLUNFV19PNk9NMWp0c1ZKZHNyRDk0M05MeUhNWWV3UXh6b1ZIMVVuVV9pNWNCQ1pQTE1xb2YxV3VEX1hjUVNzbnpKNVZVOU9DWmdwOEtPWVRmNTF6T3FaRWx4RU5BMVBaaTluRnRRdVRtX2g0cUdyeWw4eV9JYi1oOHFoVm12Z3o1RmpyUHNfY2dnMWZmaXVVckJhbFhXTGJETEFmSWY3UVpxX1hQTmlhMFNIbnlhV3RDRDVUbUZZbUVhZkctckZRYlliT1FPMmxTTjJfUVgwbHVNR0ZpaGQxX3piYzlid2lPNGFuaWxzUTAzUnZlc19aUWdHbVlvNXdISFJRUHl0Z1owWVUybWYzWVV4Q2FNZGpWTE05UDd2YnhweFFqd0h3WXprMDBlNE1zQXgtaEplVi1ha1lqOHdNTlhvQk5pdmtjRDVpN2dnOUxZSlRLNmo1amVQSGFsTUZ4bVNuQ2t0UE5JVzRoX3RlQkY0SzlKRzk0NVBiMGk3NXFUOU91bUdHdnhuaXpMdnh4aFluRzlIa1lrcTNKWlE2cXFETDNVazJOSWFiMVpGNldpMlBPbU9yLVpVTUdEcGJVMXFneURIMExtSWN6ZXFFYWtOTkJGSUF6VHg5ZWpkdmcwcFNRaUFiMkc4LVNueElMdXpFN1NOUnZKTjRNZFZPZUhPLXgzNnNBMU5QMlA0ajhCaTZlMzBBZ0ZFQ2d1OFB4LXlGQ0ZZcU9NZmtkSlNBUHNFd3BDT0RkU2xmMVlldnJRVE50TlQwUGdtMWg3cDdTcXdfSzJHSkhDbmQ3a1VZa2dtcHJodENBOEVBQk5TTUhETGRXenhCd0FCTU5vQ3A3WnFWM3hwME1LcDVSeE1PRmk5eHVjVXpnejdHRVBqWktDMXJsX1NPZ0hkZ0tZZUVObUs1LXZNaEJyeWJpYkZlaTVrNFJ5UlBUdmM2Y090cDZfRDhLUEI5RWE3NlV0blJZc0dzRTVXUU02VGF3Sm1OdEdGN1NWSFBmYmxVT3lsM05YaW8xY0tjMEZocUJ2b3U1bWRseWJobENveWs1ck8yc3J5ellVUjNPNi1wVFNVYkkwY3hyVXZIV1BxZ3Ffem5TV0JtemszclhTdlVETFEwWG5yRGdETGgydkFWcG5LTi0wWmVEa0lxdThrYnJ6VEpyNzloaWU4OHFvejMzTVJFU01YVzFjdThqd1ZZajdrdUE?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "RFK Jr. says cyclosporiasis outbreak is 'under control' amid at least 1,600 cases in 5 states - ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "sourceType": "newsroom",
-      "published": "2026-11-16T17:13:15Z",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQVpoN0llaXNHWHZ6OWk0endMWXVfNGRJdXBXSlN6MG9ubDFNQjNFM3ppUG41Y1c2X1ViNVdpSG80WEp1akI5QTI3N0FpNlBSZ0p6Mk5rcjhGQWJ5S09ib1A4ZHZaMTFObHpRY2lrQzhBcFVDeWhmVlhubUtoZkZjb21iUkVpODdxdjZ1VUhsUkFhd21GbnRfdG5xUm9NUVBIaUHSAacBQVVfeXFMTzRGX3dQUGxMZWNwOTd2UF8xWW5SeWQ4R0VVZTl5Tld1YUFTYjNvYm5RckdLbTI3VDJ2ZVdkTUl6Zk9WbE0yRXJNRTAwZW9NaVcxOUFSZWVQMmtyZlh3WWhrdFNjcjhBamtpODZkdEptUDJaaEFLaHcyQXVyWElfR2k0cXVQa3FXVzRwa293VlFQRXJ3N29NVll5SS1SZGlfd1E1S1p0ZG8?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "Sen. Warren demands answers from RFK Jr. over 'calamitous' response to cyclosporiasis outbreak - ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "sourceType": "newsroom",
-      "published": "2026-11-16T15:22:21Z",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON1lTTWZvaGJOSml0MVludlNkZnN5UFd1Yk5yZXQ3ZlB2ZVo2amh2cHB4VTB4Z3JOMHpLd1ROZTUtUF9tNmxVRjl5Z0owT05kNm92VE1oajJITllsTzJYQlZpYTdKZVlucTJCTGdBZzdJQWtZMkd1a2hadkJrbjZfQk8xaTJNLUdiT19fNWtFZlRmcG9CdWRKNmFnTWNxeUZ0TGQ40gGoAUFVX3lxTE1lRmtaZDdVdE9Cd0cwNkhOQklBM0QxX2hNMnVfVGw0aktwOW96XzJHQWhxelF1M3lFeGhPNkVzOEh1WGs5N1F4S2FtSmx0a2E3VWR1cTQ3cDQydlFLUlNBVk5Nby1QbDR6eGdoUlRFY3FzdDFlaWw4Z3VnMkRIUzh2Ri02bE5DUjBxckV2QXdzd1U0LU8wclFUdi03d0M1aTVoTTREZTlhSA?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "The plague of the parasite lettuce: Navigating food safety recalls - The Panther Newspaper",
-      "source": "The Panther Newspaper",
-      "sourceType": "newsroom",
-      "published": "2026-11-16T22:53:55Z",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTjNYQ1ZhQkhGTU5WdzY1WWNsU3M1Y2ttWF9HU3gxbnUwZEZER2RGZDY3U3J3UXl6cFkxZjJGaEJRN19DUXRpNGh1RDB4bVVScFNWb1JhNVlzVExBQzUxQVZkTHJWclEzdHczb0VGY1RuYjhCN2pPVXFra1JmSlF2NmJ5Y2I3QnNJeVF1bnN6dEVPeU5YbXZ5Qjh3Tk5Za0N1a1ZkOHVCNG5EQQ?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     }
   ],
   "blog": {
-    "date": "2026-11-17",
-    "window": "News published on November 16, 2026",
+    "date": "2026-11-18",
+    "window": "News published on November 17, 2026",
     "title": "News in Reverse: start with the verified scope",
-    "dek": "Yesterday’s public feed contained 4 indexed item(s). The daily brief works backward from official scope before adding headlines.",
+    "dek": "Yesterday’s public feed contained 3 indexed item(s). The daily brief works backward from official scope before adding headlines.",
     "paragraphs": [
-      "The headline trail, newest first: RFK Jr. says cyclosporiasis outbreak is 'under control' amid at least 1,600 cases in 5 states - ABC News; Sen. Warren demands answers from RFK Jr. over 'calamitous' response to cyclosporiasis outbreak - ABC News; The plague of the parasite lettuce: Navigating food safety recalls.",
+      "The headline trail, newest first: More than 11,500 cyclosporiasis cases reported in 41 states: CDC - ABC News; Democrats Ask Watchdog to Probe FDA Cuts and Cyclospora Outbreak; Democrats Ask Watchdog to Probe FDA Cuts, Cyclospora Outbreak (1).",
       "The stable reference point remains 1,645 federally confirmed domestically acquired cases across 47 reporting states. State totals may be newer, broader, or include probable cases.",
       "The current federal source finding applies to a large five-state lettuce-linked subset. Water remains a possible general transmission route, but the current CDC and FDA pages do not identify a municipal water system as this outbreak’s source."
     ],
