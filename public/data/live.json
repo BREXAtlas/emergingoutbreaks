@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T19:23:32Z",
+  "generatedAt": "2026-11-19T19:28:39Z",
   "alert": {
     "level": "high",
     "score": 81,
@@ -183,35 +183,43 @@
       "summary": "Michigan reported 2,640 cases at the state level and reiterated the need for Cyclospora-specific testing."
     },
     {
+      "title": "California to Research Cyclospora Prevention - Food Safety Magazine",
+      "source": "Food Safety Magazine",
+      "sourceType": "newsroom",
+      "published": "2026-11-19T10:15:00Z",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ3JQSzEwRXh5M3p0RmNYNGg5d2pESXgtSG44Zk9nN2VPNlI2MVBBMGp1Z1FRdENTSDBwXzF0TVA5dTZJZjcwbUJ6dU96QjRWYnVFbElRY05oeFdLM2JGbEt3dWlNUnB1Ql9tR1RUYWtmT2lmRFpYWHhXa3FvRVpwTmtQRGdvazd6NmQ4QzNuR0M?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "Cyclospora sickened 12,000. The FDA delayed a rule that could have limited the spread. - The National Desk",
+      "source": "The National Desk",
+      "sourceType": "newsroom",
+      "published": "2026-11-19T19:20:54Z",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTzZGeTU0SncycXJvR05vNjVpalA4eG16Sk1hWTcwbVExeWpkX00zTTBmUTczWlRvZGR2eGk5TTEwOFBQbVFzRzBZY3pILW5qdEtlMUtrSUhvOWZhbzZNay10bU9RMGJqMUhPbnA0d1ZaU0Nuc2k3UjJUT0JBdFloeDd2eE1LOWozOEZqSDBSYUVVbnFtMG1ZamtGTHNuVHI2QjQ2RUhwcUU4anYxakZNQUtfcUx2NmtWVndtSUJodENpZWg5bWJDMDkxMG15MnlNMEpz?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "Senators ask HHS Inspector General to investigate Cyclospora outbreak response - Food Safety News",
+      "source": "Food Safety News",
+      "sourceType": "newsroom",
+      "published": "2026-11-19T05:09:10Z",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZEhtLVVYaGROR3lEV3NRNUh0QXNrcEo5NW41VlVhZk9mYlNVZjFQLU5qeUxDZjBTRXhjOW1haU9VSXRzOG9iYkZLNjRhVjc5QXJzeVFkb2pZNlFFVnpDeGV3QUVmcFNhSUxfTktXaGFFSWNTdzIxdXNqT1ZOd09lWnhoZUx0YmVnSmZIX2Z6TWpqbXVaLUlMcTI0b0NYV1dDdGVIakpzeGtBM21jU2RQVWk5WjFSMFZsdmc?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
+      "title": "Cyclospora outbreak ends - LAist",
+      "source": "LAist",
+      "sourceType": "newsroom",
+      "published": "2026-11-19T00:11:00Z",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVDNMY2pTbkpqY000MWI1UHBVTHQ5TWVCT1hpZmV0VWVBeUhBOWc2dm10ZFRWUUZTSm9mcUJKTWVUYWVOQm1leWc5NjVxX2FOWDYzeUlCX0VMTjdVVTdfQU5VMUhLUHdUa04tRjVfTEJKaU16TEZxcTJjOUhSYTBUWjE1RXhwTVhsZ3FKWlBWbFhwbS1ONHFZaHpuTURibFM2WkdR?oc=5",
+      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
+    },
+    {
       "title": "San Antonio Woman Still Sick with Cyclospora Infection That Lasted 6 Months and Caused Her to Lose 30 lbs. - People.com",
       "source": "People.com",
       "sourceType": "newsroom",
       "published": "2026-11-18T18:00:00Z",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZm5KZkJCakpsY0RaVVRpYkw4QktXU3hDMktDOWQtQ3Q0b25IWUFfd2NmcnlPUDFYM3VJZW9EakJ0eWJMc19ZdGVNdkpoal9HVlJkaWI0bVJnUDl4N1pDbktDczdHcUtjN3d0SjhJWHUwZGdGeXlTQ3VzYXI1S0dBR1pGTUNjOGc?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "More than 11,500 cyclosporiasis cases reported in 41 states: CDC - ABC News - Breaking News, Latest News and Videos",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "sourceType": "newsroom",
-      "published": "2026-11-17T03:30:27Z",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcjFGNXdMLUNQNzUzOWJmQmNNV1F4NlRSeWMzXzFHMDBmMWo3elduQ1RpZXZZdl9WUmlvdFB0SkNpdlE0ejdnLUs1bEpTXzM2clZOWHFHa0ptbXJQYU1Yc1duc0xHak5oaTZKSGNneHd2RUd5UXJlSjNwb3JCajJnek9NMnVsM3p4eVJXS0k4X0xham1VZ1ZlTmFEc9IBoAFBVV95cUxQM1dkMWNBZ1VidUtPWHdBZWpEcmFLYU9LRTJ0RnhGeHVmUktNWnJsOEtYNTVzYjJIV0JOUnVCbHVuWUhveTlrVE11ZHh6MjY1WlJheHhVYnRNVW03Wk5FdGJCemJlcV80OVlQWFg5UHlSVzdWTWZNNkNXQ09tUWlHMmc2eFljcUZNLTVoVmotT3NrcWlKRUlQNE5Lb092QTZ3?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "Congress Pushes for Investigation Into Impact of Trump Admin Cuts at FDA, CDC on Cyclospora Outbreak - Food Safety Magazine",
-      "source": "Food Safety Magazine",
-      "sourceType": "newsroom",
-      "published": "2026-11-18T13:59:38Z",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaG1OVTVTR1YyQTNKTHlad2syU1BQaGtDTGdfa1RKeXNTZ0V2MUtjX2ZzWkc0QXVYWlItNVhlOGh6dmozcHBSRXhPWGkxX3ZCeHIxWlRhckVwLWk0NGRCQUVJWXRQS0lWa0pIV1h2S29BOVAzMTBkNmJiR3h6RmRWM0ZKX3ZlYk0zbm5Fc2JXb0ZKaTd5Sl9FWDZRb3ppT2tRanJzLUZrM2s3NmZBRklQZ2xXRFJCY1d4Vkl6cGpJRWFxb0F1MzFzb0FEdTd2U3JTanJQNVV6MlAtdw?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "California plans research project to investigate Cyclospora contamination of lettuce - Food Safety News",
-      "source": "Food Safety News",
-      "sourceType": "newsroom",
-      "published": "2026-11-18T05:09:08Z",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZXdNRGpfY0Zib3FZNWh6X1ZJTGtlSEN2S3ZzRWtmZWxabTFIUW5VQ3RjUktpWkxpem5RSHRZVldkVHJlczdlUnVhZDk1dW15LVV4MW5idjdneno4d2RZTTA4Y1phVGVVbVRrNlI2UnJaN09odHVKVzlNcWtocngxM1d4SXBZbjJsV0tlZmtBS1BRNk1BNUMzZHlIMmlEaUR1NTFORmIyeVdEOUhDSDdVcDk0X2hJSkYxbE1Sbmk3dmpJUQ?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     },
     {
@@ -229,23 +237,15 @@
       "published": "2026-11-18T04:25:18Z",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQjcxb2V6LVZ2U1FvT0RZWHhNUURGazBySXRfRzJvUnZ4eWhzeGV3N0lTdENMSHRsbEd4RHpPNkZMdFBUa2o1cnMyMXg4N28wT0d1MXdGU1dkdTd1bEZrbS1qSXRfZzQ0UEluRXZVVXZWSVB4U2hDWFRxNFF1QjJjZ2JNWnhOaW55Yi1GZFBJUGFXdUZwUVdhWUFvZHJNTjVoMEdZTUU2X3Q3U1lEWFB2NG01Mm5KcVdkMTZ3bTZxVngzUWpMTkE?oc=5",
       "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
-    },
-    {
-      "title": "Democrats Ask Watchdog to Probe FDA Cuts and Cyclospora Outbreak - Bloomberg Government News",
-      "source": "Bloomberg Government News",
-      "sourceType": "newsroom",
-      "published": "2026-11-17T16:23:00Z",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeW51X25IcEJoVldpYzZQZ3ZVNHdWU216QUlKODVQOGVraWQydkJfUXhKZEhCNGdFdHYtanFqLU1JZXYzVURTTndRQlFqQldaZXQ0UldwYlA0eno2dnkySHRTQUdZelJ3ekU1TC1QNkR3U2R2ajFaWHVKTFhCanVOdFp6alNaYkYxbTlCdVpRclRyOFNvdG1wbFlEd2lUTnBmcXRKcDVPd2Fnbml3cjRZ?oc=5",
-      "summary": "Headline metadata from the daily news index. Open the source for full context and verify safety actions against CDC or FDA."
     }
   ],
   "blog": {
-    "date": "2026-11-18",
-    "window": "News published on November 17, 2026",
+    "date": "2026-11-19",
+    "window": "News published on November 18, 2026",
     "title": "News in Reverse: start with the verified scope",
-    "dek": "Yesterday’s public feed contained 3 indexed item(s). The daily brief works backward from official scope before adding headlines.",
+    "dek": "Yesterday’s public feed contained 4 indexed item(s). The daily brief works backward from official scope before adding headlines.",
     "paragraphs": [
-      "The headline trail, newest first: More than 11,500 cyclosporiasis cases reported in 41 states: CDC - ABC News; Democrats Ask Watchdog to Probe FDA Cuts and Cyclospora Outbreak; Democrats Ask Watchdog to Probe FDA Cuts, Cyclospora Outbreak (1).",
+      "The headline trail, newest first: San Antonio Woman Still Sick with Cyclospora Infection That Lasted 6 Months and Caused Her to Lose 30 lbs.; Three Senators Asked the HHS Inspector General to Investigate the Cyclospora Response. He Should Say Yes. Here Is What the Record Already Shows, and What I Would Add.; San Antonio woman says she’s still sick nearly 6 months after contracting cyclospora.",
       "The stable reference point remains 1,645 federally confirmed domestically acquired cases across 47 reporting states. State totals may be newer, broader, or include probable cases.",
       "The current federal source finding applies to a large five-state lettuce-linked subset. Water remains a possible general transmission route, but the current CDC and FDA pages do not identify a municipal water system as this outbreak’s source."
     ],
